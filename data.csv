@@ -1,0 +1,918 @@
+week,team_id,team,overall_eff,off_eff,def_eff,school,conference,color,logo
+2,61,Georgia,97.2,91,95.9,Georgia,SEC,#CC0000,http://a.espncdn.com/i/teamlogos/ncaa/500/61.png
+2,30,USC,96.4,99.3,71.6,USC,Pac-12,#ffc72c,http://a.espncdn.com/i/teamlogos/ncaa/500/30.png
+2,130,Michigan,95.3,89.9,92.1,Michigan,Big Ten,#00274c,http://a.espncdn.com/i/teamlogos/ncaa/500/130.png
+2,333,Alabama,93,85.7,89.1,Alabama,SEC,#690014,http://a.espncdn.com/i/teamlogos/ncaa/500/333.png
+2,344,Mississippi State,91.1,74.3,94.9,Mississippi State,SEC,#762123,http://a.espncdn.com/i/teamlogos/ncaa/500/344.png
+2,2306,Kansas State,89,51,94.7,Kansas State,Big 12,#633194,http://a.espncdn.com/i/teamlogos/ncaa/500/2306.png
+2,2305,Kansas,88.9,96.5,47.9,Kansas,Big 12,#0022B4,http://a.espncdn.com/i/teamlogos/ncaa/500/2305.png
+2,276,Marshall,88.7,69.9,95.5,Marshall,Sun Belt,#00ae42,http://a.espncdn.com/i/teamlogos/ncaa/500/276.png
+2,2633,Tennessee,88.4,78.8,85.4,Tennessee,SEC,#EE9627,http://a.espncdn.com/i/teamlogos/ncaa/500/2633.png
+2,145,Ole Miss,88.3,79.9,82.5,Ole Miss,SEC,#001148,http://a.espncdn.com/i/teamlogos/ncaa/500/145.png
+2,256,James Madison,88,75.8,91,James Madison,Sun Belt,#450084,http://a.espncdn.com/i/teamlogos/ncaa/500/256.png
+2,183,Syracuse,87.7,82.2,76.4,Syracuse,ACC,#F37321,http://a.espncdn.com/i/teamlogos/ncaa/500/183.png
+2,194,Ohio State,87,93.7,73.7,Ohio State,Big Ten,#DE3121,http://a.espncdn.com/i/teamlogos/ncaa/500/194.png
+2,251,Texas,86.8,74.6,85.4,Texas,Big 12,#EE7524,http://a.espncdn.com/i/teamlogos/ncaa/500/251.png
+2,6,South Alabama,86.4,68.1,87.5,South Alabama,Sun Belt,#003E7E,http://a.espncdn.com/i/teamlogos/ncaa/500/6.png
+2,135,Minnesota,86.1,81.7,84.6,Minnesota,Big Ten,#981a31,http://a.espncdn.com/i/teamlogos/ncaa/500/135.png
+2,252,BYU,85.9,82.9,83.1,BYU,FBS Independents,#001E4C,http://a.espncdn.com/i/teamlogos/ncaa/500/252.png
+2,213,Penn State,84.5,78.5,77.4,Penn State,Big Ten,#00265D,http://a.espncdn.com/i/teamlogos/ncaa/500/213.png
+2,52,Florida State,84.3,83.1,48.9,Florida State,ACC,#782F40,http://a.espncdn.com/i/teamlogos/ncaa/500/52.png
+2,120,Maryland,84.2,90.7,59.2,Maryland,Big Ten,#D5002B,http://a.espncdn.com/i/teamlogos/ncaa/500/120.png
+2,96,Kentucky,83.6,51.7,94.7,Kentucky,SEC,#005DAA,http://a.espncdn.com/i/teamlogos/ncaa/500/96.png
+2,2005,Air Force,83,67.6,86.7,Air Force,Mountain West,#004a7b,http://a.espncdn.com/i/teamlogos/ncaa/500/2005.png
+2,264,Washington,82.7,91.6,61.3,Washington,Pac-12,#2B2F64,http://a.espncdn.com/i/teamlogos/ncaa/500/264.png
+2,2628,TCU,81.9,80.6,65.8,TCU,Big 12,#3C377D,http://a.espncdn.com/i/teamlogos/ncaa/500/2628.png
+2,239,Baylor,81.2,72.5,70.3,Baylor,Big 12,#004834,http://a.espncdn.com/i/teamlogos/ncaa/500/239.png
+2,150,Duke,80.9,87.6,66.5,Duke,ACC,#001A57,http://a.espncdn.com/i/teamlogos/ncaa/500/150.png
+2,127,Michigan State,80.7,64.9,83.6,Michigan State,Big Ten,#18453B,http://a.espncdn.com/i/teamlogos/ncaa/500/127.png
+2,2567,SMU,80.7,82.9,68,SMU,American Athletic,#E32F38,http://a.espncdn.com/i/teamlogos/ncaa/500/2567.png
+2,154,Wake Forest,79.9,59.7,89.9,Wake Forest,ACC,#9E7E38,http://a.espncdn.com/i/teamlogos/ncaa/500/154.png
+2,99,LSU,79.8,84.9,75.4,LSU,SEC,#fdd023,http://a.espncdn.com/i/teamlogos/ncaa/500/99.png
+2,204,Oregon State,78.9,78.6,67,Oregon State,Pac-12,#c34500,http://a.espncdn.com/i/teamlogos/ncaa/500/204.png
+2,8,Arkansas,78.6,79.8,66.8,Arkansas,SEC,#9c1831,http://a.espncdn.com/i/teamlogos/ncaa/500/8.png
+2,197,Oklahoma State,78.1,77.6,59.9,Oklahoma State,Big 12,#FF6500,http://a.espncdn.com/i/teamlogos/ncaa/500/197.png
+2,66,Iowa State,78.1,68.9,81,Iowa State,Big 12,#660015,http://a.espncdn.com/i/teamlogos/ncaa/500/66.png
+2,254,Utah,77.1,79.2,56.1,Utah,Pac-12,#890012,http://a.espncdn.com/i/teamlogos/ncaa/500/254.png
+2,228,Clemson,76.7,70.1,68.6,Clemson,ACC,#F66733,http://a.espncdn.com/i/teamlogos/ncaa/500/228.png
+2,2390,Miami,75.7,80.7,45.4,Miami,ACC,#004325,http://a.espncdn.com/i/teamlogos/ncaa/500/2390.png
+2,2655,Tulane,75.1,58.7,69.9,Tulane,American Athletic,#005837,http://a.espncdn.com/i/teamlogos/ncaa/500/2655.png
+2,2132,Cincinnati,74.7,55.8,76.8,Cincinnati,American Athletic,#000000,http://a.espncdn.com/i/teamlogos/ncaa/500/2132.png
+2,164,Rutgers,72.6,59.3,73.9,Rutgers,Big Ten,#d21034,http://a.espncdn.com/i/teamlogos/ncaa/500/164.png
+2,152,NC State,72.1,39.8,79.6,NC State,ACC,#EF1216,http://a.espncdn.com/i/teamlogos/ncaa/500/152.png
+2,248,Houston,71.3,39.9,82.2,Houston,American Athletic,#C90822,http://a.espncdn.com/i/teamlogos/ncaa/500/248.png
+2,201,Oklahoma,70.1,75.5,56.7,Oklahoma,Big 12,#7b0000,http://a.espncdn.com/i/teamlogos/ncaa/500/201.png
+2,2509,Purdue,70,73.6,63,Purdue,Big Ten,#B89D29,http://a.espncdn.com/i/teamlogos/ncaa/500/2509.png
+2,97,Louisville,69,46.7,75,Louisville,ACC,#ad000a,http://a.espncdn.com/i/teamlogos/ncaa/500/97.png
+2,356,Illinois,69,42.2,86.5,Illinois,Big Ten,#f77329,http://a.espncdn.com/i/teamlogos/ncaa/500/356.png
+2,2032,Arkansas State,68.1,67.5,45.3,Arkansas State,Sun Belt,#e81018,http://a.espncdn.com/i/teamlogos/ncaa/500/2032.png
+2,153,North Carolina,67,89.2,26.1,North Carolina,ACC,#99bfe5,http://a.espncdn.com/i/teamlogos/ncaa/500/153.png
+2,2579,South Carolina,66.8,48.1,59.2,South Carolina,SEC,#670010,http://a.espncdn.com/i/teamlogos/ncaa/500/2579.png
+2,9,Arizona State,66.3,58.5,72,Arizona State,Pac-12,#942139,http://a.espncdn.com/i/teamlogos/ncaa/500/9.png
+2,87,Notre Dame,65.4,39.4,73.6,Notre Dame,FBS Independents,#00122b,http://a.espncdn.com/i/teamlogos/ncaa/500/87.png
+2,265,Washington State,64.3,32.1,78,Washington State,Pac-12,#94022a,http://a.espncdn.com/i/teamlogos/ncaa/500/265.png
+2,5,UAB,63.6,36,76.2,UAB,Conference USA,#003b28,http://a.espncdn.com/i/teamlogos/ncaa/500/5.png
+2,2335,Liberty,63.1,42.8,78,Liberty,FBS Independents,#071740,http://a.espncdn.com/i/teamlogos/ncaa/500/2335.png
+2,2641,Texas Tech,62.4,61.1,66.9,Texas Tech,Big 12,#C80025,http://a.espncdn.com/i/teamlogos/ncaa/500/2641.png
+2,2026,Appalachian State,62.2,83,41.2,Appalachian State,Sun Belt,#000000,http://a.espncdn.com/i/teamlogos/ncaa/500/2026.png
+2,235,Memphis,62.1,72,43.2,Memphis,American Athletic,#003087,http://a.espncdn.com/i/teamlogos/ncaa/500/235.png
+2,12,Arizona,61,48.4,76.4,Arizona,Pac-12,#002449,http://a.espncdn.com/i/teamlogos/ncaa/500/12.png
+2,2636,UT San Antonio,60.6,68.8,43.5,UT San Antonio,Conference USA,#002A5C,http://a.espncdn.com/i/teamlogos/ncaa/500/2636.png
+2,68,Boise State,60.6,19.1,88.7,Boise State,Mountain West,#09347A,http://a.espncdn.com/i/teamlogos/ncaa/500/68.png
+2,245,Texas A&M,59.9,27.6,73.1,Texas A&M,SEC,#5C0025,http://a.espncdn.com/i/teamlogos/ncaa/500/245.png
+2,57,Florida,59.6,39,70.2,Florida,SEC,#0021A5,http://a.espncdn.com/i/teamlogos/ncaa/500/57.png
+2,259,Virginia Tech,59.4,23.3,89.9,Virginia Tech,ACC,#74232D,http://a.espncdn.com/i/teamlogos/ncaa/500/259.png
+2,98,Western Kentucky,58.6,48.5,74.9,Western Kentucky,Conference USA,#F32026,http://a.espncdn.com/i/teamlogos/ncaa/500/98.png
+2,2439,UNLV,58.5,60.8,44,UNLV,Mountain West,#000000,http://a.espncdn.com/i/teamlogos/ncaa/500/2439.png
+2,290,Georgia Southern,57.8,69.3,28.7,Georgia Southern,Sun Belt,#003775,http://a.espncdn.com/i/teamlogos/ncaa/500/290.png
+2,142,Missouri,57.1,34.6,76.3,Missouri,SEC,#000000,http://a.espncdn.com/i/teamlogos/ncaa/500/142.png
+2,2649,Toledo,57,33.5,72.8,Toledo,Mid-American,#ffffff,http://a.espncdn.com/i/teamlogos/ncaa/500/2649.png
+2,2,Auburn,56.7,56.4,44.2,Auburn,SEC,#03244d,http://a.espncdn.com/i/teamlogos/ncaa/500/2.png
+2,221,Pittsburgh,56.4,46.5,67.4,Pittsburgh,ACC,#003263,http://a.espncdn.com/i/teamlogos/ncaa/500/221.png
+2,151,East Carolina,56,64,60.1,East Carolina,American Athletic,#4b1869,http://a.espncdn.com/i/teamlogos/ncaa/500/151.png
+2,2483,Oregon,55.6,77.3,21.9,Oregon,Pac-12,#044520,http://a.espncdn.com/i/teamlogos/ncaa/500/2483.png
+2,2116,UCF,54.9,48.1,71.1,UCF,American Athletic,#000000,http://a.espncdn.com/i/teamlogos/ncaa/500/2116.png
+2,275,Wisconsin,54,59.8,54.8,Wisconsin,Big Ten,#A00001,http://a.espncdn.com/i/teamlogos/ncaa/500/275.png
+2,2226,Florida Atlantic,53.9,54.4,56.1,Florida Atlantic,Conference USA,#004B85,http://a.espncdn.com/i/teamlogos/ncaa/500/2226.png
+2,309,Louisiana,52.5,38.3,57.8,Louisiana,Sun Belt,#ce2842,http://a.espncdn.com/i/teamlogos/ncaa/500/309.png
+2,238,Vanderbilt,50.6,41.5,55.1,Vanderbilt,SEC,#000000,http://a.espncdn.com/i/teamlogos/ncaa/500/238.png
+2,278,Fresno State,50.6,65.6,35,Fresno State,Mountain West,#c41230,http://a.espncdn.com/i/teamlogos/ncaa/500/278.png
+2,25,California,49.4,35.6,65.3,California,Pac-12,#031522,http://a.espncdn.com/i/teamlogos/ncaa/500/25.png
+2,26,UCLA,47.6,60.6,53.1,UCLA,Pac-12,#005C8E,http://a.espncdn.com/i/teamlogos/ncaa/500/26.png
+2,2393,Middle Tennessee,47.4,16.5,70.5,Middle Tennessee,Conference USA,#0079C2,http://a.espncdn.com/i/teamlogos/ncaa/500/2393.png
+2,84,Indiana,47.1,44.2,46.1,Indiana,Big Ten,#7D110C,http://a.espncdn.com/i/teamlogos/ncaa/500/84.png
+2,2572,Southern Mississippi,45.5,23.7,65.8,Southern Mississippi,Sun Belt,#FFAA3C,http://a.espncdn.com/i/teamlogos/ncaa/500/2572.png
+2,2294,Iowa,45.4,1.5,90.1,Iowa,Big Ten,#000000,http://a.espncdn.com/i/teamlogos/ncaa/500/2294.png
+2,295,Old Dominion,44.5,21.4,60.9,Old Dominion,Sun Belt,#00507d,http://a.espncdn.com/i/teamlogos/ncaa/500/295.png
+2,59,Georgia Tech,44.4,50.7,48,Georgia Tech,ACC,#00223e,http://a.espncdn.com/i/teamlogos/ncaa/500/59.png
+2,2711,Western Michigan,44.4,53.9,36.3,Western Michigan,Mid-American,#532e1f,http://a.espncdn.com/i/teamlogos/ncaa/500/2711.png
+2,195,Ohio,42.6,61.2,26.6,Ohio,Mid-American,#295A29,http://a.espncdn.com/i/teamlogos/ncaa/500/195.png
+2,77,Northwestern,41.4,48.1,37.4,Northwestern,Big Ten,#372286,http://a.espncdn.com/i/teamlogos/ncaa/500/77.png
+2,242,Rice,40.9,35.2,48.5,Rice,Conference USA,#003D7D,http://a.espncdn.com/i/teamlogos/ncaa/500/242.png
+2,277,West Virginia,39.5,64.3,18.5,West Virginia,Big 12,#FFC600,http://a.espncdn.com/i/teamlogos/ncaa/500/277.png
+2,158,Nebraska,39.1,66.1,21.7,Nebraska,Big Ten,#F20017,http://a.espncdn.com/i/teamlogos/ncaa/500/158.png
+2,2309,Kent State,38.6,47.6,31.8,Kent State,Mid-American,#002445,http://a.espncdn.com/i/teamlogos/ncaa/500/2309.png
+2,202,Tulsa,38.2,60.6,36.2,Tulsa,American Athletic,#004371,http://a.espncdn.com/i/teamlogos/ncaa/500/202.png
+2,2348,Louisiana Tech,38.1,25.7,66.6,Louisiana Tech,Conference USA,#002d65,http://a.espncdn.com/i/teamlogos/ncaa/500/2348.png
+2,2247,Georgia State,37.5,27.4,71.7,Georgia State,Sun Belt,#1e539a,http://a.espncdn.com/i/teamlogos/ncaa/500/2247.png
+2,2459,Northern Illinois,37.5,63.9,16,Northern Illinois,Mid-American,#F1122C,http://a.espncdn.com/i/teamlogos/ncaa/500/2459.png
+2,24,Stanford,36.9,72.5,22.7,Stanford,Pac-12,#A80532,http://a.espncdn.com/i/teamlogos/ncaa/500/24.png
+2,193,Miami (OH),36.3,35.6,51.6,Miami (OH),Mid-American,#a4000c,http://a.espncdn.com/i/teamlogos/ncaa/500/193.png
+2,167,New Mexico,36.1,16.2,81,New Mexico,Mountain West,#000000,http://a.espncdn.com/i/teamlogos/ncaa/500/167.png
+2,249,North Texas,35.7,63.9,18.1,North Texas,Conference USA,#00853D,http://a.espncdn.com/i/teamlogos/ncaa/500/249.png
+2,2433,Louisiana Monroe,35.6,42.7,41.5,Louisiana Monroe,Sun Belt,#231F20,http://a.espncdn.com/i/teamlogos/ncaa/500/2433.png
+2,349,Army,35,68.7,18.9,Army,FBS Independents,#ce9c00,http://a.espncdn.com/i/teamlogos/ncaa/500/349.png
+2,23,San José State,34.5,32,46.7,San José State,Mountain West,#005893,http://a.espncdn.com/i/teamlogos/ncaa/500/23.png
+2,2199,Eastern Michigan,33.5,53.1,19.5,Eastern Michigan,Mid-American,#00331b,http://a.espncdn.com/i/teamlogos/ncaa/500/2199.png
+2,103,Boston College,33.2,24.2,53,Boston College,ACC,#88001a,http://a.espncdn.com/i/teamlogos/ncaa/500/103.png
+2,258,Virginia,32.1,31.8,50.1,Virginia,ACC,#f84c1e,http://a.espncdn.com/i/teamlogos/ncaa/500/258.png
+2,2440,Nevada,29.6,18.2,46.2,Nevada,Mountain West,#153E5F,http://a.espncdn.com/i/teamlogos/ncaa/500/2440.png
+2,2653,Troy,29.5,20.4,45.5,Troy,Sun Belt,#AE0210,http://a.espncdn.com/i/teamlogos/ncaa/500/2653.png
+2,324,Coastal Carolina,29.3,39.3,16.3,Coastal Carolina,Sun Belt,#007073,http://a.espncdn.com/i/teamlogos/ncaa/500/324.png
+2,2751,Wyoming,29.2,11.5,44.7,Wyoming,Mountain West,#533B22,http://a.espncdn.com/i/teamlogos/ncaa/500/2751.png
+2,21,San Diego State,27.2,14.5,27.6,San Diego State,Mountain West,#BF2C37,http://a.espncdn.com/i/teamlogos/ncaa/500/21.png
+2,326,Texas State,27.2,12.8,70.5,Texas State,Sun Belt,#4e1719,http://a.espncdn.com/i/teamlogos/ncaa/500/326.png
+2,2050,Ball State,23.3,27,26,Ball State,Mid-American,#DA0000,http://a.espncdn.com/i/teamlogos/ncaa/500/2050.png
+2,189,Bowling Green,21.3,21.4,19.6,Bowling Green,Mid-American,#2b1000,http://a.espncdn.com/i/teamlogos/ncaa/500/189.png
+2,38,Colorado,20,6.9,68.6,Colorado,Pac-12,#d1c57e,http://a.espncdn.com/i/teamlogos/ncaa/500/38.png
+2,41,Connecticut,20,25.1,25,Connecticut,FBS Independents,#001d40,http://a.espncdn.com/i/teamlogos/ncaa/500/41.png
+2,2638,UTEP,18.8,22.9,22,UTEP,Conference USA,#ff8200,http://a.espncdn.com/i/teamlogos/ncaa/500/2638.png
+2,2084,Buffalo,17.9,43.2,10.9,Buffalo,Mid-American,#041A9B,http://a.espncdn.com/i/teamlogos/ncaa/500/2084.png
+2,2117,Central Michigan,15.9,47.5,12.3,Central Michigan,Mid-American,#6a0032,http://a.espncdn.com/i/teamlogos/ncaa/500/2117.png
+2,218,Temple,15.6,7.8,34.7,Temple,American Athletic,#A80532,http://a.espncdn.com/i/teamlogos/ncaa/500/218.png
+2,328,Utah State,15.6,8.8,33.2,Utah State,Mountain West,#003263,http://a.espncdn.com/i/teamlogos/ncaa/500/328.png
+2,2006,Akron,14.7,13.1,27.9,Akron,Mid-American,#00285e,http://a.espncdn.com/i/teamlogos/ncaa/500/2006.png
+2,166,New Mexico State,13.7,10.3,34.9,New Mexico State,FBS Independents,#891216,http://a.espncdn.com/i/teamlogos/ncaa/500/166.png
+2,2426,Navy,13.1,5,46.5,Navy,American Athletic,#131630,http://a.espncdn.com/i/teamlogos/ncaa/500/2426.png
+2,36,Colorado State,9.2,3.1,40.7,Colorado State,Mountain West,#004537,http://a.espncdn.com/i/teamlogos/ncaa/500/36.png
+2,113,UMass,8.8,30.2,8.5,UMass,FBS Independents,#880007,http://a.espncdn.com/i/teamlogos/ncaa/500/113.png
+2,58,South Florida,7.3,14.5,9.8,South Florida,American Athletic,#004A36,http://a.espncdn.com/i/teamlogos/ncaa/500/58.png
+2,2429,Charlotte,6.5,31,2,Charlotte,Conference USA,#ffffff,http://a.espncdn.com/i/teamlogos/ncaa/500/2429.png
+2,2229,Florida International,6.3,12.3,7,Florida International,Conference USA,#001538,http://a.espncdn.com/i/teamlogos/ncaa/500/2229.png
+2,62,Hawai'i,4.7,4.7,10.5,Hawai'i,Mountain West,#003420,http://a.espncdn.com/i/teamlogos/ncaa/500/62.png
+3,61,Georgia,98.8,95.9,96.7,Georgia,SEC,#CC0000,http://a.espncdn.com/i/teamlogos/ncaa/500/61.png
+3,130,Michigan,95.7,84.9,93.3,Michigan,Big Ten,#00274c,http://a.espncdn.com/i/teamlogos/ncaa/500/130.png
+3,333,Alabama,94.5,83.3,90.1,Alabama,SEC,#690014,http://a.espncdn.com/i/teamlogos/ncaa/500/333.png
+3,30,USC,93.6,97.2,68,USC,Pac-12,#ffc72c,http://a.espncdn.com/i/teamlogos/ncaa/500/30.png
+3,145,Ole Miss,92.9,84,88.6,Ole Miss,SEC,#001148,http://a.espncdn.com/i/teamlogos/ncaa/500/145.png
+3,2305,Kansas,92.3,97.8,56.4,Kansas,Big 12,#0022B4,http://a.espncdn.com/i/teamlogos/ncaa/500/2305.png
+3,194,Ohio State,89.5,96.9,63.9,Ohio State,Big Ten,#DE3121,http://a.espncdn.com/i/teamlogos/ncaa/500/194.png
+3,213,Penn State,89.5,82.9,83.3,Penn State,Big Ten,#00265D,http://a.espncdn.com/i/teamlogos/ncaa/500/213.png
+3,135,Minnesota,89.2,83.9,88.4,Minnesota,Big Ten,#981a31,http://a.espncdn.com/i/teamlogos/ncaa/500/135.png
+3,264,Washington,88.4,92.5,69.7,Washington,Pac-12,#2B2F64,http://a.espncdn.com/i/teamlogos/ncaa/500/264.png
+3,2633,Tennessee,88.4,84.7,81.6,Tennessee,SEC,#EE9627,http://a.espncdn.com/i/teamlogos/ncaa/500/2633.png
+3,256,James Madison,87.4,74.7,90.9,James Madison,Sun Belt,#450084,http://a.espncdn.com/i/teamlogos/ncaa/500/256.png
+3,201,Oklahoma,86,84.9,74.9,Oklahoma,Big 12,#7b0000,http://a.espncdn.com/i/teamlogos/ncaa/500/201.png
+3,344,Mississippi State,83.7,57.2,92.3,Mississippi State,SEC,#762123,http://a.espncdn.com/i/teamlogos/ncaa/500/344.png
+3,204,Oregon State,82.4,86.1,66.2,Oregon State,Pac-12,#c34500,http://a.espncdn.com/i/teamlogos/ncaa/500/204.png
+3,251,Texas,82.4,76,77,Texas,Big 12,#EE7524,http://a.espncdn.com/i/teamlogos/ncaa/500/251.png
+3,197,Oklahoma State,82.2,76.1,63.8,Oklahoma State,Big 12,#FF6500,http://a.espncdn.com/i/teamlogos/ncaa/500/197.png
+3,52,Florida State,81.8,86.4,56.8,Florida State,ACC,#782F40,http://a.espncdn.com/i/teamlogos/ncaa/500/52.png
+3,99,LSU,81.6,75.2,85,LSU,SEC,#fdd023,http://a.espncdn.com/i/teamlogos/ncaa/500/99.png
+3,66,Iowa State,81.2,64.8,87.6,Iowa State,Big 12,#660015,http://a.espncdn.com/i/teamlogos/ncaa/500/66.png
+3,6,South Alabama,81,71.7,79.2,South Alabama,Sun Belt,#003E7E,http://a.espncdn.com/i/teamlogos/ncaa/500/6.png
+3,96,Kentucky,80.8,48.9,93.8,Kentucky,SEC,#005DAA,http://a.espncdn.com/i/teamlogos/ncaa/500/96.png
+3,2655,Tulane,80.3,56.7,83.5,Tulane,American Athletic,#005837,http://a.espncdn.com/i/teamlogos/ncaa/500/2655.png
+3,2628,TCU,79.5,78.5,63.1,TCU,Big 12,#3C377D,http://a.espncdn.com/i/teamlogos/ncaa/500/2628.png
+3,239,Baylor,78,73.7,64.2,Baylor,Big 12,#004834,http://a.espncdn.com/i/teamlogos/ncaa/500/239.png
+3,150,Duke,77.7,87.5,59.2,Duke,ACC,#001A57,http://a.espncdn.com/i/teamlogos/ncaa/500/150.png
+3,120,Maryland,77.2,82.3,60.4,Maryland,Big Ten,#D5002B,http://a.espncdn.com/i/teamlogos/ncaa/500/120.png
+3,254,Utah,77,73.7,65.7,Utah,Pac-12,#890012,http://a.espncdn.com/i/teamlogos/ncaa/500/254.png
+3,2483,Oregon,76.4,85,41.9,Oregon,Pac-12,#044520,http://a.espncdn.com/i/teamlogos/ncaa/500/2483.png
+3,252,BYU,76.2,77.9,71.9,BYU,FBS Independents,#001E4C,http://a.espncdn.com/i/teamlogos/ncaa/500/252.png
+3,183,Syracuse,76.1,74.6,61.6,Syracuse,ACC,#F37321,http://a.espncdn.com/i/teamlogos/ncaa/500/183.png
+3,152,NC State,75.4,33,86.8,NC State,ACC,#EF1216,http://a.espncdn.com/i/teamlogos/ncaa/500/152.png
+3,2509,Purdue,73.6,76.8,65.6,Purdue,Big Ten,#B89D29,http://a.espncdn.com/i/teamlogos/ncaa/500/2509.png
+3,228,Clemson,73.3,68.7,69.4,Clemson,ACC,#F66733,http://a.espncdn.com/i/teamlogos/ncaa/500/228.png
+3,265,Washington State,73.1,44.9,80,Washington State,Pac-12,#94022a,http://a.espncdn.com/i/teamlogos/ncaa/500/265.png
+3,2567,SMU,71.3,67.9,67.1,SMU,American Athletic,#E32F38,http://a.espncdn.com/i/teamlogos/ncaa/500/2567.png
+3,2390,Miami,70.9,77.3,55.9,Miami,ACC,#004325,http://a.espncdn.com/i/teamlogos/ncaa/500/2390.png
+3,2132,Cincinnati,70,54.4,74.8,Cincinnati,American Athletic,#000000,http://a.espncdn.com/i/teamlogos/ncaa/500/2132.png
+3,275,Wisconsin,68.5,68,67.2,Wisconsin,Big Ten,#A00001,http://a.espncdn.com/i/teamlogos/ncaa/500/275.png
+3,221,Pittsburgh,68.5,54.3,82.7,Pittsburgh,ACC,#003263,http://a.espncdn.com/i/teamlogos/ncaa/500/221.png
+3,356,Illinois,68.2,40.3,86.9,Illinois,Big Ten,#f77329,http://a.espncdn.com/i/teamlogos/ncaa/500/356.png
+3,154,Wake Forest,67.9,50,76.8,Wake Forest,ACC,#9E7E38,http://a.espncdn.com/i/teamlogos/ncaa/500/154.png
+3,5,UAB,67.8,47.7,75.2,UAB,Conference USA,#003b28,http://a.espncdn.com/i/teamlogos/ncaa/500/5.png
+3,2116,UCF,67.3,60.7,72.8,UCF,American Athletic,#000000,http://a.espncdn.com/i/teamlogos/ncaa/500/2116.png
+3,245,Texas A&M,67.1,30.9,74,Texas A&M,SEC,#5C0025,http://a.espncdn.com/i/teamlogos/ncaa/500/245.png
+3,2306,Kansas State,67,29.7,87.7,Kansas State,Big 12,#633194,http://a.espncdn.com/i/teamlogos/ncaa/500/2306.png
+3,127,Michigan State,66.8,58,68.7,Michigan State,Big Ten,#18453B,http://a.espncdn.com/i/teamlogos/ncaa/500/127.png
+3,2335,Liberty,65.7,46.7,80,Liberty,FBS Independents,#071740,http://a.espncdn.com/i/teamlogos/ncaa/500/2335.png
+3,276,Marshall,65,52.8,72.8,Marshall,Sun Belt,#00ae42,http://a.espncdn.com/i/teamlogos/ncaa/500/276.png
+3,153,North Carolina,63.9,86,26.6,North Carolina,ACC,#99bfe5,http://a.espncdn.com/i/teamlogos/ncaa/500/153.png
+3,9,Arizona State,63.9,57.1,69.5,Arizona State,Pac-12,#942139,http://a.espncdn.com/i/teamlogos/ncaa/500/9.png
+3,2005,Air Force,62.6,59.1,63.4,Air Force,Mountain West,#004a7b,http://a.espncdn.com/i/teamlogos/ncaa/500/2005.png
+3,164,Rutgers,61.9,39.3,72.8,Rutgers,Big Ten,#d21034,http://a.espncdn.com/i/teamlogos/ncaa/500/164.png
+3,97,Louisville,61.9,43.8,66.3,Louisville,ACC,#ad000a,http://a.espncdn.com/i/teamlogos/ncaa/500/97.png
+3,2032,Arkansas State,60.2,64.7,39.3,Arkansas State,Sun Belt,#e81018,http://a.espncdn.com/i/teamlogos/ncaa/500/2032.png
+3,2636,UT San Antonio,60.1,66.1,45.2,UT San Antonio,Conference USA,#002A5C,http://a.espncdn.com/i/teamlogos/ncaa/500/2636.png
+3,25,California,59.8,47.9,71.8,California,Pac-12,#031522,http://a.espncdn.com/i/teamlogos/ncaa/500/25.png
+3,98,Western Kentucky,59.6,57.9,67.2,Western Kentucky,Conference USA,#F32026,http://a.espncdn.com/i/teamlogos/ncaa/500/98.png
+3,87,Notre Dame,59,35.4,67.9,Notre Dame,FBS Independents,#00122b,http://a.espncdn.com/i/teamlogos/ncaa/500/87.png
+3,2439,UNLV,58,66.3,41.3,UNLV,Mountain West,#000000,http://a.espncdn.com/i/teamlogos/ncaa/500/2439.png
+3,68,Boise State,57.5,24,80.8,Boise State,Mountain West,#09347A,http://a.espncdn.com/i/teamlogos/ncaa/500/68.png
+3,277,West Virginia,57,75,31.6,West Virginia,Big 12,#FFC600,http://a.espncdn.com/i/teamlogos/ncaa/500/277.png
+3,12,Arizona,57,61.8,54.4,Arizona,Pac-12,#002449,http://a.espncdn.com/i/teamlogos/ncaa/500/12.png
+3,259,Virginia Tech,56.6,27.7,84.8,Virginia Tech,ACC,#74232D,http://a.espncdn.com/i/teamlogos/ncaa/500/259.png
+3,2393,Middle Tennessee,56.4,26,69.3,Middle Tennessee,Conference USA,#0079C2,http://a.espncdn.com/i/teamlogos/ncaa/500/2393.png
+3,8,Arkansas,56.2,64,44.7,Arkansas,SEC,#9c1831,http://a.espncdn.com/i/teamlogos/ncaa/500/8.png
+3,151,East Carolina,55.1,69.4,42.8,East Carolina,American Athletic,#4b1869,http://a.espncdn.com/i/teamlogos/ncaa/500/151.png
+3,235,Memphis,54.6,73.8,33.7,Memphis,American Athletic,#003087,http://a.espncdn.com/i/teamlogos/ncaa/500/235.png
+3,248,Houston,53.9,39.3,61.3,Houston,American Athletic,#C90822,http://a.espncdn.com/i/teamlogos/ncaa/500/248.png
+3,2572,Southern Mississippi,53.2,24.7,73,Southern Mississippi,Sun Belt,#FFAA3C,http://a.espncdn.com/i/teamlogos/ncaa/500/2572.png
+3,2294,Iowa,53.1,5.4,89,Iowa,Big Ten,#000000,http://a.espncdn.com/i/teamlogos/ncaa/500/2294.png
+3,142,Missouri,52.5,28.3,72.2,Missouri,SEC,#000000,http://a.espncdn.com/i/teamlogos/ncaa/500/142.png
+3,238,Vanderbilt,52.4,48.7,51.3,Vanderbilt,SEC,#000000,http://a.espncdn.com/i/teamlogos/ncaa/500/238.png
+3,2026,Appalachian State,52.1,79.8,25.9,Appalachian State,Sun Belt,#000000,http://a.espncdn.com/i/teamlogos/ncaa/500/2026.png
+3,57,Florida,51.8,37.4,61.8,Florida,SEC,#0021A5,http://a.espncdn.com/i/teamlogos/ncaa/500/57.png
+3,278,Fresno State,51.2,64.9,38.8,Fresno State,Mountain West,#c41230,http://a.espncdn.com/i/teamlogos/ncaa/500/278.png
+3,2641,Texas Tech,51,46.1,70.2,Texas Tech,Big 12,#C80025,http://a.espncdn.com/i/teamlogos/ncaa/500/2641.png
+3,242,Rice,50.3,37.3,61.4,Rice,Conference USA,#003D7D,http://a.espncdn.com/i/teamlogos/ncaa/500/242.png
+3,2653,Troy,49.7,49.8,48.7,Troy,Sun Belt,#AE0210,http://a.espncdn.com/i/teamlogos/ncaa/500/2653.png
+3,202,Tulsa,48.7,64.2,44.7,Tulsa,American Athletic,#004371,http://a.espncdn.com/i/teamlogos/ncaa/500/202.png
+3,2309,Kent State,48.3,69.8,22.3,Kent State,Mid-American,#002445,http://a.espncdn.com/i/teamlogos/ncaa/500/2309.png
+3,290,Georgia Southern,47.4,60,26,Georgia Southern,Sun Belt,#003775,http://a.espncdn.com/i/teamlogos/ncaa/500/290.png
+3,26,UCLA,47.3,59.8,43.2,UCLA,Pac-12,#005C8E,http://a.espncdn.com/i/teamlogos/ncaa/500/26.png
+3,2226,Florida Atlantic,47,52.5,47,Florida Atlantic,Conference USA,#004B85,http://a.espncdn.com/i/teamlogos/ncaa/500/2226.png
+3,295,Old Dominion,46.2,25.8,63.4,Old Dominion,Sun Belt,#00507d,http://a.espncdn.com/i/teamlogos/ncaa/500/295.png
+3,2649,Toledo,45.2,44.9,41.2,Toledo,Mid-American,#ffffff,http://a.espncdn.com/i/teamlogos/ncaa/500/2649.png
+3,2579,South Carolina,45,35.2,40.9,South Carolina,SEC,#670010,http://a.espncdn.com/i/teamlogos/ncaa/500/2579.png
+3,84,Indiana,44.5,41.2,44.4,Indiana,Big Ten,#7D110C,http://a.espncdn.com/i/teamlogos/ncaa/500/84.png
+3,349,Army,44.2,76.9,21.3,Army,FBS Independents,#ce9c00,http://a.espncdn.com/i/teamlogos/ncaa/500/349.png
+3,309,Louisiana,43.8,30.8,55.6,Louisiana,Sun Belt,#ce2842,http://a.espncdn.com/i/teamlogos/ncaa/500/309.png
+3,2,Auburn,42.6,44.5,37.9,Auburn,SEC,#03244d,http://a.espncdn.com/i/teamlogos/ncaa/500/2.png
+3,167,New Mexico,42.3,14,87.3,New Mexico,Mountain West,#000000,http://a.espncdn.com/i/teamlogos/ncaa/500/167.png
+3,2348,Louisiana Tech,41.6,33.5,54.5,Louisiana Tech,Conference USA,#002d65,http://a.espncdn.com/i/teamlogos/ncaa/500/2348.png
+3,324,Coastal Carolina,38.4,36.3,39.9,Coastal Carolina,Sun Belt,#007073,http://a.espncdn.com/i/teamlogos/ncaa/500/324.png
+3,2711,Western Michigan,37.8,43.7,30,Western Michigan,Mid-American,#532e1f,http://a.espncdn.com/i/teamlogos/ncaa/500/2711.png
+3,59,Georgia Tech,36.1,37.2,46.4,Georgia Tech,ACC,#00223e,http://a.espncdn.com/i/teamlogos/ncaa/500/59.png
+3,193,Miami (OH),36,32.8,48.2,Miami (OH),Mid-American,#a4000c,http://a.espncdn.com/i/teamlogos/ncaa/500/193.png
+3,24,Stanford,35.9,70.4,23.8,Stanford,Pac-12,#A80532,http://a.espncdn.com/i/teamlogos/ncaa/500/24.png
+3,2751,Wyoming,35.7,17.7,48.4,Wyoming,Mountain West,#533B22,http://a.espncdn.com/i/teamlogos/ncaa/500/2751.png
+3,258,Virginia,34.9,34.9,45.1,Virginia,ACC,#f84c1e,http://a.espncdn.com/i/teamlogos/ncaa/500/258.png
+3,195,Ohio,34.1,45.6,29.9,Ohio,Mid-American,#295A29,http://a.espncdn.com/i/teamlogos/ncaa/500/195.png
+3,103,Boston College,33.1,29.8,51.8,Boston College,ACC,#88001a,http://a.espncdn.com/i/teamlogos/ncaa/500/103.png
+3,249,North Texas,32.4,64.8,14.1,North Texas,Conference USA,#00853D,http://a.espncdn.com/i/teamlogos/ncaa/500/249.png
+3,2199,Eastern Michigan,31.7,52.7,17.8,Eastern Michigan,Mid-American,#00331b,http://a.espncdn.com/i/teamlogos/ncaa/500/2199.png
+3,23,San José State,31.2,28.5,44.7,San José State,Mountain West,#005893,http://a.espncdn.com/i/teamlogos/ncaa/500/23.png
+3,189,Bowling Green,31,33.6,29.3,Bowling Green,Mid-American,#2b1000,http://a.espncdn.com/i/teamlogos/ncaa/500/189.png
+3,2459,Northern Illinois,30.3,56.7,14.8,Northern Illinois,Mid-American,#F1122C,http://a.espncdn.com/i/teamlogos/ncaa/500/2459.png
+3,21,San Diego State,29.4,10.5,40.8,San Diego State,Mountain West,#BF2C37,http://a.espncdn.com/i/teamlogos/ncaa/500/21.png
+3,158,Nebraska,29.3,54.8,17.7,Nebraska,Big Ten,#F20017,http://a.espncdn.com/i/teamlogos/ncaa/500/158.png
+3,326,Texas State,27.2,18.1,58.4,Texas State,Sun Belt,#4e1719,http://a.espncdn.com/i/teamlogos/ncaa/500/326.png
+3,2247,Georgia State,25.8,21.6,54,Georgia State,Sun Belt,#1e539a,http://a.espncdn.com/i/teamlogos/ncaa/500/2247.png
+3,2440,Nevada,25.6,17.9,40.8,Nevada,Mountain West,#153E5F,http://a.espncdn.com/i/teamlogos/ncaa/500/2440.png
+3,2050,Ball State,25,18.3,38.9,Ball State,Mid-American,#DA0000,http://a.espncdn.com/i/teamlogos/ncaa/500/2050.png
+3,2433,Louisiana Monroe,24.7,33.5,42.5,Louisiana Monroe,Sun Belt,#231F20,http://a.espncdn.com/i/teamlogos/ncaa/500/2433.png
+3,58,South Florida,24.3,37.3,18.9,South Florida,American Athletic,#004A36,http://a.espncdn.com/i/teamlogos/ncaa/500/58.png
+3,77,Northwestern,22.4,24.9,27.8,Northwestern,Big Ten,#372286,http://a.espncdn.com/i/teamlogos/ncaa/500/77.png
+3,2084,Buffalo,21.4,27.8,23.3,Buffalo,Mid-American,#041A9B,http://a.espncdn.com/i/teamlogos/ncaa/500/2084.png
+3,218,Temple,19.1,7.3,51.5,Temple,American Athletic,#A80532,http://a.espncdn.com/i/teamlogos/ncaa/500/218.png
+3,2117,Central Michigan,17.5,37.1,19.6,Central Michigan,Mid-American,#6a0032,http://a.espncdn.com/i/teamlogos/ncaa/500/2117.png
+3,2429,Charlotte,16.7,46.1,7.5,Charlotte,Conference USA,#ffffff,http://a.espncdn.com/i/teamlogos/ncaa/500/2429.png
+3,113,UMass,16,23.5,26.2,UMass,FBS Independents,#880007,http://a.espncdn.com/i/teamlogos/ncaa/500/113.png
+3,2006,Akron,15.1,15.9,23.7,Akron,Mid-American,#00285e,http://a.espncdn.com/i/teamlogos/ncaa/500/2006.png
+3,38,Colorado,14.5,4.6,54.8,Colorado,Pac-12,#d1c57e,http://a.espncdn.com/i/teamlogos/ncaa/500/38.png
+3,2638,UTEP,14.2,13,27.6,UTEP,Conference USA,#ff8200,http://a.espncdn.com/i/teamlogos/ncaa/500/2638.png
+3,41,Connecticut,14.1,16.8,25,Connecticut,FBS Independents,#001d40,http://a.espncdn.com/i/teamlogos/ncaa/500/41.png
+3,2426,Navy,14,4.5,51.3,Navy,American Athletic,#131630,http://a.espncdn.com/i/teamlogos/ncaa/500/2426.png
+3,328,Utah State,13.7,8.3,29.7,Utah State,Mountain West,#003263,http://a.espncdn.com/i/teamlogos/ncaa/500/328.png
+3,166,New Mexico State,11.4,9.1,27.2,New Mexico State,FBS Independents,#891216,http://a.espncdn.com/i/teamlogos/ncaa/500/166.png
+3,62,Hawai'i,8.3,4.7,18.6,Hawai'i,Mountain West,#003420,http://a.espncdn.com/i/teamlogos/ncaa/500/62.png
+3,36,Colorado State,8,6.1,29.9,Colorado State,Mountain West,#004537,http://a.espncdn.com/i/teamlogos/ncaa/500/36.png
+3,2229,Florida International,5.5,10.3,7,Florida International,Conference USA,#001538,http://a.espncdn.com/i/teamlogos/ncaa/500/2229.png
+4,333,Alabama,94.7,85.9,91.2,Alabama,SEC,#690014,http://a.espncdn.com/i/teamlogos/ncaa/500/333.png
+4,135,Minnesota,94.5,88.4,94.3,Minnesota,Big Ten,#981a31,http://a.espncdn.com/i/teamlogos/ncaa/500/135.png
+4,61,Georgia,94,89.1,91.3,Georgia,SEC,#CC0000,http://a.espncdn.com/i/teamlogos/ncaa/500/61.png
+4,194,Ohio State,93.1,97.5,71.8,Ohio State,Big Ten,#DE3121,http://a.espncdn.com/i/teamlogos/ncaa/500/194.png
+4,30,USC,89.6,89.3,75.9,USC,Pac-12,#ffc72c,http://a.espncdn.com/i/teamlogos/ncaa/500/30.png
+4,130,Michigan,88.6,79.5,84.3,Michigan,Big Ten,#00274c,http://a.espncdn.com/i/teamlogos/ncaa/500/130.png
+4,2305,Kansas,86.9,96.3,50,Kansas,Big 12,#0022B4,http://a.espncdn.com/i/teamlogos/ncaa/500/2305.png
+4,264,Washington,86.6,87.9,73.1,Washington,Pac-12,#2B2F64,http://a.espncdn.com/i/teamlogos/ncaa/500/264.png
+4,2628,TCU,86.3,89.5,62.2,TCU,Big 12,#3C377D,http://a.espncdn.com/i/teamlogos/ncaa/500/2628.png
+4,52,Florida State,85.2,87.4,63.6,Florida State,ACC,#782F40,http://a.espncdn.com/i/teamlogos/ncaa/500/52.png
+4,145,Ole Miss,85.2,82.6,74.1,Ole Miss,SEC,#001148,http://a.espncdn.com/i/teamlogos/ncaa/500/145.png
+4,213,Penn State,84.3,73.7,80,Penn State,Big Ten,#00265D,http://a.espncdn.com/i/teamlogos/ncaa/500/213.png
+4,254,Utah,83.9,76.9,81.4,Utah,Pac-12,#890012,http://a.espncdn.com/i/teamlogos/ncaa/500/254.png
+4,99,LSU,82.8,77.7,85.7,LSU,SEC,#fdd023,http://a.espncdn.com/i/teamlogos/ncaa/500/99.png
+4,344,Mississippi State,82.8,59.3,89.4,Mississippi State,SEC,#762123,http://a.espncdn.com/i/teamlogos/ncaa/500/344.png
+4,2633,Tennessee,82.8,86.1,63.2,Tennessee,SEC,#EE9627,http://a.espncdn.com/i/teamlogos/ncaa/500/2633.png
+4,239,Baylor,81.5,79.2,68,Baylor,Big 12,#004834,http://a.espncdn.com/i/teamlogos/ncaa/500/239.png
+4,6,South Alabama,81.5,67.2,80.8,South Alabama,Sun Belt,#003E7E,http://a.espncdn.com/i/teamlogos/ncaa/500/6.png
+4,256,James Madison,81.1,60.3,91.5,James Madison,Sun Belt,#450084,http://a.espncdn.com/i/teamlogos/ncaa/500/256.png
+4,251,Texas,79.8,76.8,71.7,Texas,Big 12,#EE7524,http://a.espncdn.com/i/teamlogos/ncaa/500/251.png
+4,2306,Kansas State,77.8,56.5,84.3,Kansas State,Big 12,#633194,http://a.espncdn.com/i/teamlogos/ncaa/500/2306.png
+4,120,Maryland,77.7,79.2,64.2,Maryland,Big Ten,#D5002B,http://a.espncdn.com/i/teamlogos/ncaa/500/120.png
+4,197,Oklahoma State,77.4,71.4,58.4,Oklahoma State,Big 12,#FF6500,http://a.espncdn.com/i/teamlogos/ncaa/500/197.png
+4,204,Oregon State,76.9,74.2,69.7,Oregon State,Pac-12,#c34500,http://a.espncdn.com/i/teamlogos/ncaa/500/204.png
+4,2393,Middle Tennessee,76.7,45.1,82.5,Middle Tennessee,Conference USA,#0079C2,http://a.espncdn.com/i/teamlogos/ncaa/500/2393.png
+4,152,NC State,76,38.3,87.3,NC State,ACC,#EF1216,http://a.espncdn.com/i/teamlogos/ncaa/500/152.png
+4,2483,Oregon,75.4,84.3,49.1,Oregon,Pac-12,#044520,http://a.espncdn.com/i/teamlogos/ncaa/500/2483.png
+4,228,Clemson,74.8,79.9,57.5,Clemson,ACC,#F66733,http://a.espncdn.com/i/teamlogos/ncaa/500/228.png
+4,201,Oklahoma,74.6,82.2,57.3,Oklahoma,Big 12,#7b0000,http://a.espncdn.com/i/teamlogos/ncaa/500/201.png
+4,96,Kentucky,73.2,48.6,86.2,Kentucky,SEC,#005DAA,http://a.espncdn.com/i/teamlogos/ncaa/500/96.png
+4,252,BYU,72.5,79.8,61.2,BYU,FBS Independents,#001E4C,http://a.espncdn.com/i/teamlogos/ncaa/500/252.png
+4,66,Iowa State,72.4,61,75.5,Iowa State,Big 12,#660015,http://a.espncdn.com/i/teamlogos/ncaa/500/66.png
+4,2132,Cincinnati,71.8,56.9,75.1,Cincinnati,American Athletic,#000000,http://a.espncdn.com/i/teamlogos/ncaa/500/2132.png
+4,356,Illinois,71.5,47.5,86.3,Illinois,Big Ten,#f77329,http://a.espncdn.com/i/teamlogos/ncaa/500/356.png
+4,150,Duke,69.2,82,47.7,Duke,ACC,#001A57,http://a.espncdn.com/i/teamlogos/ncaa/500/150.png
+4,87,Notre Dame,68.9,51.5,71.9,Notre Dame,FBS Independents,#00122b,http://a.espncdn.com/i/teamlogos/ncaa/500/87.png
+4,183,Syracuse,67.8,59.1,65.1,Syracuse,ACC,#F37321,http://a.espncdn.com/i/teamlogos/ncaa/500/183.png
+4,2005,Air Force,67.4,69.2,58.8,Air Force,Mountain West,#004a7b,http://a.espncdn.com/i/teamlogos/ncaa/500/2005.png
+4,97,Louisville,66,50,69.1,Louisville,ACC,#ad000a,http://a.espncdn.com/i/teamlogos/ncaa/500/97.png
+4,2116,UCF,65.6,56,66.4,UCF,American Athletic,#000000,http://a.espncdn.com/i/teamlogos/ncaa/500/2116.png
+4,265,Washington State,65.3,43.3,71.9,Washington State,Pac-12,#94022a,http://a.espncdn.com/i/teamlogos/ncaa/500/265.png
+4,98,Western Kentucky,65.2,66.2,69.1,Western Kentucky,Conference USA,#F32026,http://a.espncdn.com/i/teamlogos/ncaa/500/98.png
+4,5,UAB,65,45.5,73,UAB,Conference USA,#003b28,http://a.espncdn.com/i/teamlogos/ncaa/500/5.png
+4,154,Wake Forest,64.9,67.9,57.5,Wake Forest,ACC,#9E7E38,http://a.espncdn.com/i/teamlogos/ncaa/500/154.png
+4,2509,Purdue,64.9,70.3,56.8,Purdue,Big Ten,#B89D29,http://a.espncdn.com/i/teamlogos/ncaa/500/2509.png
+4,2294,Iowa,64.8,10.7,91.3,Iowa,Big Ten,#000000,http://a.espncdn.com/i/teamlogos/ncaa/500/2294.png
+4,245,Texas A&M,64.4,34.4,71.2,Texas A&M,SEC,#5C0025,http://a.espncdn.com/i/teamlogos/ncaa/500/245.png
+4,277,West Virginia,63.7,74.2,44,West Virginia,Big 12,#FFC600,http://a.espncdn.com/i/teamlogos/ncaa/500/277.png
+4,2655,Tulane,63,47.3,75.9,Tulane,American Athletic,#005837,http://a.espncdn.com/i/teamlogos/ncaa/500/2655.png
+4,221,Pittsburgh,62.6,51.9,73.9,Pittsburgh,ACC,#003263,http://a.espncdn.com/i/teamlogos/ncaa/500/221.png
+4,25,California,62,62,61.3,California,Pac-12,#031522,http://a.espncdn.com/i/teamlogos/ncaa/500/25.png
+4,2439,UNLV,61.2,63.5,51.5,UNLV,Mountain West,#000000,http://a.espncdn.com/i/teamlogos/ncaa/500/2439.png
+4,26,UCLA,60.4,72.3,49.3,UCLA,Pac-12,#005C8E,http://a.espncdn.com/i/teamlogos/ncaa/500/26.png
+4,2572,Southern Mississippi,59.9,30.8,70.5,Southern Mississippi,Sun Belt,#FFAA3C,http://a.espncdn.com/i/teamlogos/ncaa/500/2572.png
+4,275,Wisconsin,59.5,59.5,59.5,Wisconsin,Big Ten,#A00001,http://a.espncdn.com/i/teamlogos/ncaa/500/275.png
+4,276,Marshall,59.4,35.9,79.3,Marshall,Sun Belt,#00ae42,http://a.espncdn.com/i/teamlogos/ncaa/500/276.png
+4,142,Missouri,59.2,31,78.9,Missouri,SEC,#000000,http://a.espncdn.com/i/teamlogos/ncaa/500/142.png
+4,2567,SMU,59,63.7,53.2,SMU,American Athletic,#E32F38,http://a.espncdn.com/i/teamlogos/ncaa/500/2567.png
+4,202,Tulsa,58.3,70.6,49.7,Tulsa,American Athletic,#004371,http://a.espncdn.com/i/teamlogos/ncaa/500/202.png
+4,2309,Kent State,57.2,71,34,Kent State,Mid-American,#002445,http://a.espncdn.com/i/teamlogos/ncaa/500/2309.png
+4,8,Arkansas,56.1,64,45.6,Arkansas,SEC,#9c1831,http://a.espncdn.com/i/teamlogos/ncaa/500/8.png
+4,2641,Texas Tech,55.3,52.9,66.8,Texas Tech,Big 12,#C80025,http://a.espncdn.com/i/teamlogos/ncaa/500/2641.png
+4,2335,Liberty,55.2,34.3,75.4,Liberty,FBS Independents,#071740,http://a.espncdn.com/i/teamlogos/ncaa/500/2335.png
+4,57,Florida,54.7,55.3,53.6,Florida,SEC,#0021A5,http://a.espncdn.com/i/teamlogos/ncaa/500/57.png
+4,2032,Arkansas State,53.4,54.8,38.3,Arkansas State,Sun Belt,#e81018,http://a.espncdn.com/i/teamlogos/ncaa/500/2032.png
+4,235,Memphis,53.3,55.1,48.3,Memphis,American Athletic,#003087,http://a.espncdn.com/i/teamlogos/ncaa/500/235.png
+4,153,North Carolina,51.7,82.7,18.1,North Carolina,ACC,#99bfe5,http://a.espncdn.com/i/teamlogos/ncaa/500/153.png
+4,2653,Troy,51.4,38.1,63.2,Troy,Sun Belt,#AE0210,http://a.espncdn.com/i/teamlogos/ncaa/500/2653.png
+4,12,Arizona,51.2,67.3,36.8,Arizona,Pac-12,#002449,http://a.espncdn.com/i/teamlogos/ncaa/500/12.png
+4,2226,Florida Atlantic,51,52.5,52.5,Florida Atlantic,Conference USA,#004B85,http://a.espncdn.com/i/teamlogos/ncaa/500/2226.png
+4,127,Michigan State,50.1,43.2,54.9,Michigan State,Big Ten,#18453B,http://a.espncdn.com/i/teamlogos/ncaa/500/127.png
+4,2636,UT San Antonio,49.9,56.3,37.1,UT San Antonio,Conference USA,#002A5C,http://a.espncdn.com/i/teamlogos/ncaa/500/2636.png
+4,278,Fresno State,49.8,66.9,34.6,Fresno State,Mountain West,#c41230,http://a.espncdn.com/i/teamlogos/ncaa/500/278.png
+4,238,Vanderbilt,49.7,41.5,52.4,Vanderbilt,SEC,#000000,http://a.espncdn.com/i/teamlogos/ncaa/500/238.png
+4,324,Coastal Carolina,49.6,50.5,46.4,Coastal Carolina,Sun Belt,#007073,http://a.espncdn.com/i/teamlogos/ncaa/500/324.png
+4,2026,Appalachian State,49.3,70.3,33.9,Appalachian State,Sun Belt,#000000,http://a.espncdn.com/i/teamlogos/ncaa/500/2026.png
+4,248,Houston,48.9,38.4,55.4,Houston,American Athletic,#C90822,http://a.espncdn.com/i/teamlogos/ncaa/500/248.png
+4,242,Rice,48.3,42.1,52.1,Rice,Conference USA,#003D7D,http://a.espncdn.com/i/teamlogos/ncaa/500/242.png
+4,164,Rutgers,48.2,33.7,61.9,Rutgers,Big Ten,#d21034,http://a.espncdn.com/i/teamlogos/ncaa/500/164.png
+4,2390,Miami,47.4,54.7,40.8,Miami,ACC,#004325,http://a.espncdn.com/i/teamlogos/ncaa/500/2390.png
+4,84,Indiana,47.2,43.6,47.6,Indiana,Big Ten,#7D110C,http://a.espncdn.com/i/teamlogos/ncaa/500/84.png
+4,2579,South Carolina,46.6,44.3,37.4,South Carolina,SEC,#670010,http://a.espncdn.com/i/teamlogos/ncaa/500/2579.png
+4,259,Virginia Tech,45.9,22.9,72.8,Virginia Tech,ACC,#74232D,http://a.espncdn.com/i/teamlogos/ncaa/500/259.png
+4,258,Virginia,45.8,34.8,62.8,Virginia,ACC,#f84c1e,http://a.espncdn.com/i/teamlogos/ncaa/500/258.png
+4,151,East Carolina,43.4,59,38.4,East Carolina,American Athletic,#4b1869,http://a.espncdn.com/i/teamlogos/ncaa/500/151.png
+4,2,Auburn,43.1,36.9,48.2,Auburn,SEC,#03244d,http://a.espncdn.com/i/teamlogos/ncaa/500/2.png
+4,2649,Toledo,43.1,43.2,47.9,Toledo,Mid-American,#ffffff,http://a.espncdn.com/i/teamlogos/ncaa/500/2649.png
+4,295,Old Dominion,43,25.8,61.2,Old Dominion,Sun Belt,#00507d,http://a.espncdn.com/i/teamlogos/ncaa/500/295.png
+4,68,Boise State,42.6,21,66.6,Boise State,Mountain West,#09347A,http://a.espncdn.com/i/teamlogos/ncaa/500/68.png
+4,349,Army,42,75.2,20.4,Army,FBS Independents,#ce9c00,http://a.espncdn.com/i/teamlogos/ncaa/500/349.png
+4,290,Georgia Southern,41.3,58.3,21.5,Georgia Southern,Sun Belt,#003775,http://a.espncdn.com/i/teamlogos/ncaa/500/290.png
+4,309,Louisiana,41.1,23.8,56.8,Louisiana,Sun Belt,#ce2842,http://a.espncdn.com/i/teamlogos/ncaa/500/309.png
+4,23,San José State,40.7,36,51,San José State,Mountain West,#005893,http://a.espncdn.com/i/teamlogos/ncaa/500/23.png
+4,59,Georgia Tech,40.1,38,57.4,Georgia Tech,ACC,#00223e,http://a.espncdn.com/i/teamlogos/ncaa/500/59.png
+4,2751,Wyoming,39.6,24.3,48.7,Wyoming,Mountain West,#533B22,http://a.espncdn.com/i/teamlogos/ncaa/500/2751.png
+4,193,Miami (OH),39.3,31.7,51.1,Miami (OH),Mid-American,#a4000c,http://a.espncdn.com/i/teamlogos/ncaa/500/193.png
+4,167,New Mexico,38.9,12.8,76.7,New Mexico,Mountain West,#000000,http://a.espncdn.com/i/teamlogos/ncaa/500/167.png
+4,2459,Northern Illinois,37.4,63.2,18,Northern Illinois,Mid-American,#F1122C,http://a.espncdn.com/i/teamlogos/ncaa/500/2459.png
+4,2348,Louisiana Tech,36.5,28.8,56.2,Louisiana Tech,Conference USA,#002d65,http://a.espncdn.com/i/teamlogos/ncaa/500/2348.png
+4,249,North Texas,35.9,51.7,28,North Texas,Conference USA,#00853D,http://a.espncdn.com/i/teamlogos/ncaa/500/249.png
+4,24,Stanford,35.6,62.8,28.4,Stanford,Pac-12,#A80532,http://a.espncdn.com/i/teamlogos/ncaa/500/24.png
+4,2199,Eastern Michigan,34.2,64.2,14.4,Eastern Michigan,Mid-American,#00331b,http://a.espncdn.com/i/teamlogos/ncaa/500/2199.png
+4,2084,Buffalo,33.9,43.5,29.5,Buffalo,Mid-American,#041A9B,http://a.espncdn.com/i/teamlogos/ncaa/500/2084.png
+4,9,Arizona State,32.6,27.2,43.5,Arizona State,Pac-12,#942139,http://a.espncdn.com/i/teamlogos/ncaa/500/9.png
+4,21,San Diego State,32.6,10.3,46.8,San Diego State,Mountain West,#BF2C37,http://a.espncdn.com/i/teamlogos/ncaa/500/21.png
+4,2433,Louisiana Monroe,31.7,32.5,54.9,Louisiana Monroe,Sun Belt,#231F20,http://a.espncdn.com/i/teamlogos/ncaa/500/2433.png
+4,189,Bowling Green,29.2,39.5,24.5,Bowling Green,Mid-American,#2b1000,http://a.espncdn.com/i/teamlogos/ncaa/500/189.png
+4,2426,Navy,28.4,12.6,58.5,Navy,American Athletic,#131630,http://a.espncdn.com/i/teamlogos/ncaa/500/2426.png
+4,158,Nebraska,27.4,51.6,17.4,Nebraska,Big Ten,#F20017,http://a.espncdn.com/i/teamlogos/ncaa/500/158.png
+4,103,Boston College,27.2,24.3,46.3,Boston College,ACC,#88001a,http://a.espncdn.com/i/teamlogos/ncaa/500/103.png
+4,2711,Western Michigan,26.8,32.5,24.9,Western Michigan,Mid-American,#532e1f,http://a.espncdn.com/i/teamlogos/ncaa/500/2711.png
+4,326,Texas State,26.8,16.9,61.2,Texas State,Sun Belt,#4e1719,http://a.espncdn.com/i/teamlogos/ncaa/500/326.png
+4,2050,Ball State,26.4,24.9,35,Ball State,Mid-American,#DA0000,http://a.espncdn.com/i/teamlogos/ncaa/500/2050.png
+4,2117,Central Michigan,25.4,42.1,28.4,Central Michigan,Mid-American,#6a0032,http://a.espncdn.com/i/teamlogos/ncaa/500/2117.png
+4,2440,Nevada,25.3,21.2,35.8,Nevada,Mountain West,#153E5F,http://a.espncdn.com/i/teamlogos/ncaa/500/2440.png
+4,218,Temple,24.7,7.8,61.7,Temple,American Athletic,#A80532,http://a.espncdn.com/i/teamlogos/ncaa/500/218.png
+4,195,Ohio,24.1,43.4,14.4,Ohio,Mid-American,#295A29,http://a.espncdn.com/i/teamlogos/ncaa/500/195.png
+4,2638,UTEP,23,19.6,34.6,UTEP,Conference USA,#ff8200,http://a.espncdn.com/i/teamlogos/ncaa/500/2638.png
+4,77,Northwestern,22.2,23,32.6,Northwestern,Big Ten,#372286,http://a.espncdn.com/i/teamlogos/ncaa/500/77.png
+4,2006,Akron,21.8,18.5,34,Akron,Mid-American,#00285e,http://a.espncdn.com/i/teamlogos/ncaa/500/2006.png
+4,2247,Georgia State,20.7,17.5,43.2,Georgia State,Sun Belt,#1e539a,http://a.espncdn.com/i/teamlogos/ncaa/500/2247.png
+4,58,South Florida,19.3,26.2,19.8,South Florida,American Athletic,#004A36,http://a.espncdn.com/i/teamlogos/ncaa/500/58.png
+4,166,New Mexico State,18.5,19.4,27.8,New Mexico State,FBS Independents,#891216,http://a.espncdn.com/i/teamlogos/ncaa/500/166.png
+4,2429,Charlotte,15.5,48,6.1,Charlotte,Conference USA,#ffffff,http://a.espncdn.com/i/teamlogos/ncaa/500/2429.png
+4,328,Utah State,13.8,7.9,31.9,Utah State,Mountain West,#003263,http://a.espncdn.com/i/teamlogos/ncaa/500/328.png
+4,38,Colorado,12.8,7.4,42.1,Colorado,Pac-12,#d1c57e,http://a.espncdn.com/i/teamlogos/ncaa/500/38.png
+4,41,Connecticut,11.6,15.7,20.2,Connecticut,FBS Independents,#001d40,http://a.espncdn.com/i/teamlogos/ncaa/500/41.png
+4,113,UMass,10.8,11.7,26.6,UMass,FBS Independents,#880007,http://a.espncdn.com/i/teamlogos/ncaa/500/113.png
+4,62,Hawai'i,6.8,7.7,11.7,Hawai'i,Mountain West,#003420,http://a.espncdn.com/i/teamlogos/ncaa/500/62.png
+4,36,Colorado State,5.8,6.5,22.5,Colorado State,Mountain West,#004537,http://a.espncdn.com/i/teamlogos/ncaa/500/36.png
+4,2229,Florida International,4.1,8.8,4.8,Florida International,Conference USA,#001538,http://a.espncdn.com/i/teamlogos/ncaa/500/2229.png
+5,333,Alabama,95.4,88.4,91.7,Alabama,SEC,#690014,http://a.espncdn.com/i/teamlogos/ncaa/500/333.png
+5,194,Ohio State,93.1,97.7,73.4,Ohio State,Big Ten,#DE3121,http://a.espncdn.com/i/teamlogos/ncaa/500/194.png
+5,130,Michigan,90.6,86,81.5,Michigan,Big Ten,#00274c,http://a.espncdn.com/i/teamlogos/ncaa/500/130.png
+5,2628,TCU,90.6,93.2,72.2,TCU,Big 12,#3C377D,http://a.espncdn.com/i/teamlogos/ncaa/500/2628.png
+5,61,Georgia,89.9,85.6,88.2,Georgia,SEC,#CC0000,http://a.espncdn.com/i/teamlogos/ncaa/500/61.png
+5,254,Utah,85.5,76.2,86.7,Utah,Pac-12,#890012,http://a.espncdn.com/i/teamlogos/ncaa/500/254.png
+5,30,USC,84.3,90.5,59.8,USC,Pac-12,#ffc72c,http://a.espncdn.com/i/teamlogos/ncaa/500/30.png
+5,344,Mississippi State,84.2,66.5,85.5,Mississippi State,SEC,#762123,http://a.espncdn.com/i/teamlogos/ncaa/500/344.png
+5,2305,Kansas,83.8,90.4,55.4,Kansas,Big 12,#0022B4,http://a.espncdn.com/i/teamlogos/ncaa/500/2305.png
+5,251,Texas,83.4,80.6,74.8,Texas,Big 12,#EE7524,http://a.espncdn.com/i/teamlogos/ncaa/500/251.png
+5,197,Oklahoma State,83.4,72.8,70.3,Oklahoma State,Big 12,#FF6500,http://a.espncdn.com/i/teamlogos/ncaa/500/197.png
+5,135,Minnesota,82.3,68.8,89.4,Minnesota,Big Ten,#981a31,http://a.espncdn.com/i/teamlogos/ncaa/500/135.png
+5,2633,Tennessee,82.2,86.3,61.6,Tennessee,SEC,#EE9627,http://a.espncdn.com/i/teamlogos/ncaa/500/2633.png
+5,99,LSU,81.5,71.1,84.5,LSU,SEC,#fdd023,http://a.espncdn.com/i/teamlogos/ncaa/500/99.png
+5,145,Ole Miss,81.5,78.9,70.6,Ole Miss,SEC,#001148,http://a.espncdn.com/i/teamlogos/ncaa/500/145.png
+5,256,James Madison,80.1,54.8,94.1,James Madison,Sun Belt,#450084,http://a.espncdn.com/i/teamlogos/ncaa/500/256.png
+5,213,Penn State,79.8,62.5,81.1,Penn State,Big Ten,#00265D,http://a.espncdn.com/i/teamlogos/ncaa/500/213.png
+5,264,Washington,79,83.1,62.1,Washington,Pac-12,#2B2F64,http://a.espncdn.com/i/teamlogos/ncaa/500/264.png
+5,120,Maryland,77.9,80.6,61.6,Maryland,Big Ten,#D5002B,http://a.espncdn.com/i/teamlogos/ncaa/500/120.png
+5,356,Illinois,77.7,55.5,88.2,Illinois,Big Ten,#f77329,http://a.espncdn.com/i/teamlogos/ncaa/500/356.png
+5,2483,Oregon,77.4,83.2,56.2,Oregon,Pac-12,#044520,http://a.espncdn.com/i/teamlogos/ncaa/500/2483.png
+5,152,NC State,76.1,45.1,83.7,NC State,ACC,#EF1216,http://a.espncdn.com/i/teamlogos/ncaa/500/152.png
+5,228,Clemson,75.8,81.4,59.3,Clemson,ACC,#F66733,http://a.espncdn.com/i/teamlogos/ncaa/500/228.png
+5,96,Kentucky,75.8,54.8,85.4,Kentucky,SEC,#005DAA,http://a.espncdn.com/i/teamlogos/ncaa/500/96.png
+5,2306,Kansas State,75.5,56.3,80.7,Kansas State,Big 12,#633194,http://a.espncdn.com/i/teamlogos/ncaa/500/2306.png
+5,6,South Alabama,75.4,60.3,77.6,South Alabama,Sun Belt,#003E7E,http://a.espncdn.com/i/teamlogos/ncaa/500/6.png
+5,2132,Cincinnati,73.6,58.6,76.2,Cincinnati,American Athletic,#000000,http://a.espncdn.com/i/teamlogos/ncaa/500/2132.png
+5,52,Florida State,72.9,80.6,49.4,Florida State,ACC,#782F40,http://a.espncdn.com/i/teamlogos/ncaa/500/52.png
+5,150,Duke,72.4,86.5,43.7,Duke,ACC,#001A57,http://a.espncdn.com/i/teamlogos/ncaa/500/150.png
+5,154,Wake Forest,72,72.9,64.1,Wake Forest,ACC,#9E7E38,http://a.espncdn.com/i/teamlogos/ncaa/500/154.png
+5,183,Syracuse,71.7,66.4,64.3,Syracuse,ACC,#F37321,http://a.espncdn.com/i/teamlogos/ncaa/500/183.png
+5,2509,Purdue,71.1,67.6,68.9,Purdue,Big Ten,#B89D29,http://a.espncdn.com/i/teamlogos/ncaa/500/2509.png
+5,239,Baylor,70.5,73.3,58.9,Baylor,Big 12,#004834,http://a.espncdn.com/i/teamlogos/ncaa/500/239.png
+5,204,Oregon State,69,64.1,64.1,Oregon State,Pac-12,#c34500,http://a.espncdn.com/i/teamlogos/ncaa/500/204.png
+5,87,Notre Dame,68,54,68.3,Notre Dame,FBS Independents,#00122b,http://a.espncdn.com/i/teamlogos/ncaa/500/87.png
+5,265,Washington State,66.1,47.2,71,Washington State,Pac-12,#94022a,http://a.espncdn.com/i/teamlogos/ncaa/500/265.png
+5,26,UCLA,66.1,76.5,53.3,UCLA,Pac-12,#005C8E,http://a.espncdn.com/i/teamlogos/ncaa/500/26.png
+5,66,Iowa State,65.6,51.9,80.1,Iowa State,Big 12,#660015,http://a.espncdn.com/i/teamlogos/ncaa/500/66.png
+5,201,Oklahoma,65.3,74.7,46.8,Oklahoma,Big 12,#7b0000,http://a.espncdn.com/i/teamlogos/ncaa/500/201.png
+5,2655,Tulane,65,48.2,74,Tulane,American Athletic,#005837,http://a.espncdn.com/i/teamlogos/ncaa/500/2655.png
+5,142,Missouri,64.8,38.4,77.4,Missouri,SEC,#000000,http://a.espncdn.com/i/teamlogos/ncaa/500/142.png
+5,252,BYU,64.6,75.5,55,BYU,FBS Independents,#001E4C,http://a.espncdn.com/i/teamlogos/ncaa/500/252.png
+5,2116,UCF,64.4,56.5,63.6,UCF,American Athletic,#000000,http://a.espncdn.com/i/teamlogos/ncaa/500/2116.png
+5,2567,SMU,62.1,67.1,54.3,SMU,American Athletic,#E32F38,http://a.espncdn.com/i/teamlogos/ncaa/500/2567.png
+5,2653,Troy,61.4,51.6,65.7,Troy,Sun Belt,#AE0210,http://a.espncdn.com/i/teamlogos/ncaa/500/2653.png
+5,97,Louisville,60.9,47.8,63.9,Louisville,ACC,#ad000a,http://a.espncdn.com/i/teamlogos/ncaa/500/97.png
+5,2572,Southern Mississippi,60.5,30.7,71.3,Southern Mississippi,Sun Belt,#FFAA3C,http://a.espncdn.com/i/teamlogos/ncaa/500/2572.png
+5,245,Texas A&M,59.8,39,66,Texas A&M,SEC,#5C0025,http://a.espncdn.com/i/teamlogos/ncaa/500/245.png
+5,5,UAB,59.7,41.3,71.2,UAB,Conference USA,#003b28,http://a.espncdn.com/i/teamlogos/ncaa/500/5.png
+5,2393,Middle Tennessee,59.5,40.5,63,Middle Tennessee,Conference USA,#0079C2,http://a.espncdn.com/i/teamlogos/ncaa/500/2393.png
+5,2335,Liberty,58.9,46.9,70,Liberty,FBS Independents,#071740,http://a.espncdn.com/i/teamlogos/ncaa/500/2335.png
+5,153,North Carolina,58.6,86.4,21.8,North Carolina,ACC,#99bfe5,http://a.espncdn.com/i/teamlogos/ncaa/500/153.png
+5,2294,Iowa,58.1,13.2,85.6,Iowa,Big Ten,#000000,http://a.espncdn.com/i/teamlogos/ncaa/500/2294.png
+5,277,West Virginia,57.7,72.4,35.6,West Virginia,Big 12,#FFC600,http://a.espncdn.com/i/teamlogos/ncaa/500/277.png
+5,2005,Air Force,57,58.1,52.6,Air Force,Mountain West,#004a7b,http://a.espncdn.com/i/teamlogos/ncaa/500/2005.png
+5,25,California,56.5,57.4,57.3,California,Pac-12,#031522,http://a.espncdn.com/i/teamlogos/ncaa/500/25.png
+5,2026,Appalachian State,56.3,74.3,39.7,Appalachian State,Sun Belt,#000000,http://a.espncdn.com/i/teamlogos/ncaa/500/2026.png
+5,2439,UNLV,55.9,57.8,47.3,UNLV,Mountain West,#000000,http://a.espncdn.com/i/teamlogos/ncaa/500/2439.png
+5,2641,Texas Tech,55.9,53.6,65.1,Texas Tech,Big 12,#C80025,http://a.espncdn.com/i/teamlogos/ncaa/500/2641.png
+5,2636,UT San Antonio,55.2,67,37.5,UT San Antonio,Conference USA,#002A5C,http://a.espncdn.com/i/teamlogos/ncaa/500/2636.png
+5,57,Florida,55.2,56.5,53.3,Florida,SEC,#0021A5,http://a.espncdn.com/i/teamlogos/ncaa/500/57.png
+5,98,Western Kentucky,54.2,61.6,53.9,Western Kentucky,Conference USA,#F32026,http://a.espncdn.com/i/teamlogos/ncaa/500/98.png
+5,8,Arkansas,53.9,61.7,44.5,Arkansas,SEC,#9c1831,http://a.espncdn.com/i/teamlogos/ncaa/500/8.png
+5,276,Marshall,53.6,25.1,82.6,Marshall,Sun Belt,#00ae42,http://a.espncdn.com/i/teamlogos/ncaa/500/276.png
+5,235,Memphis,53.5,48.5,54.9,Memphis,American Athletic,#003087,http://a.espncdn.com/i/teamlogos/ncaa/500/235.png
+5,202,Tulsa,53.3,63.2,47.7,Tulsa,American Athletic,#004371,http://a.espncdn.com/i/teamlogos/ncaa/500/202.png
+5,59,Georgia Tech,53.2,42,67.8,Georgia Tech,ACC,#00223e,http://a.espncdn.com/i/teamlogos/ncaa/500/59.png
+5,221,Pittsburgh,53.1,43.7,68.8,Pittsburgh,ACC,#003263,http://a.espncdn.com/i/teamlogos/ncaa/500/221.png
+5,2032,Arkansas State,52,57.1,30,Arkansas State,Sun Belt,#e81018,http://a.espncdn.com/i/teamlogos/ncaa/500/2032.png
+5,23,San José State,52,53.9,55.9,San José State,Mountain West,#005893,http://a.espncdn.com/i/teamlogos/ncaa/500/23.png
+5,151,East Carolina,51.6,66.3,41,East Carolina,American Athletic,#4b1869,http://a.espncdn.com/i/teamlogos/ncaa/500/151.png
+5,2649,Toledo,51.5,45.5,60.4,Toledo,Mid-American,#ffffff,http://a.espncdn.com/i/teamlogos/ncaa/500/2649.png
+5,127,Michigan State,51.3,54.1,49.8,Michigan State,Big Ten,#18453B,http://a.espncdn.com/i/teamlogos/ncaa/500/127.png
+5,12,Arizona,51.1,71,32.2,Arizona,Pac-12,#002449,http://a.espncdn.com/i/teamlogos/ncaa/500/12.png
+5,2579,South Carolina,50.2,50.4,40.2,South Carolina,SEC,#670010,http://a.espncdn.com/i/teamlogos/ncaa/500/2579.png
+5,2,Auburn,50.1,40.9,59.8,Auburn,SEC,#03244d,http://a.espncdn.com/i/teamlogos/ncaa/500/2.png
+5,238,Vanderbilt,49.5,41.9,51.8,Vanderbilt,SEC,#000000,http://a.espncdn.com/i/teamlogos/ncaa/500/238.png
+5,324,Coastal Carolina,48.6,55.3,45.5,Coastal Carolina,Sun Belt,#007073,http://a.espncdn.com/i/teamlogos/ncaa/500/324.png
+5,248,Houston,48.1,40.3,55.5,Houston,American Athletic,#C90822,http://a.espncdn.com/i/teamlogos/ncaa/500/248.png
+5,242,Rice,47.1,40.2,53,Rice,Conference USA,#003D7D,http://a.espncdn.com/i/teamlogos/ncaa/500/242.png
+5,84,Indiana,46,37,56,Indiana,Big Ten,#7D110C,http://a.espncdn.com/i/teamlogos/ncaa/500/84.png
+5,164,Rutgers,46,32.7,56.1,Rutgers,Big Ten,#d21034,http://a.espncdn.com/i/teamlogos/ncaa/500/164.png
+5,275,Wisconsin,45.2,48.7,48,Wisconsin,Big Ten,#A00001,http://a.espncdn.com/i/teamlogos/ncaa/500/275.png
+5,68,Boise State,45.1,26.1,71.7,Boise State,Mountain West,#09347A,http://a.espncdn.com/i/teamlogos/ncaa/500/68.png
+5,2390,Miami,44.5,51.3,40.2,Miami,ACC,#004325,http://a.espncdn.com/i/teamlogos/ncaa/500/2390.png
+5,290,Georgia Southern,43.8,59,21.4,Georgia Southern,Sun Belt,#003775,http://a.espncdn.com/i/teamlogos/ncaa/500/290.png
+5,249,North Texas,43.6,55.9,32.9,North Texas,Conference USA,#00853D,http://a.espncdn.com/i/teamlogos/ncaa/500/249.png
+5,2309,Kent State,43.2,53.3,32.9,Kent State,Mid-American,#002445,http://a.espncdn.com/i/teamlogos/ncaa/500/2309.png
+5,2226,Florida Atlantic,42.9,47.1,47,Florida Atlantic,Conference USA,#004B85,http://a.espncdn.com/i/teamlogos/ncaa/500/2226.png
+5,193,Miami (OH),42.3,34.2,53,Miami (OH),Mid-American,#a4000c,http://a.espncdn.com/i/teamlogos/ncaa/500/193.png
+5,258,Virginia,41.3,33.9,57.4,Virginia,ACC,#f84c1e,http://a.espncdn.com/i/teamlogos/ncaa/500/258.png
+5,167,New Mexico,40.6,16.5,74.3,New Mexico,Mountain West,#000000,http://a.espncdn.com/i/teamlogos/ncaa/500/167.png
+5,309,Louisiana,40.4,24.3,56.5,Louisiana,Sun Belt,#ce2842,http://a.espncdn.com/i/teamlogos/ncaa/500/309.png
+5,259,Virginia Tech,40.2,20.3,66.7,Virginia Tech,ACC,#74232D,http://a.espncdn.com/i/teamlogos/ncaa/500/259.png
+5,278,Fresno State,39.5,44,35.8,Fresno State,Mountain West,#c41230,http://a.espncdn.com/i/teamlogos/ncaa/500/278.png
+5,9,Arizona State,38.5,40.8,39.5,Arizona State,Pac-12,#942139,http://a.espncdn.com/i/teamlogos/ncaa/500/9.png
+5,2459,Northern Illinois,37.5,61.6,18.7,Northern Illinois,Mid-American,#F1122C,http://a.espncdn.com/i/teamlogos/ncaa/500/2459.png
+5,295,Old Dominion,37,27.9,49.7,Old Dominion,Sun Belt,#00507d,http://a.espncdn.com/i/teamlogos/ncaa/500/295.png
+5,2348,Louisiana Tech,36.9,29.8,55.6,Louisiana Tech,Conference USA,#002d65,http://a.espncdn.com/i/teamlogos/ncaa/500/2348.png
+5,2711,Western Michigan,34.4,37.9,34.2,Western Michigan,Mid-American,#532e1f,http://a.espncdn.com/i/teamlogos/ncaa/500/2711.png
+5,21,San Diego State,34.3,10.4,47.1,San Diego State,Mountain West,#BF2C37,http://a.espncdn.com/i/teamlogos/ncaa/500/21.png
+5,349,Army,34.1,61.2,19.5,Army,FBS Independents,#ce9c00,http://a.espncdn.com/i/teamlogos/ncaa/500/349.png
+5,2426,Navy,34,15.8,63.6,Navy,American Athletic,#131630,http://a.espncdn.com/i/teamlogos/ncaa/500/2426.png
+5,24,Stanford,33.8,48.7,35.8,Stanford,Pac-12,#A80532,http://a.espncdn.com/i/teamlogos/ncaa/500/24.png
+5,2084,Buffalo,33.3,39.7,33.2,Buffalo,Mid-American,#041A9B,http://a.espncdn.com/i/teamlogos/ncaa/500/2084.png
+5,2751,Wyoming,33,22.5,38,Wyoming,Mountain West,#533B22,http://a.espncdn.com/i/teamlogos/ncaa/500/2751.png
+5,2247,Georgia State,32.9,26.4,53.3,Georgia State,Sun Belt,#1e539a,http://a.espncdn.com/i/teamlogos/ncaa/500/2247.png
+5,158,Nebraska,31.9,48,22.7,Nebraska,Big Ten,#F20017,http://a.espncdn.com/i/teamlogos/ncaa/500/158.png
+5,103,Boston College,31.1,31,44.8,Boston College,ACC,#88001a,http://a.espncdn.com/i/teamlogos/ncaa/500/103.png
+5,2433,Louisiana Monroe,30.3,38.6,46.4,Louisiana Monroe,Sun Belt,#231F20,http://a.espncdn.com/i/teamlogos/ncaa/500/2433.png
+5,189,Bowling Green,29.7,39,25,Bowling Green,Mid-American,#2b1000,http://a.espncdn.com/i/teamlogos/ncaa/500/189.png
+5,2199,Eastern Michigan,29.4,53.4,17.2,Eastern Michigan,Mid-American,#00331b,http://a.espncdn.com/i/teamlogos/ncaa/500/2199.png
+5,218,Temple,29.4,7,68.4,Temple,American Athletic,#A80532,http://a.espncdn.com/i/teamlogos/ncaa/500/218.png
+5,195,Ohio,28.6,42.2,20.9,Ohio,Mid-American,#295A29,http://a.espncdn.com/i/teamlogos/ncaa/500/195.png
+5,2638,UTEP,27.8,22.7,39.4,UTEP,Conference USA,#ff8200,http://a.espncdn.com/i/teamlogos/ncaa/500/2638.png
+5,77,Northwestern,27.7,22.3,45.9,Northwestern,Big Ten,#372286,http://a.espncdn.com/i/teamlogos/ncaa/500/77.png
+5,2050,Ball State,26.5,28,33.8,Ball State,Mid-American,#DA0000,http://a.espncdn.com/i/teamlogos/ncaa/500/2050.png
+5,326,Texas State,24.9,11.7,61.5,Texas State,Sun Belt,#4e1719,http://a.espncdn.com/i/teamlogos/ncaa/500/326.png
+5,2440,Nevada,23.2,20.3,33,Nevada,Mountain West,#153E5F,http://a.espncdn.com/i/teamlogos/ncaa/500/2440.png
+5,2117,Central Michigan,21.4,33,26.6,Central Michigan,Mid-American,#6a0032,http://a.espncdn.com/i/teamlogos/ncaa/500/2117.png
+5,2006,Akron,19.5,18,33.3,Akron,Mid-American,#00285e,http://a.espncdn.com/i/teamlogos/ncaa/500/2006.png
+5,328,Utah State,19.4,14.4,32.8,Utah State,Mountain West,#003263,http://a.espncdn.com/i/teamlogos/ncaa/500/328.png
+5,41,Connecticut,17.1,16.8,34.5,Connecticut,FBS Independents,#001d40,http://a.espncdn.com/i/teamlogos/ncaa/500/41.png
+5,58,South Florida,16.1,28.4,14.8,South Florida,American Athletic,#004A36,http://a.espncdn.com/i/teamlogos/ncaa/500/58.png
+5,113,UMass,14.6,11.8,33.3,UMass,FBS Independents,#880007,http://a.espncdn.com/i/teamlogos/ncaa/500/113.png
+5,38,Colorado,14.6,13.4,30.8,Colorado,Pac-12,#d1c57e,http://a.espncdn.com/i/teamlogos/ncaa/500/38.png
+5,2429,Charlotte,14.5,44.5,6.3,Charlotte,Conference USA,#ffffff,http://a.espncdn.com/i/teamlogos/ncaa/500/2429.png
+5,2229,Florida International,10.7,17.8,10.6,Florida International,Conference USA,#001538,http://a.espncdn.com/i/teamlogos/ncaa/500/2229.png
+5,166,New Mexico State,9.9,13.7,16.9,New Mexico State,FBS Independents,#891216,http://a.espncdn.com/i/teamlogos/ncaa/500/166.png
+5,36,Colorado State,5.6,5.9,23.1,Colorado State,Mountain West,#004537,http://a.espncdn.com/i/teamlogos/ncaa/500/36.png
+5,62,Hawai'i,5.6,6.5,10.4,Hawai'i,Mountain West,#003420,http://a.espncdn.com/i/teamlogos/ncaa/500/62.png
+6,333,Alabama,90.63600000000001,81.122,88.863,Alabama,SEC,#690014,http://a.espncdn.com/i/teamlogos/ncaa/500/333.png
+6,194,Ohio State,94.63000000000001,98.287,75.16000000000001,Ohio State,Big Ten,#DE3121,http://a.espncdn.com/i/teamlogos/ncaa/500/194.png
+6,61,Georgia,90.08800000000001,84.006,89.642,Georgia,SEC,#CC0000,http://a.espncdn.com/i/teamlogos/ncaa/500/61.png
+6,251,Texas,87.22,84.25200000000001,78.636,Texas,Big 12,#EE7524,http://a.espncdn.com/i/teamlogos/ncaa/500/251.png
+6,130,Michigan,88.592,84.931,78.441,Michigan,Big Ten,#00274c,http://a.espncdn.com/i/teamlogos/ncaa/500/130.png
+6,228,Clemson,78.323,78.309,67.077,Clemson,ACC,#F66733,http://a.espncdn.com/i/teamlogos/ncaa/500/228.png
+6,2633,Tennessee,87.973,88.48899999999999,69.831,Tennessee,SEC,#EE9627,http://a.espncdn.com/i/teamlogos/ncaa/500/2633.png
+6,145,Ole Miss,81.479,82.708,66.947,Ole Miss,SEC,#001148,http://a.espncdn.com/i/teamlogos/ncaa/500/145.png
+6,254,Utah,79.435,75.34100000000001,75.777,Utah,Pac-12,#890012,http://a.espncdn.com/i/teamlogos/ncaa/500/254.png
+6,30,USC,81.939,87.318,59.727,USC,Pac-12,#ffc72c,http://a.espncdn.com/i/teamlogos/ncaa/500/30.png
+6,99,LSU,73.509,64.116,79.282,LSU,SEC,#fdd023,http://a.espncdn.com/i/teamlogos/ncaa/500/99.png
+6,213,Penn State,78.561,61.376,79.89699999999999,Penn State,Big Ten,#00265D,http://a.espncdn.com/i/teamlogos/ncaa/500/213.png
+6,344,Mississippi St,82.723,69.14099999999999,82.15299999999999,Mississippi State,SEC,#762123,http://a.espncdn.com/i/teamlogos/ncaa/500/344.png
+6,2483,Oregon,81.796,87.946,60.177,Oregon,Pac-12,#044520,http://a.espncdn.com/i/teamlogos/ncaa/500/2483.png
+6,87,Notre Dame,70.769,59.404,70.10300000000001,Notre Dame,FBS Independents,#00122b,http://a.espncdn.com/i/teamlogos/ncaa/500/87.png
+6,239,Baylor,70.248,72.817,58.914,Baylor,Big 12,#004834,http://a.espncdn.com/i/teamlogos/ncaa/500/239.png
+6,197,Oklahoma St,78.036,69.423,63.251000000000005,Oklahoma State,Big 12,#FF6500,http://a.espncdn.com/i/teamlogos/ncaa/500/197.png
+6,2628,TCU,87.232,89.145,68.548,TCU,Big 12,#3C377D,http://a.espncdn.com/i/teamlogos/ncaa/500/2628.png
+6,135,Minnesota,81.43299999999999,67.965,88.907,Minnesota,Big Ten,#981a31,http://a.espncdn.com/i/teamlogos/ncaa/500/135.png
+6,120,Maryland,72.99,76.96,59.303,Maryland,Big Ten,#D5002B,http://a.espncdn.com/i/teamlogos/ncaa/500/120.png
+6,2116,UCF,68.61699999999999,60.077999999999996,66.975,UCF,American Athletic,#000000,http://a.espncdn.com/i/teamlogos/ncaa/500/2116.png
+6,2509,Purdue,72.724,67.786,69.743,Purdue,Big Ten,#B89D29,http://a.espncdn.com/i/teamlogos/ncaa/500/2509.png
+6,245,Texas A&M,67.654,44.617000000000004,72.444,Texas A&M,SEC,#5C0025,http://a.espncdn.com/i/teamlogos/ncaa/500/245.png
+6,154,Wake Forest,74.394,75.048,65.399,Wake Forest,ACC,#9E7E38,http://a.espncdn.com/i/teamlogos/ncaa/500/154.png
+6,2306,Kansas St,75.118,57.43899999999999,82.32000000000001,Kansas State,Big 12,#633194,http://a.espncdn.com/i/teamlogos/ncaa/500/2306.png
+6,152,NC State,71.679,39.151,83.79299999999999,NC State,ACC,#EF1216,http://a.espncdn.com/i/teamlogos/ncaa/500/152.png
+6,275,Wisconsin,58.19,63.601,54.382,Wisconsin,Big Ten,#A00001,http://a.espncdn.com/i/teamlogos/ncaa/500/275.png
+6,52,Florida St,73.275,77.464,57.01199999999999,Florida State,ACC,#782F40,http://a.espncdn.com/i/teamlogos/ncaa/500/52.png
+6,2132,Cincinnati,64.714,54.003,66.337,Cincinnati,American Athletic,#000000,http://a.espncdn.com/i/teamlogos/ncaa/500/2132.png
+6,26,UCLA,70.364,83.029,51.55,UCLA,Pac-12,#005C8E,http://a.espncdn.com/i/teamlogos/ncaa/500/26.png
+6,264,Washington,70.429,79.01899999999999,50.099000000000004,Washington,Pac-12,#2B2F64,http://a.espncdn.com/i/teamlogos/ncaa/500/264.png
+6,183,Syracuse,71.708,66.553,64.145,Syracuse,ACC,#F37321,http://a.espncdn.com/i/teamlogos/ncaa/500/183.png
+6,66,Iowa State,62.141999999999996,45.9,76.629,Iowa State,Big 12,#660015,http://a.espncdn.com/i/teamlogos/ncaa/500/66.png
+6,201,Oklahoma,57.33200000000001,68.94500000000001,40.611000000000004,Oklahoma,Big 12,#7b0000,http://a.espncdn.com/i/teamlogos/ncaa/500/201.png
+6,96,Kentucky,65.877,45.629999999999995,81.814,Kentucky,SEC,#005DAA,http://a.espncdn.com/i/teamlogos/ncaa/500/96.png
+6,153,North Carolina,63.300999999999995,85.456,28.313,North Carolina,ACC,#99bfe5,http://a.espncdn.com/i/teamlogos/ncaa/500/153.png
+6,2390,Miami,42.733,47.955,44.152,Miami,ACC,#004325,http://a.espncdn.com/i/teamlogos/ncaa/500/2390.png
+6,356,Illinois,72.135,50.214000000000006,85.789,Illinois,Big Ten,#f77329,http://a.espncdn.com/i/teamlogos/ncaa/500/356.png
+6,57,Florida,62.158,65.065,57.196999999999996,Florida,SEC,#0021A5,http://a.espncdn.com/i/teamlogos/ncaa/500/57.png
+6,97,Louisville,65.862,53.927,67.771,Louisville,ACC,#ad000a,http://a.espncdn.com/i/teamlogos/ncaa/500/97.png
+6,2294,Iowa,60.345000000000006,16.76,85.123,Iowa,Big Ten,#000000,http://a.espncdn.com/i/teamlogos/ncaa/500/2294.png
+6,221,Pitt,53.39,48.339999999999996,63.042,Pittsburgh,ACC,#003263,http://a.espncdn.com/i/teamlogos/ncaa/500/221.png
+6,277,West Virginia,57.845,71.89,36.636,West Virginia,Big 12,#FFC600,http://a.espncdn.com/i/teamlogos/ncaa/500/277.png
+6,2641,Texas Tech,59.685,58.765,66.373,Texas Tech,Big 12,#C80025,http://a.espncdn.com/i/teamlogos/ncaa/500/2641.png
+6,127,Michigan St,45.525999999999996,49.891000000000005,42.972,Michigan State,Big Ten,#18453B,http://a.espncdn.com/i/teamlogos/ncaa/500/127.png
+6,252,BYU,63.31099999999999,73.86,53.349999999999994,BYU,FBS Independents,#001E4C,http://a.espncdn.com/i/teamlogos/ncaa/500/252.png
+6,2655,Tulane,65.692,50.861999999999995,72.953,Tulane,American Athletic,#005837,http://a.espncdn.com/i/teamlogos/ncaa/500/2655.png
+6,204,Oregon St,66.249,64.17399999999999,61.166,Oregon State,Pac-12,#c34500,http://a.espncdn.com/i/teamlogos/ncaa/500/204.png
+6,2,Auburn,51.227000000000004,39.024,63.3,Auburn,SEC,#03244d,http://a.espncdn.com/i/teamlogos/ncaa/500/2.png
+6,8,Arkansas,50.693999999999996,61.318,39.573,Arkansas,SEC,#9c1831,http://a.espncdn.com/i/teamlogos/ncaa/500/8.png
+6,2579,South Carolina,59.323,52.223,50.125,South Carolina,SEC,#670010,http://a.espncdn.com/i/teamlogos/ncaa/500/2579.png
+6,2567,SMU,57.940000000000005,62.876,52.342,SMU,American Athletic,#E32F38,http://a.espncdn.com/i/teamlogos/ncaa/500/2567.png
+6,2305,Kansas,76.838,84.958,53.176,Kansas,Big 12,#0022B4,http://a.espncdn.com/i/teamlogos/ncaa/500/2305.png
+6,98,Western KY,54.035,62.468999999999994,51.78,Western Kentucky,Conference USA,#F32026,http://a.espncdn.com/i/teamlogos/ncaa/500/98.png
+6,256,James Madison,79.635,64.842,90.411,James Madison,Sun Belt,#450084,http://a.espncdn.com/i/teamlogos/ncaa/500/256.png
+6,265,Washington St,67.39500000000001,49.075,73.14699999999999,Washington State,Pac-12,#94022a,http://a.espncdn.com/i/teamlogos/ncaa/500/265.png
+6,5,UAB,64.653,54.171,68.517,UAB,Conference USA,#003b28,http://a.espncdn.com/i/teamlogos/ncaa/500/5.png
+6,142,Missouri,62.437,38.706,76.23400000000001,Missouri,SEC,#000000,http://a.espncdn.com/i/teamlogos/ncaa/500/142.png
+6,2026,Appalachian St,49.964,69.123,36.14,Appalachian State,Sun Belt,#000000,http://a.espncdn.com/i/teamlogos/ncaa/500/2026.png
+6,235,Memphis,52.583,49.535000000000004,50.878,Memphis,American Athletic,#003087,http://a.espncdn.com/i/teamlogos/ncaa/500/235.png
+6,248,Houston,49.899,45.839999999999996,54.55,Houston,American Athletic,#C90822,http://a.espncdn.com/i/teamlogos/ncaa/500/248.png
+6,68,Boise St,45.744,27.929,70.44500000000001,Boise State,Mountain West,#09347A,http://a.espncdn.com/i/teamlogos/ncaa/500/68.png
+6,25,California,54.696,55.352999999999994,56.362,California,Pac-12,#031522,http://a.espncdn.com/i/teamlogos/ncaa/500/25.png
+6,6,South Alabama,74.86500000000001,60.916000000000004,76.088,South Alabama,Sun Belt,#003E7E,http://a.espncdn.com/i/teamlogos/ncaa/500/6.png
+6,151,East Carolina,51.925,65.602,41.461999999999996,East Carolina,American Athletic,#4b1869,http://a.espncdn.com/i/teamlogos/ncaa/500/151.png
+6,2335,Liberty,59.628,46.036,70.32300000000001,Liberty,FBS Independents,#071740,http://a.espncdn.com/i/teamlogos/ncaa/500/2335.png
+6,276,Marshall,54.367,26.912000000000003,81.766,Marshall,Sun Belt,#00ae42,http://a.espncdn.com/i/teamlogos/ncaa/500/276.png
+6,150,Duke,64.915,75.812,41.138999999999996,Duke,ACC,#001A57,http://a.espncdn.com/i/teamlogos/ncaa/500/150.png
+6,2653,Troy,61.06399999999999,46.898,70.62899999999999,Troy,Sun Belt,#AE0210,http://a.espncdn.com/i/teamlogos/ncaa/500/2653.png
+6,9,Arizona St,47.211999999999996,51.205,44.137,Arizona State,Pac-12,#942139,http://a.espncdn.com/i/teamlogos/ncaa/500/9.png
+6,2636,UTSA,55.631,66.669,38.464,UT San Antonio,Conference USA,#002A5C,http://a.espncdn.com/i/teamlogos/ncaa/500/2636.png
+6,2005,Air Force,50.417,58.611999999999995,39.957,Air Force,Mountain West,#004a7b,http://a.espncdn.com/i/teamlogos/ncaa/500/2005.png
+6,24,Stanford,38.388,50.312,37.53,Stanford,Pac-12,#A80532,http://a.espncdn.com/i/teamlogos/ncaa/500/24.png
+6,23,San José St,58.192,58.221999999999994,61.251999999999995,San José State,Mountain West,#005893,http://a.espncdn.com/i/teamlogos/ncaa/500/23.png
+6,2649,Toledo,59.499,51.412,66.257,Toledo,Mid-American,#ffffff,http://a.espncdn.com/i/teamlogos/ncaa/500/2649.png
+6,158,Nebraska,33.745999999999995,42.3,31.290000000000003,Nebraska,Big Ten,#F20017,http://a.espncdn.com/i/teamlogos/ncaa/500/158.png
+6,324,Coastal Car,51.61,60.339,46.244,Coastal Carolina,Sun Belt,#007073,http://a.espncdn.com/i/teamlogos/ncaa/500/324.png
+6,84,Indiana,44.421,35.794,54.962999999999994,Indiana,Big Ten,#7D110C,http://a.espncdn.com/i/teamlogos/ncaa/500/84.png
+6,164,Rutgers,43.376,24.624,59.901,Rutgers,Big Ten,#d21034,http://a.espncdn.com/i/teamlogos/ncaa/500/164.png
+6,59,Georgia Tech,53.410999999999994,41.5,70.26599999999999,Georgia Tech,ACC,#00223e,http://a.espncdn.com/i/teamlogos/ncaa/500/59.png
+6,258,Virginia,36.687,30.926,50.934000000000005,Virginia,ACC,#f84c1e,http://a.espncdn.com/i/teamlogos/ncaa/500/258.png
+6,2226,FAU,42.626,45.593,48.008,Florida Atlantic,Conference USA,#004B85,http://a.espncdn.com/i/teamlogos/ncaa/500/2226.png
+6,12,Arizona,43.067,65.333,24.762999999999998,Arizona,Pac-12,#002449,http://a.espncdn.com/i/teamlogos/ncaa/500/12.png
+6,2572,Southern Miss,54.711,23.384,70.167,Southern Mississippi,Sun Belt,#FFAA3C,http://a.espncdn.com/i/teamlogos/ncaa/500/2572.png
+6,202,Tulsa,43.572,58.39,37.895,Tulsa,American Athletic,#004371,http://a.espncdn.com/i/teamlogos/ncaa/500/202.png
+6,290,Georgia So,42.224000000000004,60.099000000000004,19.84,Georgia Southern,Sun Belt,#003775,http://a.espncdn.com/i/teamlogos/ncaa/500/290.png
+6,309,Louisiana,39.704,23.196,56.618,Louisiana,Sun Belt,#ce2842,http://a.espncdn.com/i/teamlogos/ncaa/500/309.png
+6,349,Army,30.576999999999998,55.16,19.317999999999998,Army,FBS Independents,#ce9c00,http://a.espncdn.com/i/teamlogos/ncaa/500/349.png
+6,2084,Buffalo,42.521,43.35,45.418,Buffalo,Mid-American,#041A9B,http://a.espncdn.com/i/teamlogos/ncaa/500/2084.png
+6,2247,Georgia St,36.265,30.107,54.00899999999999,Georgia State,Sun Belt,#1e539a,http://a.espncdn.com/i/teamlogos/ncaa/500/2247.png
+6,2393,MTSU,53.664,43.277,52.635,Middle Tennessee,Conference USA,#0079C2,http://a.espncdn.com/i/teamlogos/ncaa/500/2393.png
+6,278,Fresno St,40.249,45.775,35.737,Fresno State,Mountain West,#c41230,http://a.espncdn.com/i/teamlogos/ncaa/500/278.png
+6,238,Vanderbilt,43.495,43.018,42.28,Vanderbilt,SEC,#000000,http://a.espncdn.com/i/teamlogos/ncaa/500/238.png
+6,2426,Navy,40.921,21.819,64.313,Navy,American Athletic,#131630,http://a.espncdn.com/i/teamlogos/ncaa/500/2426.png
+6,103,Boston College,31.407,27.200000000000003,50.439,Boston College,ACC,#88001a,http://a.espncdn.com/i/teamlogos/ncaa/500/103.png
+6,2309,Kent State,38.804,49.873,34.283,Kent State,Mid-American,#002445,http://a.espncdn.com/i/teamlogos/ncaa/500/2309.png
+6,2032,Arkansas St,42.991,52.908,21.678,Arkansas State,Sun Belt,#e81018,http://a.espncdn.com/i/teamlogos/ncaa/500/2032.png
+6,259,Virginia Tech,41.977,26.983,61.49400000000001,Virginia Tech,ACC,#74232D,http://a.espncdn.com/i/teamlogos/ncaa/500/259.png
+6,2439,UNLV,47.304,50.712999999999994,40.821000000000005,UNLV,Mountain West,#000000,http://a.espncdn.com/i/teamlogos/ncaa/500/2439.png
+6,2348,Louisiana Tech,41.745,37.047999999999995,51.306,Louisiana Tech,Conference USA,#002d65,http://a.espncdn.com/i/teamlogos/ncaa/500/2348.png
+6,249,North Texas,41.260000000000005,53.833,31.441999999999997,North Texas,Conference USA,#00853D,http://a.espncdn.com/i/teamlogos/ncaa/500/249.png
+6,2117,C Michigan,20.71,19.727,36.645,Central Michigan,Mid-American,#6a0032,http://a.espncdn.com/i/teamlogos/ncaa/500/2117.png
+6,242,Rice,48.266999999999996,39.787,55.54,Rice,Conference USA,#003D7D,http://a.espncdn.com/i/teamlogos/ncaa/500/242.png
+6,2751,Wyoming,35.521,23.994,39.238,Wyoming,Mountain West,#533B22,http://a.espncdn.com/i/teamlogos/ncaa/500/2751.png
+6,77,Northwestern,23.278,21.611,36.134,Northwestern,Big Ten,#372286,http://a.espncdn.com/i/teamlogos/ncaa/500/77.png
+6,193,Miami OH,41.742000000000004,31.225,50.592000000000006,Miami (OH),Mid-American,#a4000c,http://a.espncdn.com/i/teamlogos/ncaa/500/193.png
+6,21,San Diego St,28.218,11.405,40.385,San Diego State,Mountain West,#BF2C37,http://a.espncdn.com/i/teamlogos/ncaa/500/21.png
+6,58,South Florida,24.537,42.297000000000004,18.282999999999998,South Florida,American Athletic,#004A36,http://a.espncdn.com/i/teamlogos/ncaa/500/58.png
+6,295,Old Dominion,34.964,25.589000000000002,48.63,Old Dominion,Sun Belt,#00507d,http://a.espncdn.com/i/teamlogos/ncaa/500/295.png
+6,326,Texas St,34.641,17.551,67.904,Texas State,Sun Belt,#4e1719,http://a.espncdn.com/i/teamlogos/ncaa/500/326.png
+6,328,Utah State,24.64,21.745,34.07,Utah State,Mountain West,#003263,http://a.espncdn.com/i/teamlogos/ncaa/500/328.png
+6,2199,E Michigan,38.501999999999995,61.868,22.307,Eastern Michigan,Mid-American,#00331b,http://a.espncdn.com/i/teamlogos/ncaa/500/2199.png
+6,2459,N Illinois,28.346,52.966,14.033000000000001,Northern Illinois,Mid-American,#F1122C,http://a.espncdn.com/i/teamlogos/ncaa/500/2459.png
+6,2711,W Michigan,25.235000000000003,32.048,24.875,Western Michigan,Mid-American,#532e1f,http://a.espncdn.com/i/teamlogos/ncaa/500/2711.png
+6,2433,UL Monroe,28.147,38.182,37.821,Louisiana Monroe,Sun Belt,#231F20,http://a.espncdn.com/i/teamlogos/ncaa/500/2433.png
+6,195,Ohio,30.644,53.361999999999995,17.51,Ohio,Mid-American,#295A29,http://a.espncdn.com/i/teamlogos/ncaa/500/195.png
+6,2050,Ball State,28.433999999999997,20.164,47.693999999999996,Ball State,Mid-American,#DA0000,http://a.espncdn.com/i/teamlogos/ncaa/500/2050.png
+6,2440,Nevada,20.493,14.796999999999999,39.190999999999995,Nevada,Mountain West,#153E5F,http://a.espncdn.com/i/teamlogos/ncaa/500/2440.png
+6,167,New Mexico,30.702,14.512,65.835,New Mexico,Mountain West,#000000,http://a.espncdn.com/i/teamlogos/ncaa/500/167.png
+6,2638,UTEP,23.827,22.499,34.193,UTEP,Conference USA,#ff8200,http://a.espncdn.com/i/teamlogos/ncaa/500/2638.png
+6,218,Temple,28.335,7.022,66.603,Temple,American Athletic,#A80532,http://a.espncdn.com/i/teamlogos/ncaa/500/218.png
+6,38,Colorado,13.379,12.183,29.738999999999997,Colorado,Pac-12,#d1c57e,http://a.espncdn.com/i/teamlogos/ncaa/500/38.png
+6,41,UConn,22.724,21.755,39.792,Connecticut,FBS Independents,#001d40,http://a.espncdn.com/i/teamlogos/ncaa/500/41.png
+6,36,Colorado St,13.96,5.902,42.113,Colorado State,Mountain West,#004537,http://a.espncdn.com/i/teamlogos/ncaa/500/36.png
+6,2429,Charlotte,14.446,44.214999999999996,6.349,Charlotte,Conference USA,#ffffff,http://a.espncdn.com/i/teamlogos/ncaa/500/2429.png
+6,189,Bowling Green,23.183,28.253,24.139,Bowling Green,Mid-American,#2b1000,http://a.espncdn.com/i/teamlogos/ncaa/500/189.png
+6,2006,Akron,15.834000000000001,20.759,22.207,Akron,Mid-American,#00285e,http://a.espncdn.com/i/teamlogos/ncaa/500/2006.png
+6,62,Hawai'i,9.158,11.402,13.611,Hawai'i,Mountain West,#003420,http://a.espncdn.com/i/teamlogos/ncaa/500/62.png
+6,113,UMass,14.588000000000001,12.238,33.162000000000006,UMass,FBS Independents,#880007,http://a.espncdn.com/i/teamlogos/ncaa/500/113.png
+6,166,New Mexico St,9.562,13.741,16.304,New Mexico State,FBS Independents,#891216,http://a.espncdn.com/i/teamlogos/ncaa/500/166.png
+6,2229,FIU,7.979,14.113999999999999,9.2,Florida International,Conference USA,#001538,http://a.espncdn.com/i/teamlogos/ncaa/500/2229.png
+7,194,Ohio State,94.339,98.207,74.385,Ohio State,Big Ten,#DE3121,http://a.espncdn.com/i/teamlogos/ncaa/500/194.png
+7,333,Alabama,89.46,83.36200000000001,85.807,Alabama,SEC,#690014,http://a.espncdn.com/i/teamlogos/ncaa/500/333.png
+7,61,Georgia,90.718,84.322,90.42099999999999,Georgia,SEC,#CC0000,http://a.espncdn.com/i/teamlogos/ncaa/500/61.png
+7,130,Michigan,88.524,84.909,78.142,Michigan,Big Ten,#00274c,http://a.espncdn.com/i/teamlogos/ncaa/500/130.png
+7,251,Texas,83.997,82.236,73.424,Texas,Big 12,#EE7524,http://a.espncdn.com/i/teamlogos/ncaa/500/251.png
+7,2633,Tennessee,87.848,90.039,66.671,Tennessee,SEC,#EE9627,http://a.espncdn.com/i/teamlogos/ncaa/500/2633.png
+7,228,Clemson,80.098,78.225,68.599,Clemson,ACC,#F66733,http://a.espncdn.com/i/teamlogos/ncaa/500/228.png
+7,145,Ole Miss,80.496,83.367,63.188,Ole Miss,SEC,#001148,http://a.espncdn.com/i/teamlogos/ncaa/500/145.png
+7,254,Utah,77.373,78.946,66.81700000000001,Utah,Pac-12,#890012,http://a.espncdn.com/i/teamlogos/ncaa/500/254.png
+7,30,USC,82.735,91.34,52.412000000000006,USC,Pac-12,#ffc72c,http://a.espncdn.com/i/teamlogos/ncaa/500/30.png
+7,99,LSU,76.546,74.81400000000001,75.50200000000001,LSU,SEC,#fdd023,http://a.espncdn.com/i/teamlogos/ncaa/500/99.png
+7,2483,Oregon,81.443,87.11,61.137,Oregon,Pac-12,#044520,http://a.espncdn.com/i/teamlogos/ncaa/500/2483.png
+7,2628,TCU,81.978,84.322,67.779,TCU,Big 12,#3C377D,http://a.espncdn.com/i/teamlogos/ncaa/500/2628.png
+7,213,Penn State,77.127,61.385999999999996,78.218,Penn State,Big Ten,#00265D,http://a.espncdn.com/i/teamlogos/ncaa/500/213.png
+7,197,Oklahoma St,78.038,67.489,65.742,Oklahoma State,Big 12,#FF6500,http://a.espncdn.com/i/teamlogos/ncaa/500/197.png
+7,344,Mississippi St,78.93299999999999,64.666,78.92,Mississippi State,SEC,#762123,http://a.espncdn.com/i/teamlogos/ncaa/500/344.png
+7,135,Minnesota,76.911,68.65299999999999,77.507,Minnesota,Big Ten,#981a31,http://a.espncdn.com/i/teamlogos/ncaa/500/135.png
+7,239,Baylor,64.718,71.468,60.007999999999996,Baylor,Big 12,#004834,http://a.espncdn.com/i/teamlogos/ncaa/500/239.png
+7,2116,UCF,70.453,70.042,60.284000000000006,UCF,American Athletic,#000000,http://a.espncdn.com/i/teamlogos/ncaa/500/2116.png
+7,120,Maryland,72.13300000000001,76.62400000000001,58.595,Maryland,Big Ten,#D5002B,http://a.espncdn.com/i/teamlogos/ncaa/500/120.png
+7,87,Notre Dame,62.439,47.642,68.431,Notre Dame,FBS Independents,#00122b,http://a.espncdn.com/i/teamlogos/ncaa/500/87.png
+7,245,Texas A&M,67.66499999999999,42.916,73.643,Texas A&M,SEC,#5C0025,http://a.espncdn.com/i/teamlogos/ncaa/500/245.png
+7,2306,Kansas St,75.212,56.242999999999995,83.212,Kansas State,Big 12,#633194,http://a.espncdn.com/i/teamlogos/ncaa/500/2306.png
+7,183,Syracuse,72.369,68.227,66.07600000000001,Syracuse,ACC,#F37321,http://a.espncdn.com/i/teamlogos/ncaa/500/183.png
+7,52,Florida St,69.35900000000001,76.099,54.246,Florida State,ACC,#782F40,http://a.espncdn.com/i/teamlogos/ncaa/500/52.png
+7,26,UCLA,70.48,81.741,53.673,UCLA,Pac-12,#005C8E,http://a.espncdn.com/i/teamlogos/ncaa/500/26.png
+7,2132,Cincinnati,64.805,52.705999999999996,67.51700000000001,Cincinnati,American Athletic,#000000,http://a.espncdn.com/i/teamlogos/ncaa/500/2132.png
+7,66,Iowa State,66.542,53.055,76.592,Iowa State,Big 12,#660015,http://a.espncdn.com/i/teamlogos/ncaa/500/66.png
+7,154,Wake Forest,72.867,73.412,64.447,Wake Forest,ACC,#9E7E38,http://a.espncdn.com/i/teamlogos/ncaa/500/154.png
+7,2509,Purdue,68.821,66.293,66.164,Purdue,Big Ten,#B89D29,http://a.espncdn.com/i/teamlogos/ncaa/500/2509.png
+7,96,Kentucky,69.029,49.564,83.48299999999999,Kentucky,SEC,#005DAA,http://a.espncdn.com/i/teamlogos/ncaa/500/96.png
+7,275,Wisconsin,58.282999999999994,62.404,54.05799999999999,Wisconsin,Big Ten,#A00001,http://a.espncdn.com/i/teamlogos/ncaa/500/275.png
+7,152,NC State,68.78999999999999,38.336,80.83500000000001,NC State,ACC,#EF1216,http://a.espncdn.com/i/teamlogos/ncaa/500/152.png
+7,264,Washington,66.955,80.061,42.117,Washington,Pac-12,#2B2F64,http://a.espncdn.com/i/teamlogos/ncaa/500/264.png
+7,356,Illinois,72.707,53.632000000000005,85.786,Illinois,Big Ten,#f77329,http://a.espncdn.com/i/teamlogos/ncaa/500/356.png
+7,201,Oklahoma,59.519,71.237,40.949999999999996,Oklahoma,Big 12,#7b0000,http://a.espncdn.com/i/teamlogos/ncaa/500/201.png
+7,277,West Virginia,64.078,71.95,38.39,West Virginia,Big 12,#FFC600,http://a.espncdn.com/i/teamlogos/ncaa/500/277.png
+7,153,North Carolina,63.035,84.27799999999999,28.516000000000002,North Carolina,ACC,#99bfe5,http://a.espncdn.com/i/teamlogos/ncaa/500/153.png
+7,97,Louisville,66.968,53.176,70.375,Louisville,ACC,#ad000a,http://a.espncdn.com/i/teamlogos/ncaa/500/97.png
+7,2294,Iowa,61.696,16.625,86.41799999999999,Iowa,Big Ten,#000000,http://a.espncdn.com/i/teamlogos/ncaa/500/2294.png
+7,127,Michigan St,49.827,52.538,47.504999999999995,Michigan State,Big Ten,#18453B,http://a.espncdn.com/i/teamlogos/ncaa/500/127.png
+7,57,Florida,59.077999999999996,67.072,48.213,Florida,SEC,#0021A5,http://a.espncdn.com/i/teamlogos/ncaa/500/57.png
+7,221,Pitt,53.690000000000005,48.221000000000004,63.58200000000001,Pittsburgh,ACC,#003263,http://a.espncdn.com/i/teamlogos/ncaa/500/221.png
+7,8,Arkansas,58.345,71.343,40.775,Arkansas,SEC,#9c1831,http://a.espncdn.com/i/teamlogos/ncaa/500/8.png
+7,2390,Miami,47.714,52.05,46.091,Miami,ACC,#004325,http://a.espncdn.com/i/teamlogos/ncaa/500/2390.png
+7,204,Oregon St,67.12700000000001,63.27,63.525,Oregon State,Pac-12,#c34500,http://a.espncdn.com/i/teamlogos/ncaa/500/204.png
+7,2641,Texas Tech,58.25,56.67100000000001,66.445,Texas Tech,Big 12,#C80025,http://a.espncdn.com/i/teamlogos/ncaa/500/2641.png
+7,2655,Tulane,65.825,53.358000000000004,72.207,Tulane,American Athletic,#005837,http://a.espncdn.com/i/teamlogos/ncaa/500/2655.png
+7,2579,South Carolina,61.027,52.568000000000005,52.532999999999994,South Carolina,SEC,#670010,http://a.espncdn.com/i/teamlogos/ncaa/500/2579.png
+7,2,Auburn,53.809,43.564,62.343,Auburn,SEC,#03244d,http://a.espncdn.com/i/teamlogos/ncaa/500/2.png
+7,98,Western KY,58.592999999999996,60.858999999999995,60.429,Western Kentucky,Conference USA,#F32026,http://a.espncdn.com/i/teamlogos/ncaa/500/98.png
+7,2305,Kansas,73.76700000000001,84.15,49.681,Kansas,Big 12,#0022B4,http://a.espncdn.com/i/teamlogos/ncaa/500/2305.png
+7,2567,SMU,59.06400000000001,67.205,47.392,SMU,American Athletic,#E32F38,http://a.espncdn.com/i/teamlogos/ncaa/500/2567.png
+7,252,BYU,54.291,72.599,39.89,BYU,FBS Independents,#001E4C,http://a.espncdn.com/i/teamlogos/ncaa/500/252.png
+7,142,Missouri,61.968,35.536,78.125,Missouri,SEC,#000000,http://a.espncdn.com/i/teamlogos/ncaa/500/142.png
+7,2026,Appalachian St,48.732,67.148,36.52,Appalachian State,Sun Belt,#000000,http://a.espncdn.com/i/teamlogos/ncaa/500/2026.png
+7,2005,Air Force,60.629999999999995,64.96600000000001,47.601,Air Force,Mountain West,#004a7b,http://a.espncdn.com/i/teamlogos/ncaa/500/2005.png
+7,265,Washington St,64.06500000000001,44.914,72.395,Washington State,Pac-12,#94022a,http://a.espncdn.com/i/teamlogos/ncaa/500/265.png
+7,5,UAB,55.732000000000006,48.039,63.17700000000001,UAB,Conference USA,#003b28,http://a.espncdn.com/i/teamlogos/ncaa/500/5.png
+7,256,James Madison,71.025,60.539,80.655,James Madison,Sun Belt,#450084,http://a.espncdn.com/i/teamlogos/ncaa/500/256.png
+7,235,Memphis,53.507000000000005,50.77700000000001,51.727999999999994,Memphis,American Athletic,#003087,http://a.espncdn.com/i/teamlogos/ncaa/500/235.png
+7,24,Stanford,49.866,51.817,52.327,Stanford,Pac-12,#A80532,http://a.espncdn.com/i/teamlogos/ncaa/500/24.png
+7,248,Houston,49.393,45.267,54.323,Houston,American Athletic,#C90822,http://a.espncdn.com/i/teamlogos/ncaa/500/248.png
+7,151,East Carolina,52.522000000000006,65.027,42.308,East Carolina,American Athletic,#4b1869,http://a.espncdn.com/i/teamlogos/ncaa/500/151.png
+7,68,Boise St,45.472,28.723,69.126,Boise State,Mountain West,#09347A,http://a.espncdn.com/i/teamlogos/ncaa/500/68.png
+7,150,Duke,61.389,72.059,42.337,Duke,ACC,#001A57,http://a.espncdn.com/i/teamlogos/ncaa/500/150.png
+7,2649,Toledo,58.965,56.042,59.348,Toledo,Mid-American,#ffffff,http://a.espncdn.com/i/teamlogos/ncaa/500/2649.png
+7,6,South Alabama,70.176,63.105999999999995,66.526,South Alabama,Sun Belt,#003E7E,http://a.espncdn.com/i/teamlogos/ncaa/500/6.png
+7,2636,UTSA,55.498999999999995,63.641000000000005,41.914,UT San Antonio,Conference USA,#002A5C,http://a.espncdn.com/i/teamlogos/ncaa/500/2636.png
+7,9,Arizona St,45.806999999999995,47.056,45.455,Arizona State,Pac-12,#942139,http://a.espncdn.com/i/teamlogos/ncaa/500/9.png
+7,2653,Troy,57.007,44.938,66.714,Troy,Sun Belt,#AE0210,http://a.espncdn.com/i/teamlogos/ncaa/500/2653.png
+7,158,Nebraska,38.826,46.383,34.525,Nebraska,Big Ten,#F20017,http://a.espncdn.com/i/teamlogos/ncaa/500/158.png
+7,25,California,48.082,42.870999999999995,57.355999999999995,California,Pac-12,#031522,http://a.espncdn.com/i/teamlogos/ncaa/500/25.png
+7,276,Marshall,45.586,25.668999999999997,73.837,Marshall,Sun Belt,#00ae42,http://a.espncdn.com/i/teamlogos/ncaa/500/276.png
+7,84,Indiana,46.882000000000005,39.384,54.56100000000001,Indiana,Big Ten,#7D110C,http://a.espncdn.com/i/teamlogos/ncaa/500/84.png
+7,2335,Liberty,51.713,37.145,65.09700000000001,Liberty,FBS Independents,#071740,http://a.espncdn.com/i/teamlogos/ncaa/500/2335.png
+7,23,San José St,53.061,47.236,66.024,San José State,Mountain West,#005893,http://a.espncdn.com/i/teamlogos/ncaa/500/23.png
+7,258,Virginia,39.163,31.548,54.383,Virginia,ACC,#f84c1e,http://a.espncdn.com/i/teamlogos/ncaa/500/258.png
+7,309,Louisiana,45.891999999999996,27.288,59.336,Louisiana,Sun Belt,#ce2842,http://a.espncdn.com/i/teamlogos/ncaa/500/309.png
+7,59,Georgia Tech,53.884,39.415,72.41300000000001,Georgia Tech,ACC,#00223e,http://a.espncdn.com/i/teamlogos/ncaa/500/59.png
+7,12,Arizona,45.052,71.02199999999999,22.261,Arizona,Pac-12,#002449,http://a.espncdn.com/i/teamlogos/ncaa/500/12.png
+7,290,Georgia So,43.375,59.831999999999994,23.055999999999997,Georgia Southern,Sun Belt,#003775,http://a.espncdn.com/i/teamlogos/ncaa/500/290.png
+7,164,Rutgers,42.812,22.259999999999998,61.928000000000004,Rutgers,Big Ten,#d21034,http://a.espncdn.com/i/teamlogos/ncaa/500/164.png
+7,2226,FAU,41.848,39.202,53.92400000000001,Florida Atlantic,Conference USA,#004B85,http://a.espncdn.com/i/teamlogos/ncaa/500/2226.png
+7,202,Tulsa,44.396,58.227,39.512,Tulsa,American Athletic,#004371,http://a.espncdn.com/i/teamlogos/ncaa/500/202.png
+7,324,Coastal Car,43.321,55.897,37.279,Coastal Carolina,Sun Belt,#007073,http://a.espncdn.com/i/teamlogos/ncaa/500/324.png
+7,2084,Buffalo,44.442,46.225,44.551,Buffalo,Mid-American,#041A9B,http://a.espncdn.com/i/teamlogos/ncaa/500/2084.png
+7,278,Fresno St,42.917,38.875,44.565,Fresno State,Mountain West,#c41230,http://a.espncdn.com/i/teamlogos/ncaa/500/278.png
+7,2426,Navy,40.636,29.798000000000002,57.731,Navy,American Athletic,#131630,http://a.espncdn.com/i/teamlogos/ncaa/500/2426.png
+7,2572,Southern Miss,47.771,21.834999999999997,66.39699999999999,Southern Mississippi,Sun Belt,#FFAA3C,http://a.espncdn.com/i/teamlogos/ncaa/500/2572.png
+7,349,Army,31.423000000000002,59.907,17.405,Army,FBS Independents,#ce9c00,http://a.espncdn.com/i/teamlogos/ncaa/500/349.png
+7,2247,Georgia St,36.015,28.498,55.346,Georgia State,Sun Belt,#1e539a,http://a.espncdn.com/i/teamlogos/ncaa/500/2247.png
+7,259,Virginia Tech,41.108,26.212000000000003,61.114999999999995,Virginia Tech,ACC,#74232D,http://a.espncdn.com/i/teamlogos/ncaa/500/259.png
+7,295,Old Dominion,45.118,38.797,51.49399999999999,Old Dominion,Sun Belt,#00507d,http://a.espncdn.com/i/teamlogos/ncaa/500/295.png
+7,2032,Arkansas St,44.699,51.769,27.04,Arkansas State,Sun Belt,#e81018,http://a.espncdn.com/i/teamlogos/ncaa/500/2032.png
+7,103,Boston College,31.616,27.057,50.946000000000005,Boston College,ACC,#88001a,http://a.espncdn.com/i/teamlogos/ncaa/500/103.png
+7,2393,MTSU,46.400999999999996,32.174,52.32599999999999,Middle Tennessee,Conference USA,#0079C2,http://a.espncdn.com/i/teamlogos/ncaa/500/2393.png
+7,249,North Texas,43.589,59.804,30.219,North Texas,Conference USA,#00853D,http://a.espncdn.com/i/teamlogos/ncaa/500/249.png
+7,238,Vanderbilt,42.196,42.085,41.241,Vanderbilt,SEC,#000000,http://a.espncdn.com/i/teamlogos/ncaa/500/238.png
+7,2309,Kent State,38.564,53.907000000000004,30.720999999999997,Kent State,Mid-American,#002445,http://a.espncdn.com/i/teamlogos/ncaa/500/2309.png
+7,242,Rice,48.491,33.464,61.60099999999999,Rice,Conference USA,#003D7D,http://a.espncdn.com/i/teamlogos/ncaa/500/242.png
+7,2751,Wyoming,34.929,23.355999999999998,39.015,Wyoming,Mountain West,#533B22,http://a.espncdn.com/i/teamlogos/ncaa/500/2751.png
+7,77,Northwestern,22.668,20.794,36.042,Northwestern,Big Ten,#372286,http://a.espncdn.com/i/teamlogos/ncaa/500/77.png
+7,2117,C Michigan,23.319000000000003,19.945,41.661,Central Michigan,Mid-American,#6a0032,http://a.espncdn.com/i/teamlogos/ncaa/500/2117.png
+7,2348,Louisiana Tech,34.412,37.985,36.707,Louisiana Tech,Conference USA,#002d65,http://a.espncdn.com/i/teamlogos/ncaa/500/2348.png
+7,21,San Diego St,29.557,10.387,44.454,San Diego State,Mountain West,#BF2C37,http://a.espncdn.com/i/teamlogos/ncaa/500/21.png
+7,2459,N Illinois,35.38,50.06699999999999,23.334,Northern Illinois,Mid-American,#F1122C,http://a.espncdn.com/i/teamlogos/ncaa/500/2459.png
+7,2439,UNLV,37.385000000000005,44.375,33.78,UNLV,Mountain West,#000000,http://a.espncdn.com/i/teamlogos/ncaa/500/2439.png
+7,326,Texas St,36.264,20.396,65.28699999999999,Texas State,Sun Belt,#4e1719,http://a.espncdn.com/i/teamlogos/ncaa/500/326.png
+7,58,South Florida,23.798,39.791,19.114,South Florida,American Athletic,#004A36,http://a.espncdn.com/i/teamlogos/ncaa/500/58.png
+7,328,Utah State,27.750000000000004,21.484,42.452,Utah State,Mountain West,#003263,http://a.espncdn.com/i/teamlogos/ncaa/500/328.png
+7,193,Miami OH,39.151,24.585,50.17700000000001,Miami (OH),Mid-American,#a4000c,http://a.espncdn.com/i/teamlogos/ncaa/500/193.png
+7,195,Ohio,36.911,50.86000000000001,25.285999999999998,Ohio,Mid-American,#295A29,http://a.espncdn.com/i/teamlogos/ncaa/500/195.png
+7,2433,UL Monroe,28.338,42.063,32.72,Louisiana Monroe,Sun Belt,#231F20,http://a.espncdn.com/i/teamlogos/ncaa/500/2433.png
+7,38,Colorado,21.009,13.774000000000001,43.646,Colorado,Pac-12,#d1c57e,http://a.espncdn.com/i/teamlogos/ncaa/500/38.png
+7,2050,Ball State,27.589999999999996,21.46,45.262,Ball State,Mid-American,#DA0000,http://a.espncdn.com/i/teamlogos/ncaa/500/2050.png
+7,2199,E Michigan,30.329,48.012,23.029,Eastern Michigan,Mid-American,#00331b,http://a.espncdn.com/i/teamlogos/ncaa/500/2199.png
+7,2638,UTEP,23.655,20.814,36.165000000000006,UTEP,Conference USA,#ff8200,http://a.espncdn.com/i/teamlogos/ncaa/500/2638.png
+7,2711,W Michigan,19.767000000000003,22.400000000000002,27.681,Western Michigan,Mid-American,#532e1f,http://a.espncdn.com/i/teamlogos/ncaa/500/2711.png
+7,2440,Nevada,20.021,16.409000000000002,34.801,Nevada,Mountain West,#153E5F,http://a.espncdn.com/i/teamlogos/ncaa/500/2440.png
+7,167,New Mexico,25.655,11.415000000000001,61.822,New Mexico,Mountain West,#000000,http://a.espncdn.com/i/teamlogos/ncaa/500/167.png
+7,218,Temple,25.801000000000002,10.796,54.532000000000004,Temple,American Athletic,#A80532,http://a.espncdn.com/i/teamlogos/ncaa/500/218.png
+7,41,UConn,24.741,24.198,38.743,Connecticut,FBS Independents,#001d40,http://a.espncdn.com/i/teamlogos/ncaa/500/41.png
+7,2429,Charlotte,18.133,46.135999999999996,9.06,Charlotte,Conference USA,#ffffff,http://a.espncdn.com/i/teamlogos/ncaa/500/2429.png
+7,189,Bowling Green,23.333000000000002,26.686,29.015,Bowling Green,Mid-American,#2b1000,http://a.espncdn.com/i/teamlogos/ncaa/500/189.png
+7,36,Colorado St,13.839000000000002,5.002,42.058,Colorado State,Mountain West,#004537,http://a.espncdn.com/i/teamlogos/ncaa/500/36.png
+7,62,Hawai'i,12.645999999999999,17.993000000000002,15.305,Hawai'i,Mountain West,#003420,http://a.espncdn.com/i/teamlogos/ncaa/500/62.png
+7,2006,Akron,16.479,19.713,23.858999999999998,Akron,Mid-American,#00285e,http://a.espncdn.com/i/teamlogos/ncaa/500/2006.png
+7,166,New Mexico St,13.084999999999999,16.367,21.125,New Mexico State,FBS Independents,#891216,http://a.espncdn.com/i/teamlogos/ncaa/500/166.png
+7,113,UMass,10.992,10.937,25.812,UMass,FBS Independents,#880007,http://a.espncdn.com/i/teamlogos/ncaa/500/113.png
+7,2229,FIU,7.846,10.93,12.078,Florida International,Conference USA,#001538,http://a.espncdn.com/i/teamlogos/ncaa/500/2229.png
+8,194,Ohio State,94.402,96.542,82.67099999999999,Ohio State,Big Ten,#DE3121,http://a.espncdn.com/i/teamlogos/ncaa/500/194.png
+8,333,Alabama,90.205,83.93,85.72,Alabama,SEC,#690014,http://a.espncdn.com/i/teamlogos/ncaa/500/333.png
+8,61,Georgia,90.577,84.747,89.75,Georgia,SEC,#CC0000,http://a.espncdn.com/i/teamlogos/ncaa/500/61.png
+8,130,Michigan,88.369,85.408,77.034,Michigan,Big Ten,#00274c,http://a.espncdn.com/i/teamlogos/ncaa/500/130.png
+8,2633,Tennessee,87.26,90.335,63.821000000000005,Tennessee,SEC,#EE9627,http://a.espncdn.com/i/teamlogos/ncaa/500/2633.png
+8,251,Texas,82.234,79.06400000000001,70.853,Texas,Big 12,#EE7524,http://a.espncdn.com/i/teamlogos/ncaa/500/251.png
+8,228,Clemson,79.398,74.134,70.76599999999999,Clemson,ACC,#F66733,http://a.espncdn.com/i/teamlogos/ncaa/500/228.png
+8,254,Utah,78.157,79.73700000000001,67.331,Utah,Pac-12,#890012,http://a.espncdn.com/i/teamlogos/ncaa/500/254.png
+8,99,LSU,78.52900000000001,78.791,74.802,LSU,SEC,#fdd023,http://a.espncdn.com/i/teamlogos/ncaa/500/99.png
+8,30,USC,83.831,92.28,52.675000000000004,USC,Pac-12,#ffc72c,http://a.espncdn.com/i/teamlogos/ncaa/500/30.png
+8,213,Penn State,79.39699999999999,65.81099999999999,79.381,Penn State,Big Ten,#00265D,http://a.espncdn.com/i/teamlogos/ncaa/500/213.png
+8,145,Ole Miss,78.069,83.68299999999999,56.24,Ole Miss,SEC,#001148,http://a.espncdn.com/i/teamlogos/ncaa/500/145.png
+8,2483,Oregon,82.05799999999999,89.405,56.56099999999999,Oregon,Pac-12,#044520,http://a.espncdn.com/i/teamlogos/ncaa/500/2483.png
+8,197,Oklahoma St,78.521,70.67999999999999,70.151,Oklahoma State,Big 12,#FF6500,http://a.espncdn.com/i/teamlogos/ncaa/500/197.png
+8,2628,TCU,81.53099999999999,86.233,62.419000000000004,TCU,Big 12,#3C377D,http://a.espncdn.com/i/teamlogos/ncaa/500/2628.png
+8,344,Mississippi St,76.935,64.217,77.657,Mississippi State,SEC,#762123,http://a.espncdn.com/i/teamlogos/ncaa/500/344.png
+8,239,Baylor,65.28399999999999,71.083,59.684000000000005,Baylor,Big 12,#004834,http://a.espncdn.com/i/teamlogos/ncaa/500/239.png
+8,183,Syracuse,75.087,69.598,71.34,Syracuse,ACC,#F37321,http://a.espncdn.com/i/teamlogos/ncaa/500/183.png
+8,154,Wake Forest,73.237,76.112,61.062000000000005,Wake Forest,ACC,#9E7E38,http://a.espncdn.com/i/teamlogos/ncaa/500/154.png
+8,52,Florida St,70.631,77.812,54.299,Florida State,ACC,#782F40,http://a.espncdn.com/i/teamlogos/ncaa/500/52.png
+8,87,Notre Dame,62.916000000000004,46.961000000000006,66.70700000000001,Notre Dame,FBS Independents,#00122b,http://a.espncdn.com/i/teamlogos/ncaa/500/87.png
+8,135,Minnesota,71.356,65.97,70.15299999999999,Minnesota,Big Ten,#981a31,http://a.espncdn.com/i/teamlogos/ncaa/500/135.png
+8,2306,Kansas St,74.96000000000001,60.055,80.267,Kansas State,Big 12,#633194,http://a.espncdn.com/i/teamlogos/ncaa/500/2306.png
+8,275,Wisconsin,64.46600000000001,66.621,59.10300000000001,Wisconsin,Big Ten,#A00001,http://a.espncdn.com/i/teamlogos/ncaa/500/275.png
+8,120,Maryland,67.23,76.023,51.269,Maryland,Big Ten,#D5002B,http://a.espncdn.com/i/teamlogos/ncaa/500/120.png
+8,66,Iowa State,66.459,54.956,74.629,Iowa State,Big 12,#660015,http://a.espncdn.com/i/teamlogos/ncaa/500/66.png
+8,245,Texas A&M,65.179,42.663000000000004,72.787,Texas A&M,SEC,#5C0025,http://a.espncdn.com/i/teamlogos/ncaa/500/245.png
+8,152,NC State,70.487,40.904,81.04,NC State,ACC,#EF1216,http://a.espncdn.com/i/teamlogos/ncaa/500/152.png
+8,2116,UCF,66.335,69.98,52.173,UCF,American Athletic,#000000,http://a.espncdn.com/i/teamlogos/ncaa/500/2116.png
+8,26,UCLA,68.803,83.21,48.317,UCLA,Pac-12,#005C8E,http://a.espncdn.com/i/teamlogos/ncaa/500/26.png
+8,2641,Texas Tech,62.659,58.872,70.356,Texas Tech,Big 12,#C80025,http://a.espncdn.com/i/teamlogos/ncaa/500/2641.png
+8,2132,Cincinnati,66.595,52.132,68.608,Cincinnati,American Athletic,#000000,http://a.espncdn.com/i/teamlogos/ncaa/500/2132.png
+8,96,Kentucky,68.193,50.117999999999995,82.081,Kentucky,SEC,#005DAA,http://a.espncdn.com/i/teamlogos/ncaa/500/96.png
+8,356,Illinois,72.517,55.184,84.393,Illinois,Big Ten,#f77329,http://a.espncdn.com/i/teamlogos/ncaa/500/356.png
+8,264,Washington,68.098,80.381,43.502,Washington,Pac-12,#2B2F64,http://a.espncdn.com/i/teamlogos/ncaa/500/264.png
+8,2509,Purdue,65.586,63.739000000000004,63.542,Purdue,Big Ten,#B89D29,http://a.espncdn.com/i/teamlogos/ncaa/500/2509.png
+8,201,Oklahoma,59.257000000000005,71.462,40.283,Oklahoma,Big 12,#7b0000,http://a.espncdn.com/i/teamlogos/ncaa/500/201.png
+8,97,Louisville,68.10000000000001,51.602000000000004,73.38900000000001,Louisville,ACC,#ad000a,http://a.espncdn.com/i/teamlogos/ncaa/500/97.png
+8,204,Oregon St,69.83,65.84100000000001,65.805,Oregon State,Pac-12,#c34500,http://a.espncdn.com/i/teamlogos/ncaa/500/204.png
+8,153,North Carolina,62.315,85.15599999999999,26.378,North Carolina,ACC,#99bfe5,http://a.espncdn.com/i/teamlogos/ncaa/500/153.png
+8,57,Florida,59.123999999999995,68.27600000000001,47.221000000000004,Florida,SEC,#0021A5,http://a.espncdn.com/i/teamlogos/ncaa/500/57.png
+8,127,Michigan St,49.647999999999996,53.191,46.678,Michigan State,Big Ten,#18453B,http://a.espncdn.com/i/teamlogos/ncaa/500/127.png
+8,8,Arkansas,57.06400000000001,72.142,37.8,Arkansas,SEC,#9c1831,http://a.espncdn.com/i/teamlogos/ncaa/500/8.png
+8,2655,Tulane,69.329,55.150999999999996,72.297,Tulane,American Athletic,#005837,http://a.espncdn.com/i/teamlogos/ncaa/500/2655.png
+8,221,Pitt,51.754,44.376,64.142,Pittsburgh,ACC,#003263,http://a.espncdn.com/i/teamlogos/ncaa/500/221.png
+8,2294,Iowa,60.257000000000005,12.25,89.361,Iowa,Big Ten,#000000,http://a.espncdn.com/i/teamlogos/ncaa/500/2294.png
+8,2,Auburn,54.059999999999995,44.541,61.826,Auburn,SEC,#03244d,http://a.espncdn.com/i/teamlogos/ncaa/500/2.png
+8,2579,South Carolina,60.355000000000004,49.806,55.306,South Carolina,SEC,#670010,http://a.espncdn.com/i/teamlogos/ncaa/500/2579.png
+8,98,Western KY,58.477000000000004,58.132,61.924,Western Kentucky,Conference USA,#F32026,http://a.espncdn.com/i/teamlogos/ncaa/500/98.png
+8,2305,Kansas,71.21,82.87400000000001,47.89,Kansas,Big 12,#0022B4,http://a.espncdn.com/i/teamlogos/ncaa/500/2305.png
+8,277,West Virginia,59.536,68.80199999999999,36.441,West Virginia,Big 12,#FFC600,http://a.espncdn.com/i/teamlogos/ncaa/500/277.png
+8,2026,Appalachian St,50.266,69.791,36.348,Appalachian State,Sun Belt,#000000,http://a.espncdn.com/i/teamlogos/ncaa/500/2026.png
+8,151,East Carolina,56.676,69.097,44.693,East Carolina,American Athletic,#4b1869,http://a.espncdn.com/i/teamlogos/ncaa/500/151.png
+8,248,Houston,56.056,50.102000000000004,58.623000000000005,Houston,American Athletic,#C90822,http://a.espncdn.com/i/teamlogos/ncaa/500/248.png
+8,2567,SMU,54.556000000000004,62.443000000000005,48.344,SMU,American Athletic,#E32F38,http://a.espncdn.com/i/teamlogos/ncaa/500/2567.png
+8,265,Washington St,65.23,45.857,73.272,Washington State,Pac-12,#94022a,http://a.espncdn.com/i/teamlogos/ncaa/500/265.png
+8,2390,Miami,40.958,42.135,47.556,Miami,ACC,#004325,http://a.espncdn.com/i/teamlogos/ncaa/500/2390.png
+8,5,UAB,57.713,45.125,68.83,UAB,Conference USA,#003b28,http://a.espncdn.com/i/teamlogos/ncaa/500/5.png
+8,150,Duke,67.759,72.42699999999999,51.808,Duke,ACC,#001A57,http://a.espncdn.com/i/teamlogos/ncaa/500/150.png
+8,68,Boise St,51.493,31.064000000000004,72.925,Boise State,Mountain West,#09347A,http://a.espncdn.com/i/teamlogos/ncaa/500/68.png
+8,235,Memphis,51.487,52.819,50.592999999999996,Memphis,American Athletic,#003087,http://a.espncdn.com/i/teamlogos/ncaa/500/235.png
+8,142,Missouri,60.361,32.064,78.33,Missouri,SEC,#000000,http://a.espncdn.com/i/teamlogos/ncaa/500/142.png
+8,2005,Air Force,55.881,61.397,46.646,Air Force,Mountain West,#004a7b,http://a.espncdn.com/i/teamlogos/ncaa/500/2005.png
+8,24,Stanford,48.225,45.963,51.73799999999999,Stanford,Pac-12,#A80532,http://a.espncdn.com/i/teamlogos/ncaa/500/24.png
+8,252,BYU,49.254,71.461,34.183,BYU,FBS Independents,#001E4C,http://a.espncdn.com/i/teamlogos/ncaa/500/252.png
+8,2335,Liberty,55.335,43.599,65.13,Liberty,FBS Independents,#071740,http://a.espncdn.com/i/teamlogos/ncaa/500/2335.png
+8,9,Arizona St,50.773999999999994,50.219,52.919000000000004,Arizona State,Pac-12,#942139,http://a.espncdn.com/i/teamlogos/ncaa/500/9.png
+8,256,James Madison,61.849,42.956,81.756,James Madison,Sun Belt,#450084,http://a.espncdn.com/i/teamlogos/ncaa/500/256.png
+8,2653,Troy,58.831,46.086,68.642,Troy,Sun Belt,#AE0210,http://a.espncdn.com/i/teamlogos/ncaa/500/2653.png
+8,2636,UTSA,52.998999999999995,61.089000000000006,41.326,UT San Antonio,Conference USA,#002A5C,http://a.espncdn.com/i/teamlogos/ncaa/500/2636.png
+8,158,Nebraska,39.135999999999996,46.807,34.629,Nebraska,Big Ten,#F20017,http://a.espncdn.com/i/teamlogos/ncaa/500/158.png
+8,2649,Toledo,57.054,48.064,60.79599999999999,Toledo,Mid-American,#ffffff,http://a.espncdn.com/i/teamlogos/ncaa/500/2649.png
+8,276,Marshall,53.047,24.422,84.495,Marshall,Sun Belt,#00ae42,http://a.espncdn.com/i/teamlogos/ncaa/500/276.png
+8,6,South Alabama,63.666999999999994,54.842,63.959999999999994,South Alabama,Sun Belt,#003E7E,http://a.espncdn.com/i/teamlogos/ncaa/500/6.png
+8,25,California,47.887,43.414,55.464,California,Pac-12,#031522,http://a.espncdn.com/i/teamlogos/ncaa/500/25.png
+8,23,San José St,54.359,47.284,68.227,San José State,Mountain West,#005893,http://a.espncdn.com/i/teamlogos/ncaa/500/23.png
+8,309,Louisiana,47.632999999999996,31.246000000000002,59.778,Louisiana,Sun Belt,#ce2842,http://a.espncdn.com/i/teamlogos/ncaa/500/309.png
+8,258,Virginia,44.858,32.998,63.29900000000001,Virginia,ACC,#f84c1e,http://a.espncdn.com/i/teamlogos/ncaa/500/258.png
+8,278,Fresno St,49.823,48.171,48.172,Fresno State,Mountain West,#c41230,http://a.espncdn.com/i/teamlogos/ncaa/500/278.png
+8,84,Indiana,45.544000000000004,37.632,54.095000000000006,Indiana,Big Ten,#7D110C,http://a.espncdn.com/i/teamlogos/ncaa/500/84.png
+8,164,Rutgers,44.547,24.924,62.997,Rutgers,Big Ten,#d21034,http://a.espncdn.com/i/teamlogos/ncaa/500/164.png
+8,290,Georgia So,44.873000000000005,64.086,22.02,Georgia Southern,Sun Belt,#003775,http://a.espncdn.com/i/teamlogos/ncaa/500/290.png
+8,12,Arizona,45.342,72.06,21.671000000000003,Arizona,Pac-12,#002449,http://a.espncdn.com/i/teamlogos/ncaa/500/12.png
+8,2084,Buffalo,44.452999999999996,42.747,51.856,Buffalo,Mid-American,#041A9B,http://a.espncdn.com/i/teamlogos/ncaa/500/2084.png
+8,324,Coastal Car,43.09,56.247,36.59,Coastal Carolina,Sun Belt,#007073,http://a.espncdn.com/i/teamlogos/ncaa/500/324.png
+8,349,Army,34.39,61.305,18.229,Army,FBS Independents,#ce9c00,http://a.espncdn.com/i/teamlogos/ncaa/500/349.png
+8,202,Tulsa,45.143,55.726,42.478,Tulsa,American Athletic,#004371,http://a.espncdn.com/i/teamlogos/ncaa/500/202.png
+8,2572,Southern Miss,49.917,23.544999999999998,67.67699999999999,Southern Mississippi,Sun Belt,#FFAA3C,http://a.espncdn.com/i/teamlogos/ncaa/500/2572.png
+8,59,Georgia Tech,46.437,28.372999999999998,69.487,Georgia Tech,ACC,#00223e,http://a.espncdn.com/i/teamlogos/ncaa/500/59.png
+8,2226,FAU,40.483000000000004,39.471000000000004,50.649,Florida Atlantic,Conference USA,#004B85,http://a.espncdn.com/i/teamlogos/ncaa/500/2226.png
+8,2426,Navy,36.736000000000004,28.703,53.961000000000006,Navy,American Athletic,#131630,http://a.espncdn.com/i/teamlogos/ncaa/500/2426.png
+8,295,Old Dominion,42.86,39.415,47.613,Old Dominion,Sun Belt,#00507d,http://a.espncdn.com/i/teamlogos/ncaa/500/295.png
+8,249,North Texas,46.861000000000004,59.928000000000004,34.848,North Texas,Conference USA,#00853D,http://a.espncdn.com/i/teamlogos/ncaa/500/249.png
+8,238,Vanderbilt,41.281,38.051,44.528,Vanderbilt,SEC,#000000,http://a.espncdn.com/i/teamlogos/ncaa/500/238.png
+8,103,Boston College,32.645,31.887999999999998,47.518,Boston College,ACC,#88001a,http://a.espncdn.com/i/teamlogos/ncaa/500/103.png
+8,259,Virginia Tech,38.768,26.325,57.04900000000001,Virginia Tech,ACC,#74232D,http://a.espncdn.com/i/teamlogos/ncaa/500/259.png
+8,2393,MTSU,44.487,34.568,47.29,Middle Tennessee,Conference USA,#0079C2,http://a.espncdn.com/i/teamlogos/ncaa/500/2393.png
+8,2247,Georgia St,36.309999999999995,28.993000000000002,52.872,Georgia State,Sun Belt,#1e539a,http://a.espncdn.com/i/teamlogos/ncaa/500/2247.png
+8,2032,Arkansas St,41.059,50.856,24.245,Arkansas State,Sun Belt,#e81018,http://a.espncdn.com/i/teamlogos/ncaa/500/2032.png
+8,77,Northwestern,29.343999999999998,28.151,38.199,Northwestern,Big Ten,#372286,http://a.espncdn.com/i/teamlogos/ncaa/500/77.png
+8,242,Rice,48.923,40.708,57.176,Rice,Conference USA,#003D7D,http://a.espncdn.com/i/teamlogos/ncaa/500/242.png
+8,21,San Diego St,34.191,13.630999999999998,47.802,San Diego State,Mountain West,#BF2C37,http://a.espncdn.com/i/teamlogos/ncaa/500/21.png
+8,2751,Wyoming,34.863,27.343,37.911,Wyoming,Mountain West,#533B22,http://a.espncdn.com/i/teamlogos/ncaa/500/2751.png
+8,2309,Kent State,35.301,54.19500000000001,25.757,Kent State,Mid-American,#002445,http://a.espncdn.com/i/teamlogos/ncaa/500/2309.png
+8,2348,Louisiana Tech,32.796,41.303,28.48,Louisiana Tech,Conference USA,#002d65,http://a.espncdn.com/i/teamlogos/ncaa/500/2348.png
+8,2439,UNLV,35.082,43.047999999999995,35.126000000000005,UNLV,Mountain West,#000000,http://a.espncdn.com/i/teamlogos/ncaa/500/2439.png
+8,58,South Florida,23.949,40.787,18.666,South Florida,American Athletic,#004A36,http://a.espncdn.com/i/teamlogos/ncaa/500/58.png
+8,2459,N Illinois,34.076,48.388999999999996,22.076,Northern Illinois,Mid-American,#F1122C,http://a.espncdn.com/i/teamlogos/ncaa/500/2459.png
+8,326,Texas St,32.849000000000004,19.777,61.153,Texas State,Sun Belt,#4e1719,http://a.espncdn.com/i/teamlogos/ncaa/500/326.png
+8,195,Ohio,37.230000000000004,50.849,27.306,Ohio,Mid-American,#295A29,http://a.espncdn.com/i/teamlogos/ncaa/500/195.png
+8,2117,C Michigan,20.31,17.591,39.36,Central Michigan,Mid-American,#6a0032,http://a.espncdn.com/i/teamlogos/ncaa/500/2117.png
+8,193,Miami OH,34.611,21.579,46.910000000000004,Miami (OH),Mid-American,#a4000c,http://a.espncdn.com/i/teamlogos/ncaa/500/193.png
+8,328,Utah State,26.239,21.508,37.885000000000005,Utah State,Mountain West,#003263,http://a.espncdn.com/i/teamlogos/ncaa/500/328.png
+8,2199,E Michigan,33.912,51.064,25.092,Eastern Michigan,Mid-American,#00331b,http://a.espncdn.com/i/teamlogos/ncaa/500/2199.png
+8,2711,W Michigan,24.891,26.017000000000003,33.546,Western Michigan,Mid-American,#532e1f,http://a.espncdn.com/i/teamlogos/ncaa/500/2711.png
+8,2433,UL Monroe,27.098,42.538,30.158,Louisiana Monroe,Sun Belt,#231F20,http://a.espncdn.com/i/teamlogos/ncaa/500/2433.png
+8,2638,UTEP,24.893,22.381999999999998,36.205999999999996,UTEP,Conference USA,#ff8200,http://a.espncdn.com/i/teamlogos/ncaa/500/2638.png
+8,38,Colorado,19.542,12.589,41.71,Colorado,Pac-12,#d1c57e,http://a.espncdn.com/i/teamlogos/ncaa/500/38.png
+8,2050,Ball State,25.245,20.446,41.843,Ball State,Mid-American,#DA0000,http://a.espncdn.com/i/teamlogos/ncaa/500/2050.png
+8,189,Bowling Green,28.752,29.115000000000002,34.688,Bowling Green,Mid-American,#2b1000,http://a.espncdn.com/i/teamlogos/ncaa/500/189.png
+8,2440,Nevada,17.951,15.717999999999998,32.897999999999996,Nevada,Mountain West,#153E5F,http://a.espncdn.com/i/teamlogos/ncaa/500/2440.png
+8,218,Temple,24.834999999999997,9.748999999999999,55.532000000000004,Temple,American Athletic,#A80532,http://a.espncdn.com/i/teamlogos/ncaa/500/218.png
+8,41,UConn,25.113999999999997,25.205,38.339,Connecticut,FBS Independents,#001d40,http://a.espncdn.com/i/teamlogos/ncaa/500/41.png
+8,167,New Mexico,22.795,10.668999999999999,53.705000000000005,New Mexico,Mountain West,#000000,http://a.espncdn.com/i/teamlogos/ncaa/500/167.png
+8,36,Colorado St,13.532,6.1240000000000006,39.7,Colorado State,Mountain West,#004537,http://a.espncdn.com/i/teamlogos/ncaa/500/36.png
+8,2429,Charlotte,12.738,37.801,6.979,Charlotte,Conference USA,#ffffff,http://a.espncdn.com/i/teamlogos/ncaa/500/2429.png
+8,62,Hawai'i,14.374999999999998,21.517,15.7,Hawai'i,Mountain West,#003420,http://a.espncdn.com/i/teamlogos/ncaa/500/62.png
+8,2006,Akron,18.983,23.994,24.269,Akron,Mid-American,#00285e,http://a.espncdn.com/i/teamlogos/ncaa/500/2006.png
+8,166,New Mexico St,13.175,17.195,20.469,New Mexico State,FBS Independents,#891216,http://a.espncdn.com/i/teamlogos/ncaa/500/166.png
+8,113,UMass,11.652,12.261,25.422,UMass,FBS Independents,#880007,http://a.espncdn.com/i/teamlogos/ncaa/500/113.png
+8,2229,FIU,12.715000000000002,15.363,17.843,Florida International,Conference USA,#001538,http://a.espncdn.com/i/teamlogos/ncaa/500/2229.png
