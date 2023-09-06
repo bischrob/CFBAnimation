@@ -41,15 +41,16 @@ data = data %>%
 ls = list.files("data", pattern = "updated.xlsx", full.names = T)
 total = map_df(ls, import, setclass = 'tibble') %>%
   mutate(img = paste0("logos/",team_id,".png"),
-         alphaImg = paste0("logos/",team_id,"_alpha75.png"))
+         alphaImg75 = paste0("logos/",team_id,"_alpha75.png"),
+         alphaImg = paste0("logos/",team_id,"_alpha.png"))
 week0 = total %>%
   filter(week == 0) #%>%
 # filter(team %in% c("BYU","Utah"))
-week0 = bind_rows(week0,week0 %>% mutate(week = !!get("week")))
+# week0 = bind_rows(week0,week0 %>% mutate(week = !!get("week")))
 
 g = data %>%
-  # ggplot(aes(x = OFFENSE,y = DEFENSE)) +
-  # geom_image(aes(image = alphaImg),size = .05, by = 'width') +
+  ggplot(aes(x = OFFENSE,y = DEFENSE)) +
+  geom_image(aes(image = alphaImg),size = .05, by = 'width') +
   # geom_image(data = week0,aes(x = OFFENSE,y = DEFENSE, image = alphaImg),size = .025, by = 'width') +
   theme_gdocs() +
   labs(title = glue::glue("**SP+** Week {week}"),
@@ -78,7 +79,7 @@ walk(conferences,function(conf){
     inner_join(teams %>% select(team_id,conference) %>%
                  filter(conference == conf)) %>%
     ggplot(aes(x = OFFENSE,y = DEFENSE)) +
-    geom_image(data = cfweek0,aes(x = OFFENSE,y = DEFENSE, image = alphaImg),size = .025, by = 'width') +
+    geom_image(data = cfweek0,aes(x = OFFENSE,y = DEFENSE, image = alphaImg),size = .033, by = 'width') +
     geom_image(aes(image = alphaImg),size = .075, by = 'width') +
     geom_cfb_logos(data = cf, aes(x = OFFENSE,y = DEFENSE, team = team), width = .2, alpha = .75) +
     theme_gdocs() +
@@ -108,7 +109,7 @@ ymax = max(total$DEFENSE)
 a = total %>%
   # filter(team %in% c("BYU","Utah")) %>%
   ggplot(aes(x = OFFENSE,y = DEFENSE)) +
-  geom_image(aes(image = alphaImg),size = .065, by = 'width') +
+  geom_image(aes(image = alphaImg75),size = .065, by = 'width') +
   # geom_image(data = week0,aes(x = OFFENSE,y = DEFENSE, image = alphaImg),size = .025, by = 'width') +
   theme_gdocs() +
   labs(title = "**SP+** Week {as.integer(frame_time)}",
@@ -125,3 +126,12 @@ a = total %>%
   ylim(c(ymax,ymin)) +
   transition_time(week)
 animate(a, nframes = 195, fps = 15, height = 900, width = 1350, end_pause = 30, renderer = gganimate::gifski_renderer(glue::glue("figures/CFBEfficiency-week{week}.gif")))
+
+# biggest differences
+current = total %>%
+  filter(week == !!get("week")) %>%
+  select(TEAM1 = TEAM,team_id,RATING) %>%
+  left_join(week0 %>% select(TEAM2 = TEAM,team_id,start = RATING,team)) %>%
+  mutate(change = RATING - start) %>%
+  distinct_all()
+export(current,"data/current.xlsx")

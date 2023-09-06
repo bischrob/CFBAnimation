@@ -1,0 +1,76 @@
+---
+title: "Weekly Post"
+output: 
+  html_document:
+    keep_md: true
+date: "`r Sys.Date()`"
+---
+
+This post contains static and animated charts showing the offensive and defensive weekly ratings for all FBS teams together and static charts by conference (using [SP+](https://www.espn.com/college-football/insider/story/_/id/38332658/college-football-2023-week-1-sp+-rankings-takeaways)---see link for details).
+
+***
+
+(for Reddit) you can see all the charts in place at this [link](../CFBAnimation/figures/WeeklyPost).
+
+***
+
+## Biggest Movers
+
+Here are the top 5 biggest winners and biggest losers. How did your team do?
+
+```{r include=FALSE}
+knitr::opts_chunk$set(echo = F)
+library(tidyverse)
+library(glue)
+library(rio)
+week = 1
+current = import('data/current.xlsx',setclass='tibble')
+top = current %>%
+  arrange(desc(change)) %>% 
+  slice_head(n = 5) %>% 
+  select(team,change)
+bottom = current %>%
+  arrange(change) %>% 
+  slice_head(n = 5) %>% 
+  select(team,change)
+```
+
+```{r}
+knitr::kable(top, caption = "Top 5 weekly change",format = 'markdown')
+```
+
+```{r}
+knitr::kable(bottom, caption = "Bottom 5 weekly change", format = 'markdown')
+```
+
+```{r, results = 'asis'}
+cat(glue("## All Teams Week {week}"))
+```
+
+```{r, results = 'asis'}
+cat(glue("![](../CFBAnimation/figures/week{week}sppcfb.png)"))
+```
+
+```{r, results = 'asis'}
+cat(glue("## All Teams Week {week} Animated"))
+```
+
+```{r, results = 'asis'}
+cat(glue("![](../CFBAnimation/figures/CFBEfficiency-week{week}.gif)"))
+```
+
+# Conferences
+
+*Preseason ratings are shown using smaller logos
+
+```{r, results='asis'}
+conferences = c("ACC", "American Athletic", "Big 12", "Big Ten", "Conference USA", 
+"FBS Independents", "Mid-American", "Mountain West", "Pac-12", 
+"SEC", "Sun Belt")
+for(conf in conferences){
+  cat(glue("\n\n## {conf} week {week}\n\n"),sep = "\n")
+  cat(glue("\n\n![](../CFBAnimation/figures/week{week}sppcfb-{conf}.png)\n\n"),sep = "\n")
+}
+```
+
+Let me know what you think!
