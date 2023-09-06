@@ -10,7 +10,7 @@ This post contains static and animated charts showing the offensive and defensiv
 
 ***
 
-(for Reddit) you can see all the charts in place at this [link](../CFBAnimation/figures/WeeklyPost).
+(for Reddit) you can see all the charts in one place at this [link](../CFBAnimation/WeeklyPost).
 
 ***
 
@@ -48,7 +48,7 @@ cat(glue("## All Teams Week {week}"))
 ```
 
 ```{r, results = 'asis'}
-cat(glue("![](../CFBAnimation/figures/week{week}sppcfb.png)"))
+cat(glue("![all teams week {week}](../CFBAnimation/figures/week{week}sppcfb.png)"))
 ```
 
 ```{r, results = 'asis'}
@@ -56,7 +56,7 @@ cat(glue("## All Teams Week {week} Animated"))
 ```
 
 ```{r, results = 'asis'}
-cat(glue("![](../CFBAnimation/figures/CFBEfficiency-week{week}.gif)"))
+cat(glue("![all teams week {week} animated](../CFBAnimation/figures/CFBEfficiency-week{week}.gif)"))
 ```
 
 # Conferences
@@ -69,7 +69,7 @@ conferences = c("ACC", "American Athletic", "Big 12", "Big Ten", "Conference USA
 "SEC", "Sun Belt")
 for(conf in conferences){
   cat(glue("\n\n## {conf} week {week}\n\n"),sep = "\n")
-  cat(glue("\n\n![](../CFBAnimation/figures/week{week}sppcfb-{conf}.png)\n\n"),sep = "\n")
+  cat(glue("\n\n![{conf} week {week}](../CFBAnimation/figures/week{week}sppcfb-{conf}.png)\n\n"),sep = "\n")
 }
 ```
 

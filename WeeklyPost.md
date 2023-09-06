@@ -10,7 +10,7 @@ This post contains static and animated charts showing the offensive and defensiv
 
 ***
 
-(for Reddit) you can see all the charts in place at this [link](../CFBAnimation/figures/WeeklyPost).
+(for Reddit) you can see all the charts in one place at this [link](https://bischrob.github.io/CFBAnimation/WeeklyPost).
 
 ***
 
@@ -44,11 +44,11 @@ Table: Bottom 5 weekly change
 
 ## All Teams Week 1
 
-![](../CFBAnimation/figures/week1sppcfb.png)
+[all teams week 1](https://bischrob.github.io/CFBAnimation/figures/week1sppcfb.png)
 
 ## All Teams Week 1 Animated
 
-![](../CFBAnimation/figures/CFBEfficiency-week1.gif)
+[all teams week 1 animated](https://bischrob.github.io/CFBAnimation/figures/CFBEfficiency-week1.gif)
 
 # Conferences
 
@@ -58,66 +58,66 @@ Table: Bottom 5 weekly change
 ## ACC week 1
 
 
-![](../CFBAnimation/figures/week1sppcfb-ACC.png)
+[ACC week 1](https://bischrob.github.io/CFBAnimation/figures/week1sppcfb-ACC.png)
 
 
 ## American Athletic week 1
 
 
-![](../CFBAnimation/figures/week1sppcfb-American Athletic.png)
+[American Athletic week 1](https://bischrob.github.io/CFBAnimation/figures/week1sppcfb-American Athletic.png)
 
 
 ## Big 12 week 1
 
 
-![](../CFBAnimation/figures/week1sppcfb-Big 12.png)
+[Big 12 week 1](https://bischrob.github.io/CFBAnimation/figures/week1sppcfb-Big 12.png)
 
 
 ## Big Ten week 1
 
 
-![](../CFBAnimation/figures/week1sppcfb-Big Ten.png)
+[Big Ten week 1](https://bischrob.github.io/CFBAnimation/figures/week1sppcfb-Big Ten.png)
 
 
 ## Conference USA week 1
 
 
-![](../CFBAnimation/figures/week1sppcfb-Conference USA.png)
+[Conference USA week 1](https://bischrob.github.io/CFBAnimation/figures/week1sppcfb-Conference USA.png)
 
 
 ## FBS Independents week 1
 
 
-![](../CFBAnimation/figures/week1sppcfb-FBS Independents.png)
+[FBS Independents week 1](https://bischrob.github.io/CFBAnimation/figures/week1sppcfb-FBS Independents.png)
 
 
 ## Mid-American week 1
 
 
-![](../CFBAnimation/figures/week1sppcfb-Mid-American.png)
+[Mid-American week 1](https://bischrob.github.io/CFBAnimation/figures/week1sppcfb-Mid-American.png)
 
 
 ## Mountain West week 1
 
 
-![](../CFBAnimation/figures/week1sppcfb-Mountain West.png)
+[Mountain West week 1](https://bischrob.github.io/CFBAnimation/figures/week1sppcfb-Mountain West.png)
 
 
 ## Pac-12 week 1
 
 
-![](../CFBAnimation/figures/week1sppcfb-Pac-12.png)
+[Pac-12 week 1](https://bischrob.github.io/CFBAnimation/figures/week1sppcfb-Pac-12.png)
 
 
 ## SEC week 1
 
 
-![](../CFBAnimation/figures/week1sppcfb-SEC.png)
+[SEC week 1](https://bischrob.github.io/CFBAnimation/figures/week1sppcfb-SEC.png)
 
 
 ## Sun Belt week 1
 
 
-![](../CFBAnimation/figures/week1sppcfb-Sun Belt.png)
+[Sun Belt week 1](https://bischrob.github.io/CFBAnimation/figures/week1sppcfb-Sun Belt.png)
 
 Let me know what you think!
