@@ -1,0 +1,14 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.Renviron
+arrow.ai
+CFBAnimation (RJBG15's conflicted copy 2023-09-06).R
+*.xlsx
+logos/*
+saveLogos.R
+teamNames.R
+test.html
+test.Rmd
+test.xml
