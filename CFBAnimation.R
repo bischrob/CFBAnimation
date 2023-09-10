@@ -15,20 +15,24 @@ if (!require("cfbplotR")) remotes::install_github("sportsdataverse/cfbplotR")
 
 cfbd_key()
 
-week = 1
-
-data = import(glue::glue("data/week{week}spplus.xlsx"),setclass='tibble') %>%
+year = 2023
+week = 2
+# for(week in 0:14){
+data = import(glue::glue("data/{year}-week{week}-spplus.xlsx"),setclass='tibble') %>%
+  select(1:4) %>%
+  setNames(c("TEAM","RATING","OFFENSE","DEFENSE")) %>%
   mutate_at(vars(TEAM),~ .x %>% str_remove_all("[0-9]|\\.|\\(|\\)|-") %>% stringr::str_trim()) %>%
   mutate_at(vars(RATING,OFFENSE,DEFENSE),~ .x %>% str_remove_all("\\(.*\\)")) %>%
   mutate_all(str_trim) %>% left_join(import("data/teamNames.xlsx")) %>%
   mutate_at(vars(RATING,OFFENSE,DEFENSE),as.numeric) %>%
   mutate_at(vars(team_id),as.integer) %>%
-  mutate(week = !!get("week"))
+  mutate(year = !!get("year"),
+         week = !!get("week"))
 
 if(isTRUE(any(data$logo %>% is.na()))) stop("warning: there are team names that don't match")
 
-export(data,glue::glue("data/week{week}spplus_updated.xlsx"))
-
+export(data,glue::glue("data/{year}-week{week}-spplus_updated.xlsx"))
+# }
 # current week
 xmin = min(data$OFFENSE)
 xmax = max(data$OFFENSE)
@@ -38,13 +42,14 @@ data = data %>%
   mutate(img = paste0("logos/",team_id,".png"),
          alphaImg = paste0("logos/",team_id,"_alpha75.png"))
 
-ls = list.files("data", pattern = "updated.xlsx", full.names = T)
+ls = list.files("data", pattern = "spplus_updated.xlsx", full.names = T) %>%
+  .[which(str_detect(.,as.character(year)))]
 total = map_df(ls, import, setclass = 'tibble') %>%
   mutate(img = paste0("logos/",team_id,".png"),
          alphaImg75 = paste0("logos/",team_id,"_alpha75.png"),
          alphaImg = paste0("logos/",team_id,"_alpha.png"))
-week0 = total %>%
-  filter(week == 0) #%>%
+prior = total %>%
+  filter(week == !!get("week")-1) #%>%
 # filter(team %in% c("BYU","Utah"))
 # week0 = bind_rows(week0,week0 %>% mutate(week = !!get("week")))
 
@@ -72,14 +77,14 @@ teams = cfbfastR::cfbd_team_info(only_fbs = T)
 conferences = teams$conference %>% unique %>% sort
 walk(conferences,function(conf){
   cf = tibble(team = conf, OFFENSE = xmin + 2.5, DEFENSE = ymin + 2.5)
-  cfweek0 = week0 %>%
+  cfprior = prior %>%
     inner_join(teams %>% select(team_id,conference) %>%
                  filter(conference == conf))
   g = data %>%
     inner_join(teams %>% select(team_id,conference) %>%
                  filter(conference == conf)) %>%
     ggplot(aes(x = OFFENSE,y = DEFENSE)) +
-    geom_image(data = cfweek0,aes(x = OFFENSE,y = DEFENSE, image = alphaImg),size = .033, by = 'width') +
+    geom_image(data = cfprior,aes(x = OFFENSE,y = DEFENSE, image = alphaImg),size = .033, by = 'width') +
     geom_image(aes(image = alphaImg),size = .075, by = 'width') +
     geom_cfb_logos(data = cf, aes(x = OFFENSE,y = DEFENSE, team = team), width = .2, alpha = .75) +
     theme_gdocs() +
@@ -129,9 +134,14 @@ animate(a, nframes = 195, fps = 15, height = 900, width = 1350, end_pause = 30, 
 
 # biggest differences
 current = total %>%
-  filter(week == !!get("week")) %>%
+  filter(week == !!get("week"),
+         year == !!get("year")) %>%
   select(TEAM1 = TEAM,team_id,RATING) %>%
-  left_join(week0 %>% select(TEAM2 = TEAM,team_id,start = RATING,team)) %>%
+  left_join(prior %>% select(TEAM2 = TEAM,team_id,start = RATING,team)) %>%
   mutate(change = RATING - start) %>%
   distinct_all()
 export(current,"data/current.xlsx")
+
+# all time
+ls = list.files("data",pattern = "spplus_updated.xlsx", full.names = T)
+all = map_df

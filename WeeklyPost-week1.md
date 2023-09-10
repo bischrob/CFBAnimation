@@ -1,7 +1,7 @@
 This post contains static and animated charts showing the offensive and defensive weekly ratings for all FBS teams together and static charts by conference (using [SP+](https://www.espn.com/college-football/insider/story/_/id/38332658/college-football-2023-week-1-sp+-rankings-takeaways)---see link for details).
 
 
-(for Reddit) you can see all the charts in one place at this [link](https://bischrob.github.io/CFBAnimation/WeeklyPost).
+You can see all the charts in one place at this [link](https://bischrob.github.io/CFBAnimation/WeeklyPost).
 
 
 ## Biggest Movers

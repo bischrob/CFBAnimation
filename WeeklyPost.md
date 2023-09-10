@@ -3,14 +3,14 @@ title: "Weekly Post"
 output: 
   html_document:
     keep_md: true
-date: "2023-09-06"
+date: "2023-09-10"
 ---
 
-This post contains static and animated charts showing the offensive and defensive weekly ratings for all FBS teams together and static charts by conference (using [SP+](https://www.espn.com/college-football/insider/story/_/id/38332658/college-football-2023-week-1-sp+-rankings-takeaways)---see link for details).
+This is the weekly update for the SP+ CFB rankings included an animated look at the season so far. You can see this week's and prior week's plots [here](https://www.reddit.com/r/CFB/comments/16btt72/oc_cfb_2023_weekly_offensive_and_defensive/?utm_source=share&utm_medium=web2x&context=3).
 
 ***
 
-(for Reddit) you can see all the charts in one place at this [link](https://bischrob.github.io/CFBAnimation/WeeklyPost).
+You can see all the charts in one place at this [link](../CFBAnimation/WeeklyPost).
 
 ***
 
@@ -23,101 +23,102 @@ Here are the top 5 biggest winners and biggest losers. How did your team do?
 
 Table: Top 5 weekly change
 
-|team               | change|
-|:------------------|------:|
-|Georgia State      |   12.3|
-|Arizona            |    9.8|
-|Georgia Southern   |    9.2|
-|Jacksonville State |    9.0|
-|Louisiana Monroe   |    8.4|
+|team         | change|
+|:------------|------:|
+|Army         |    8.7|
+|Northwestern |    8.2|
+|New Mexico   |    6.3|
+|Louisville   |    5.9|
+|Oregon State |    5.5|
 
 
 Table: Bottom 5 weekly change
 
-|team             | change|
-|:----------------|------:|
-|Middle Tennessee |   -8.4|
-|Indiana          |   -7.9|
-|Miami (OH)       |   -7.9|
-|North Texas      |   -7.7|
-|LSU              |   -7.6|
+|team                 | change|
+|:--------------------|------:|
+|Nebraska             |   -6.8|
+|Alabama              |   -6.4|
+|Southern Mississippi |   -6.3|
+|UTEP                 |   -6.0|
+|Stanford             |   -5.6|
 
-## All Teams Week 1
+## All Teams Week 2
 
-[all teams week 1](https://bischrob.github.io/CFBAnimation/figures/week1sppcfb.png)
+![all teams week 2](../CFBAnimation/figures/week2sppcfb.png)
 
-## All Teams Week 1 Animated
+## All Teams Week 2 Animated
 
-[all teams week 1 animated](https://bischrob.github.io/CFBAnimation/figures/CFBEfficiency-week1.gif)
+![all teams week 2 animated](../CFBAnimation/figures/CFBEfficiency-week2.gif)
 
 # Conferences
 
-*Preseason ratings are shown using smaller logos
+*Prior week's ratings are shown using smaller logos
 
 
-## ACC week 1
+## ACC week 2
 
 
-[ACC week 1](https://bischrob.github.io/CFBAnimation/figures/week1sppcfb-ACC.png)
+![ACC week 2](../CFBAnimation/figures/week2sppcfb-ACC.png)
 
 
-## American Athletic week 1
+## American Athletic week 2
 
 
-[American Athletic week 1](https://bischrob.github.io/CFBAnimation/figures/week1sppcfb-American Athletic.png)
+![American Athletic week 2](../CFBAnimation/figures/week2sppcfb-American Athletic.png)
 
 
-## Big 12 week 1
+## Big 12 week 2
 
 
-[Big 12 week 1](https://bischrob.github.io/CFBAnimation/figures/week1sppcfb-Big 12.png)
+![Big 12 week 2](../CFBAnimation/figures/week2sppcfb-Big 12.png)
 
 
-## Big Ten week 1
+## Big Ten week 2
 
 
-[Big Ten week 1](https://bischrob.github.io/CFBAnimation/figures/week1sppcfb-Big Ten.png)
+![Big Ten week 2](../CFBAnimation/figures/week2sppcfb-Big Ten.png)
 
 
-## Conference USA week 1
+## Conference USA week 2
 
 
-[Conference USA week 1](https://bischrob.github.io/CFBAnimation/figures/week1sppcfb-Conference USA.png)
+![Conference USA week 2](../CFBAnimation/figures/week2sppcfb-Conference USA.png)
 
 
-## FBS Independents week 1
+## FBS Independents week 2
 
 
-[FBS Independents week 1](https://bischrob.github.io/CFBAnimation/figures/week1sppcfb-FBS Independents.png)
+![FBS Independents week 2](../CFBAnimation/figures/week2sppcfb-FBS Independents.png)
 
 
-## Mid-American week 1
+## Mid-American week 2
 
 
-[Mid-American week 1](https://bischrob.github.io/CFBAnimation/figures/week1sppcfb-Mid-American.png)
+![Mid-American week 2](../CFBAnimation/figures/week2sppcfb-Mid-American.png)
 
 
-## Mountain West week 1
+## Mountain West week 2
 
 
-[Mountain West week 1](https://bischrob.github.io/CFBAnimation/figures/week1sppcfb-Mountain West.png)
+![Mountain West week 2](../CFBAnimation/figures/week2sppcfb-Mountain West.png)
 
 
-## Pac-12 week 1
+## Pac-12 week 2
 
 
-[Pac-12 week 1](https://bischrob.github.io/CFBAnimation/figures/week1sppcfb-Pac-12.png)
+![Pac-12 week 2](../CFBAnimation/figures/week2sppcfb-Pac-12.png)
 
 
-## SEC week 1
+## SEC week 2
 
 
-[SEC week 1](https://bischrob.github.io/CFBAnimation/figures/week1sppcfb-SEC.png)
+![SEC week 2](../CFBAnimation/figures/week2sppcfb-SEC.png)
 
 
-## Sun Belt week 1
+## Sun Belt week 2
 
 
-[Sun Belt week 1](https://bischrob.github.io/CFBAnimation/figures/week1sppcfb-Sun Belt.png)
+![Sun Belt week 2](../CFBAnimation/figures/week2sppcfb-Sun Belt.png)
+
 
 Let me know what you think!

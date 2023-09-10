@@ -1,0 +1,54 @@
+---
+title: "Main Post"
+output: 
+  html_document:
+    keep_md: true
+date: "`r Sys.Date()`"
+---
+
+```{r include=FALSE}
+knitr::opts_chunk$set(echo = F)
+library(tidyverse)
+library(glue)
+library(rio)
+weeks = 1:2
+```
+
+This post has been updated for week 2.
+
+This post contains static and animated charts showing the offensive and defensive weekly ratings for all FBS teams together and static charts by conference (using [SP+](https://www.sbnation.com/college-football/2017/10/13/16457830/college-football-advanced-stats-analytics-rankings)---see link for details; link has been updated with no paywall).
+
+You can see all the charts in one place at this [link](../CFBAnimation/MainPost).
+
+## All Teams
+
+```{r, results = 'asis'}
+for(week in weeks){
+  cat(glue("\n\n![all teams week {week}](../CFBAnimation/figures/week{week}sppcfb.png)\n\n"),.sep = "\n")
+}
+```
+
+## All Teams Animated
+
+```{r, results = 'asis'}
+  cat(glue("\n\n![all teams week {week}](../CFBAnimation/figures/CFBEfficiency-week{max(weeks)}.gif)\n\n"),.sep = "\n")
+```
+
+# Conferences
+
+*Prior week's ratings are shown using smaller logos
+
+```{r, results='asis'}
+conferences = c("ACC", "American Athletic", "Big 12", "Big Ten", "Conference USA", 
+                "FBS Independents", "Mid-American", "Mountain West", "Pac-12", 
+                "SEC", "Sun Belt")
+
+for(conf in conferences){
+  for(week in weeks){
+    cat(glue("\n\n## {conf} week {week}\n\n"),sep = "\n")
+    cat(glue("\n\n![{conf} week {week}](../CFBAnimation/figures/week{week}sppcfb-{conf}.png)\n\n"),sep = "\n")
+  }
+}
+```
+
+Let me know what you think!

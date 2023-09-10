@@ -6,11 +6,11 @@ output:
 date: "`r Sys.Date()`"
 ---
 
-This post contains static and animated charts showing the offensive and defensive weekly ratings for all FBS teams together and static charts by conference (using [SP+](https://www.espn.com/college-football/insider/story/_/id/38332658/college-football-2023-week-1-sp+-rankings-takeaways)---see link for details).
+This is the weekly update for the SP+ CFB rankings included an animated look at the season so far. You can see this week's and prior week's plots [here](https://www.reddit.com/r/CFB/comments/16btt72/oc_cfb_2023_weekly_offensive_and_defensive/?utm_source=share&utm_medium=web2x&context=3).
 
 ***
 
-(for Reddit) you can see all the charts in one place at this [link](../CFBAnimation/WeeklyPost).
+You can see all the charts in one place at this [link](../CFBAnimation/WeeklyPost).
 
 ***
 
@@ -23,7 +23,7 @@ knitr::opts_chunk$set(echo = F)
 library(tidyverse)
 library(glue)
 library(rio)
-week = 1
+week = 2
 current = import('data/current.xlsx',setclass='tibble')
 top = current %>%
   arrange(desc(change)) %>% 
@@ -61,7 +61,7 @@ cat(glue("![all teams week {week} animated](../CFBAnimation/figures/CFBEfficienc
 
 # Conferences
 
-*Preseason ratings are shown using smaller logos
+*Prior week's ratings are shown using smaller logos
 
 ```{r, results='asis'}
 conferences = c("ACC", "American Athletic", "Big 12", "Big Ten", "Conference USA", 
