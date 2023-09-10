@@ -32,7 +32,7 @@ Table: Bottom 5 weekly change
 
 Beating up on an FCS team makes Army the feel-good SP+ team of the week. What we all love to see is the ratings beat down Nebraska and Alabama took taking the 1 and 2 spots for biggest free falls. Alabama shot up the charts last week by beating MTSU, but Texas might be for real this year. The animated chart has a nice shot of Alabama getting slapped down. 
 
-No one really occupies the super upper right quadrant any more. We'll see if anyone takes that spot soon. Meanwhile, Iowa is hanging out in their typical all defense no offense position and North Texas is staking out the all offense no defense spot.
+No one really occupies the super upper right quadrant any more. We'll see if anyone takes that spot soon. Meanwhile, Iowa is hanging out in their typical all defense no offense position and North Texas is staking out the medium offense no defense spot.
 
 ## All Teams Week 2
 
