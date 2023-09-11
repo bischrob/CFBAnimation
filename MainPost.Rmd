@@ -14,7 +14,7 @@ library(rio)
 weeks = 1:2
 ```
 
-This post has been updated for week 2.
+This post has been updated for week 2 (see the original post text [here](https://bischrob.github.io/CFBAnimation/WeeklyPost-week1).
 
 This post contains static and animated charts showing the offensive and defensive weekly ratings for all FBS teams together and static charts by conference (using [SP+](https://www.sbnation.com/college-football/2017/10/13/16457830/college-football-advanced-stats-analytics-rankings)---see link for details; link has been updated with no paywall).
 

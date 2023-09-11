@@ -144,4 +144,48 @@ export(current,"data/current.xlsx")
 
 # all time
 ls = list.files("data",pattern = "spplus_updated.xlsx", full.names = T)
-all = map_df
+all = map_df(ls, import, setclass = 'tibble') %>%
+  mutate(img = paste0("logos/",team_id,".png"),
+         alphaImg75 = paste0("logos/",team_id,"_alpha75.png"),
+         alphaImg = paste0("logos/",team_id,"_alpha.png"))
+
+xmin = min(all$OFFENSE)
+xmax = max(all$OFFENSE)
+ymin = min(all$DEFENSE)
+ymax = max(all$DEFENSE)
+
+dates = all %>%
+  select(year,week) %>%
+  distinct_all()  %>%
+  mutate_at(vars(year,week),as.integer) %>%
+  arrange(year,week) %>%
+  mutate(date = 1:n())
+
+all = left_join(all,dates)
+
+fdate = function(date){
+  x = as.integer(date)
+  row = dates %>%
+    filter(date == x)
+  return(paste("year",row$year,"week",row$week))
+}
+# fdate(date)
+a = all %>%
+  # filter(team %in% c("BYU","Utah")) %>%
+  ggplot(aes(x = OFFENSE,y = DEFENSE)) +
+  geom_image(aes(image = alphaImg75),size = .065, by = 'width') +
+  theme_gdocs() +
+  labs(title = "**SP+** Week {fdate(frame_time)}",
+       x = "<img src='arrowO.png' width='300'>",
+       y = "<img src='arrowD.png' width='300'>") +
+  theme(text = element_text(size = 36),
+        plot.title = element_markdown(),
+        axis.title.x = element_markdown(),
+        axis.title.y = element_markdown(),
+        plot.background = element_rect(color = NA)) +
+  scale_y_reverse() +
+  coord_equal(clip = 'off') +
+  xlim(c(xmin,xmax)) +
+  ylim(c(ymax,ymin)) +
+  transition_time(date)
+animate(a, nframes = 1000, fps = 15, height = 900, width = 1350, end_pause = 30, renderer = gganimate::gifski_renderer(glue::glue("figures/CFBEfficiency-allweeks.gif")))
