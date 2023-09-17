@@ -16,7 +16,7 @@ if (!require("cfbplotR")) remotes::install_github("sportsdataverse/cfbplotR")
 cfbd_key()
 
 year = 2023
-week = 2
+week = 3
 # for(week in 0:14){
 data = import(glue::glue("data/{year}-week{week}-spplus.xlsx"),setclass='tibble') %>%
   select(1:4) %>%
