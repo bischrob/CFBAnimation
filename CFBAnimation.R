@@ -14,24 +14,31 @@ library(gifski)
 if (!require("cfbplotR")) remotes::install_github("sportsdataverse/cfbplotR")
 
 cfbd_key()
+teams = cfbfastR::cfbd_team_info(only_fbs = T)
 
 year = 2023
-week = 3
-# for(week in 0:14){
+week = 4
+# for(year in 2019:2023){
+# for(week in 0:3){
+  # try({
+    print(paste(year,week))
 data = import(glue::glue("data/{year}-week{week}-spplus.xlsx"),setclass='tibble') %>%
-  select(1:4) %>%
-  setNames(c("TEAM","RATING","OFFENSE","DEFENSE")) %>%
+  select(1:5) %>%
+  setNames(c("TEAM","RATING","OFFENSE","DEFENSE","SPECIALTEAMS")) %>%
   mutate_at(vars(TEAM),~ .x %>% str_remove_all("[0-9]|\\.|\\(|\\)|-") %>% stringr::str_trim()) %>%
-  mutate_at(vars(RATING,OFFENSE,DEFENSE),~ .x %>% str_remove_all("\\(.*\\)")) %>%
-  mutate_all(str_trim) %>% left_join(import("data/teamNames.xlsx")) %>%
-  mutate_at(vars(RATING,OFFENSE,DEFENSE),as.numeric) %>%
+  mutate_at(vars(RATING,OFFENSE,DEFENSE,SPECIALTEAMS),~ .x %>% str_remove_all("\\(.*\\)")) %>%
+  mutate_all(str_trim) %>% left_join(import("data/teamNames.xlsx"), by = "TEAM") %>%
+  mutate_at(vars(RATING,OFFENSE,DEFENSE,SPECIALTEAMS),as.numeric) %>%
   mutate_at(vars(team_id),as.integer) %>%
   mutate(year = !!get("year"),
-         week = !!get("week"))
+         week = !!get("week")) %>%
+  left_join(teams %>% select(team_id,conference), by = "team_id")
 
 if(isTRUE(any(data$logo %>% is.na()))) stop("warning: there are team names that don't match")
 
 export(data,glue::glue("data/{year}-week{week}-spplus_updated.xlsx"))
+  # })
+  # }
 # }
 # current week
 xmin = min(data$OFFENSE)
@@ -73,7 +80,6 @@ g = data %>%
 ggsave(glue::glue("figures/week{week}sppcfb.png"),dpi = 300, width = 9, height = 6)
 
 # by conference
-teams = cfbfastR::cfbd_team_info(only_fbs = T)
 conferences = teams$conference %>% unique %>% sort
 walk(conferences,function(conf){
   cf = tibble(team = conf, OFFENSE = xmin + 2.5, DEFENSE = ymin + 2.5)
@@ -189,3 +195,14 @@ a = all %>%
   ylim(c(ymax,ymin)) +
   transition_time(date)
 animate(a, nframes = 1000, fps = 15, height = 900, width = 1350, end_pause = 30, renderer = gganimate::gifski_renderer(glue::glue("figures/CFBEfficiency-allweeks.gif")))
+
+# combine all
+ls = list.files("data",pattern = "spplus_updated.xlsx", full.names = T)
+combined = map_df(ls,rio::import)
+rio::export(combined,"data/combined.xlsx")
+conferenceMatching = combined %>%
+  mutate(time = paste0(year,"-",week),
+         id = paste0(TEAM,'_',year,'_',week)) %>%
+  filter(time %in% c("2019-14","2020-14","2021-14","2022-14","2023-3"))
+conferenceMatching$time %>% unique
+export(conferenceMatching,"data/conferenceMatching.xlsx")

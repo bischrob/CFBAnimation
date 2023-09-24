@@ -6,6 +6,25 @@ output:
 date: "`r Sys.Date()`"
 ---
 
+```{r include=FALSE}
+knitr::opts_chunk$set(echo = F)
+library(tidyverse)
+library(glue)
+library(rio)
+week = 4
+current = import('data/current.xlsx',setclass='tibble')
+top = current %>%
+  arrange(desc(change)) %>% 
+  slice_head(n = 5) %>% 
+  select(team,change)
+bottom = current %>%
+  arrange(change) %>% 
+  slice_head(n = 5) %>% 
+  select(team,change)
+```
+
+[OC] CFB 2023 Weekly Offensive and Defensive Ratings Animated Week `r week`
+
 This is the weekly update for the SP+ CFB rankings included an animated look at the season so far. You can see this week's and prior week's plots [here](https://www.reddit.com/r/CFB/comments/16btt72/oc_cfb_2023_weekly_offensive_and_defensive/?utm_source=share&utm_medium=web2x&context=3).
 
 ***
@@ -17,23 +36,6 @@ You can see all the charts in one place at this [link](../CFBAnimation/WeeklyPos
 ## Biggest Movers
 
 Here are the top 5 biggest winners and biggest losers. How did your team do?
-
-```{r include=FALSE}
-knitr::opts_chunk$set(echo = F)
-library(tidyverse)
-library(glue)
-library(rio)
-week = 2
-current = import('data/current.xlsx',setclass='tibble')
-top = current %>%
-  arrange(desc(change)) %>% 
-  slice_head(n = 5) %>% 
-  select(team,change)
-bottom = current %>%
-  arrange(change) %>% 
-  slice_head(n = 5) %>% 
-  select(team,change)
-```
 
 ```{r}
 knitr::kable(top, caption = "Top 5 weekly change",format = 'markdown')
