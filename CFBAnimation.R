@@ -17,7 +17,7 @@ cfbd_key()
 teams = cfbfastR::cfbd_team_info(only_fbs = T)
 
 year = 2023
-week = 4
+week = 5
 # for(year in 2019:2023){
 # for(week in 0:3){
   # try({
@@ -136,7 +136,7 @@ a = total %>%
   xlim(c(xmin,xmax)) +
   ylim(c(ymax,ymin)) +
   transition_time(week)
-animate(a, nframes = 195, fps = 15, height = 900, width = 1350, end_pause = 30, renderer = gganimate::gifski_renderer(glue::glue("figures/CFBEfficiency-week{week}.gif")))
+animate(a, nframes = 245, fps = 15, height = 900, width = 1350, end_pause = 30, renderer = gganimate::gifski_renderer(glue::glue("figures/CFBEfficiency-week{week}.gif")))
 
 # biggest differences
 current = total %>%
