@@ -3,12 +3,12 @@ title: "Main Post"
 output: 
   html_document:
     keep_md: true
-date: "2023-09-24"
+date: "2023-10-01"
 ---
 
 
 
-This post has been updated for week 4 (see the original post text [here](https://bischrob.github.io/CFBAnimation/WeeklyPost-week1)).
+This post has been updated for week 5 (see the original post text [here](https://bischrob.github.io/CFBAnimation/WeeklyPost-week1)).
 
 This post contains static and animated charts showing the offensive and defensive weekly ratings for all FBS teams together and static charts by conference (using [SP+](https://www.sbnation.com/college-football/2017/10/13/16457830/college-football-advanced-stats-analytics-rankings)---see link for details; link has been updated with no paywall).
 
@@ -29,10 +29,13 @@ You can see all the charts in one place at this [link](../CFBAnimation/MainPost)
 ![all teams week 4](../CFBAnimation/figures/week4sppcfb.png)
  
 
+![all teams week 5](../CFBAnimation/figures/week5sppcfb.png)
+ 
+
 ## All Teams Animated
 
 
-![all teams week 4](../CFBAnimation/figures/CFBEfficiency-week4.gif)
+![all teams week 5](../CFBAnimation/figures/CFBEfficiency-week5.gif)
  
 
 # Conferences
@@ -64,6 +67,12 @@ You can see all the charts in one place at this [link](../CFBAnimation/MainPost)
 ![ACC week 4](../CFBAnimation/figures/week4sppcfb-ACC.png)
 
 
+## ACC week 5
+
+
+![ACC week 5](../CFBAnimation/figures/week5sppcfb-ACC.png)
+
+
 ## American Athletic week 1
 
 
@@ -86,6 +95,12 @@ You can see all the charts in one place at this [link](../CFBAnimation/MainPost)
 
 
 ![American Athletic week 4](../CFBAnimation/figures/week4sppcfb-American Athletic.png)
+
+
+## American Athletic week 5
+
+
+![American Athletic week 5](../CFBAnimation/figures/week5sppcfb-American Athletic.png)
 
 
 ## Big 12 week 1
@@ -112,6 +127,12 @@ You can see all the charts in one place at this [link](../CFBAnimation/MainPost)
 ![Big 12 week 4](../CFBAnimation/figures/week4sppcfb-Big 12.png)
 
 
+## Big 12 week 5
+
+
+![Big 12 week 5](../CFBAnimation/figures/week5sppcfb-Big 12.png)
+
+
 ## Big Ten week 1
 
 
@@ -134,6 +155,12 @@ You can see all the charts in one place at this [link](../CFBAnimation/MainPost)
 
 
 ![Big Ten week 4](../CFBAnimation/figures/week4sppcfb-Big Ten.png)
+
+
+## Big Ten week 5
+
+
+![Big Ten week 5](../CFBAnimation/figures/week5sppcfb-Big Ten.png)
 
 
 ## Conference USA week 1
@@ -160,6 +187,12 @@ You can see all the charts in one place at this [link](../CFBAnimation/MainPost)
 ![Conference USA week 4](../CFBAnimation/figures/week4sppcfb-Conference USA.png)
 
 
+## Conference USA week 5
+
+
+![Conference USA week 5](../CFBAnimation/figures/week5sppcfb-Conference USA.png)
+
+
 ## FBS Independents week 1
 
 
@@ -182,6 +215,12 @@ You can see all the charts in one place at this [link](../CFBAnimation/MainPost)
 
 
 ![FBS Independents week 4](../CFBAnimation/figures/week4sppcfb-FBS Independents.png)
+
+
+## FBS Independents week 5
+
+
+![FBS Independents week 5](../CFBAnimation/figures/week5sppcfb-FBS Independents.png)
 
 
 ## Mid-American week 1
@@ -208,6 +247,12 @@ You can see all the charts in one place at this [link](../CFBAnimation/MainPost)
 ![Mid-American week 4](../CFBAnimation/figures/week4sppcfb-Mid-American.png)
 
 
+## Mid-American week 5
+
+
+![Mid-American week 5](../CFBAnimation/figures/week5sppcfb-Mid-American.png)
+
+
 ## Mountain West week 1
 
 
@@ -230,6 +275,12 @@ You can see all the charts in one place at this [link](../CFBAnimation/MainPost)
 
 
 ![Mountain West week 4](../CFBAnimation/figures/week4sppcfb-Mountain West.png)
+
+
+## Mountain West week 5
+
+
+![Mountain West week 5](../CFBAnimation/figures/week5sppcfb-Mountain West.png)
 
 
 ## Pac-12 week 1
@@ -256,6 +307,12 @@ You can see all the charts in one place at this [link](../CFBAnimation/MainPost)
 ![Pac-12 week 4](../CFBAnimation/figures/week4sppcfb-Pac-12.png)
 
 
+## Pac-12 week 5
+
+
+![Pac-12 week 5](../CFBAnimation/figures/week5sppcfb-Pac-12.png)
+
+
 ## SEC week 1
 
 
@@ -280,6 +337,12 @@ You can see all the charts in one place at this [link](../CFBAnimation/MainPost)
 ![SEC week 4](../CFBAnimation/figures/week4sppcfb-SEC.png)
 
 
+## SEC week 5
+
+
+![SEC week 5](../CFBAnimation/figures/week5sppcfb-SEC.png)
+
+
 ## Sun Belt week 1
 
 
@@ -302,5 +365,11 @@ You can see all the charts in one place at this [link](../CFBAnimation/MainPost)
 
 
 ![Sun Belt week 4](../CFBAnimation/figures/week4sppcfb-Sun Belt.png)
+
+
+## Sun Belt week 5
+
+
+![Sun Belt week 5](../CFBAnimation/figures/week5sppcfb-Sun Belt.png)
 
 Let me know what you think!

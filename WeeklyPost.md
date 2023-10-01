@@ -3,12 +3,12 @@ title: "Weekly Post"
 output: 
   html_document:
     keep_md: true
-date: "2023-09-24"
+date: "2023-10-01"
 ---
 
 
 
-[OC] CFB 2023 Weekly Offensive and Defensive Ratings Animated Week 4
+[OC] CFB 2023 Weekly Offensive and Defensive Ratings Animated Week 5
 
 This is the weekly update for the SP+ CFB rankings included an animated look at the season so far. You can see this week's and prior week's plots [here](https://www.reddit.com/r/CFB/comments/16btt72/oc_cfb_2023_weekly_offensive_and_defensive/?utm_source=share&utm_medium=web2x&context=3).
 
@@ -25,101 +25,101 @@ Here are the top 5 biggest winners and biggest losers. How did your team do?
 
 Table: Top 5 weekly change
 
-|team               | change|
-|:------------------|------:|
-|Georgia Southern   |    5.4|
-|Jacksonville State |    4.6|
-|Miami (OH)         |    4.3|
-|Liberty            |    4.1|
-|Georgia State      |    3.2|
+|team             | change|
+|:----------------|------:|
+|Colorado State   |    5.7|
+|Louisiana Tech   |    4.7|
+|Purdue           |    4.6|
+|Arkansas State   |    4.6|
+|Louisiana Monroe |    4.5|
 
 
 Table: Bottom 5 weekly change
 
 |team       | change|
 |:----------|------:|
-|Notre Dame |   -6.7|
-|Iowa       |   -6.7|
-|Auburn     |   -6.4|
-|Ole Miss   |   -5.6|
-|Minnesota  |   -5.3|
+|USC        |   -4.5|
+|Utah       |   -4.3|
+|Syracuse   |   -3.9|
+|TCU        |   -3.6|
+|Penn State |   -3.4|
 
-## All Teams Week 4
+## All Teams Week 5
 
-![all teams week 4](../CFBAnimation/figures/week4sppcfb.png)
+![all teams week 5](../CFBAnimation/figures/week5sppcfb.png)
 
-## All Teams Week 4 Animated
+## All Teams Week 5 Animated
 
-![all teams week 4 animated](../CFBAnimation/figures/CFBEfficiency-week4.gif)
+![all teams week 5 animated](../CFBAnimation/figures/CFBEfficiency-week5.gif)
 
 # Conferences
 
 *Prior week's ratings are shown using smaller logos
 
 
-## ACC week 4
+## ACC week 5
 
 
-![ACC week 4](../CFBAnimation/figures/week4sppcfb-ACC.png)
+![ACC week 5](../CFBAnimation/figures/week5sppcfb-ACC.png)
 
 
-## American Athletic week 4
+## American Athletic week 5
 
 
-![American Athletic week 4](../CFBAnimation/figures/week4sppcfb-American Athletic.png)
+![American Athletic week 5](../CFBAnimation/figures/week5sppcfb-American Athletic.png)
 
 
-## Big 12 week 4
+## Big 12 week 5
 
 
-![Big 12 week 4](../CFBAnimation/figures/week4sppcfb-Big 12.png)
+![Big 12 week 5](../CFBAnimation/figures/week5sppcfb-Big 12.png)
 
 
-## Big Ten week 4
+## Big Ten week 5
 
 
-![Big Ten week 4](../CFBAnimation/figures/week4sppcfb-Big Ten.png)
+![Big Ten week 5](../CFBAnimation/figures/week5sppcfb-Big Ten.png)
 
 
-## Conference USA week 4
+## Conference USA week 5
 
 
-![Conference USA week 4](../CFBAnimation/figures/week4sppcfb-Conference USA.png)
+![Conference USA week 5](../CFBAnimation/figures/week5sppcfb-Conference USA.png)
 
 
-## FBS Independents week 4
+## FBS Independents week 5
 
 
-![FBS Independents week 4](../CFBAnimation/figures/week4sppcfb-FBS Independents.png)
+![FBS Independents week 5](../CFBAnimation/figures/week5sppcfb-FBS Independents.png)
 
 
-## Mid-American week 4
+## Mid-American week 5
 
 
-![Mid-American week 4](../CFBAnimation/figures/week4sppcfb-Mid-American.png)
+![Mid-American week 5](../CFBAnimation/figures/week5sppcfb-Mid-American.png)
 
 
-## Mountain West week 4
+## Mountain West week 5
 
 
-![Mountain West week 4](../CFBAnimation/figures/week4sppcfb-Mountain West.png)
+![Mountain West week 5](../CFBAnimation/figures/week5sppcfb-Mountain West.png)
 
 
-## Pac-12 week 4
+## Pac-12 week 5
 
 
-![Pac-12 week 4](../CFBAnimation/figures/week4sppcfb-Pac-12.png)
+![Pac-12 week 5](../CFBAnimation/figures/week5sppcfb-Pac-12.png)
 
 
-## SEC week 4
+## SEC week 5
 
 
-![SEC week 4](../CFBAnimation/figures/week4sppcfb-SEC.png)
+![SEC week 5](../CFBAnimation/figures/week5sppcfb-SEC.png)
 
 
-## Sun Belt week 4
+## Sun Belt week 5
 
 
-![Sun Belt week 4](../CFBAnimation/figures/week4sppcfb-Sun Belt.png)
+![Sun Belt week 5](../CFBAnimation/figures/week5sppcfb-Sun Belt.png)
 
 Let me know what you think!

@@ -9,7 +9,7 @@ text <- gsub("\\!\\[", "[", text)
 text <- gsub("\\.\\./", "https://bischrob.github.io/", text)
 writeLines(text, fileName)
 
-week = 4
+week = 5
 file  = "WeeklyPost"
 fileName = paste0(file,'-week',week,'-reddit.md')
 file.copy(paste0(file,".md"),fileName, overwrite = T)
