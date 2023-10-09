@@ -11,7 +11,7 @@ knitr::opts_chunk$set(echo = F)
 library(tidyverse)
 library(glue)
 library(rio)
-weeks = 1:5
+weeks = 1:6
 ```
 
 This post has been updated for week `r weeks[which.max(weeks)]` (see the original post text [here](https://bischrob.github.io/CFBAnimation/WeeklyPost-week1)).
@@ -32,6 +32,14 @@ for(week in weeks){
 
 ```{r, results = 'asis'}
   cat(glue("\n\n![all teams week {week}](../CFBAnimation/figures/CFBEfficiency-week{max(weeks)}.gif)\n\n"),.sep = "\n")
+```
+
+## Conference Overview
+
+These violin plots are arranged by mean SP+ conference rating
+
+```{r, results = 'asis'}
+  cat(glue("\n\n![conferenceOverview week {week}](../CFBAnimation/figures/week{week}sppcfbconferences.png)\n\n"),.sep = "\n")
 ```
 
 # Conferences

@@ -61,6 +61,14 @@ cat(glue("## All Teams Week {week} Animated"))
 cat(glue("![all teams week {week} animated](../CFBAnimation/figures/CFBEfficiency-week{week}.gif)"))
 ```
 
+## Conference Overview
+
+These violin plots are arranged by mean SP+ conference rating
+
+```{r, results = 'asis'}
+  cat(glue("\n\n![conferenceOverview week {week}](../CFBAnimation/figures/week{week}sppcfbconferences.png)\n\n"),.sep = "\n")
+```
+
 # Conferences
 
 *Prior week's ratings are shown using smaller logos

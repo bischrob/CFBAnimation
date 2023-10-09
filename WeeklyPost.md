@@ -3,7 +3,7 @@ title: "Weekly Post"
 output: 
   html_document:
     keep_md: true
-date: "2023-10-01"
+date: "2023-10-09"
 ---
 
 
@@ -25,24 +25,24 @@ Here are the top 5 biggest winners and biggest losers. How did your team do?
 
 Table: Top 5 weekly change
 
-|team             | change|
-|:----------------|------:|
-|Colorado State   |    5.7|
-|Louisiana Tech   |    4.7|
-|Purdue           |    4.6|
-|Arkansas State   |    4.6|
-|Louisiana Monroe |    4.5|
+|team              | change|
+|:-----------------|------:|
+|Utah State        |    3.9|
+|Kansas            |    3.3|
+|Louisville        |    3.0|
+|Northern Illinois |    2.9|
+|Arizona           |    2.9|
 
 
 Table: Bottom 5 weekly change
 
-|team       | change|
-|:----------|------:|
-|USC        |   -4.5|
-|Utah       |   -4.3|
-|Syracuse   |   -3.9|
-|TCU        |   -3.6|
-|Penn State |   -3.4|
+|team             | change|
+|:----------------|------:|
+|Liberty          |   -5.0|
+|Marshall         |   -4.1|
+|Central Michigan |   -3.7|
+|Notre Dame       |   -3.6|
+|Miami            |   -3.6|
 
 ## All Teams Week 5
 
@@ -51,6 +51,14 @@ Table: Bottom 5 weekly change
 ## All Teams Week 5 Animated
 
 ![all teams week 5 animated](../CFBAnimation/figures/CFBEfficiency-week5.gif)
+
+## Conference Overview
+
+These violin plots are arranged by mean SP+ conference rating
+
+
+![conferenceOverview week 5](../CFBAnimation/figures/week5sppcfbconferences.png)
+ 
 
 # Conferences
 
