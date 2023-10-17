@@ -3,12 +3,12 @@ title: "Main Post"
 output: 
   html_document:
     keep_md: true
-date: "2023-10-09"
+date: "2023-10-17"
 ---
 
 
 
-This post has been updated for week 6 (see the original post text [here](https://bischrob.github.io/CFBAnimation/WeeklyPost-week1)).
+This post has been updated for week 7 (see the original post text [here](https://bischrob.github.io/CFBAnimation/WeeklyPost-week1)).
 
 This post contains static and animated charts showing the offensive and defensive weekly ratings for all FBS teams together and static charts by conference (using [SP+](https://www.sbnation.com/college-football/2017/10/13/16457830/college-football-advanced-stats-analytics-rankings)---see link for details; link has been updated with no paywall).
 
@@ -35,10 +35,13 @@ You can see all the charts in one place at this [link](../CFBAnimation/MainPost)
 ![all teams week 6](../CFBAnimation/figures/week6sppcfb.png)
  
 
+![all teams week 7](../CFBAnimation/figures/week7sppcfb.png)
+ 
+
 ## All Teams Animated
 
 
-![all teams week 6](../CFBAnimation/figures/CFBEfficiency-week6.gif)
+![all teams week 7](../CFBAnimation/figures/CFBEfficiency-week7.gif)
  
 
 ## Conference Overview
@@ -46,7 +49,7 @@ You can see all the charts in one place at this [link](../CFBAnimation/MainPost)
 These violin plots are arranged by mean SP+ conference rating
 
 
-![conferenceOverview week 6](../CFBAnimation/figures/week6sppcfbconferences.png)
+![conferenceOverview week 7](../CFBAnimation/figures/week7sppcfbconferences.png)
  
 
 # Conferences
@@ -90,6 +93,12 @@ These violin plots are arranged by mean SP+ conference rating
 ![ACC week 6](../CFBAnimation/figures/week6sppcfb-ACC.png)
 
 
+## ACC week 7
+
+
+![ACC week 7](../CFBAnimation/figures/week7sppcfb-ACC.png)
+
+
 ## American Athletic week 1
 
 
@@ -124,6 +133,12 @@ These violin plots are arranged by mean SP+ conference rating
 
 
 ![American Athletic week 6](../CFBAnimation/figures/week6sppcfb-American Athletic.png)
+
+
+## American Athletic week 7
+
+
+![American Athletic week 7](../CFBAnimation/figures/week7sppcfb-American Athletic.png)
 
 
 ## Big 12 week 1
@@ -162,6 +177,12 @@ These violin plots are arranged by mean SP+ conference rating
 ![Big 12 week 6](../CFBAnimation/figures/week6sppcfb-Big 12.png)
 
 
+## Big 12 week 7
+
+
+![Big 12 week 7](../CFBAnimation/figures/week7sppcfb-Big 12.png)
+
+
 ## Big Ten week 1
 
 
@@ -196,6 +217,12 @@ These violin plots are arranged by mean SP+ conference rating
 
 
 ![Big Ten week 6](../CFBAnimation/figures/week6sppcfb-Big Ten.png)
+
+
+## Big Ten week 7
+
+
+![Big Ten week 7](../CFBAnimation/figures/week7sppcfb-Big Ten.png)
 
 
 ## Conference USA week 1
@@ -234,6 +261,12 @@ These violin plots are arranged by mean SP+ conference rating
 ![Conference USA week 6](../CFBAnimation/figures/week6sppcfb-Conference USA.png)
 
 
+## Conference USA week 7
+
+
+![Conference USA week 7](../CFBAnimation/figures/week7sppcfb-Conference USA.png)
+
+
 ## FBS Independents week 1
 
 
@@ -268,6 +301,12 @@ These violin plots are arranged by mean SP+ conference rating
 
 
 ![FBS Independents week 6](../CFBAnimation/figures/week6sppcfb-FBS Independents.png)
+
+
+## FBS Independents week 7
+
+
+![FBS Independents week 7](../CFBAnimation/figures/week7sppcfb-FBS Independents.png)
 
 
 ## Mid-American week 1
@@ -306,6 +345,12 @@ These violin plots are arranged by mean SP+ conference rating
 ![Mid-American week 6](../CFBAnimation/figures/week6sppcfb-Mid-American.png)
 
 
+## Mid-American week 7
+
+
+![Mid-American week 7](../CFBAnimation/figures/week7sppcfb-Mid-American.png)
+
+
 ## Mountain West week 1
 
 
@@ -340,6 +385,12 @@ These violin plots are arranged by mean SP+ conference rating
 
 
 ![Mountain West week 6](../CFBAnimation/figures/week6sppcfb-Mountain West.png)
+
+
+## Mountain West week 7
+
+
+![Mountain West week 7](../CFBAnimation/figures/week7sppcfb-Mountain West.png)
 
 
 ## Pac-12 week 1
@@ -378,6 +429,12 @@ These violin plots are arranged by mean SP+ conference rating
 ![Pac-12 week 6](../CFBAnimation/figures/week6sppcfb-Pac-12.png)
 
 
+## Pac-12 week 7
+
+
+![Pac-12 week 7](../CFBAnimation/figures/week7sppcfb-Pac-12.png)
+
+
 ## SEC week 1
 
 
@@ -414,6 +471,12 @@ These violin plots are arranged by mean SP+ conference rating
 ![SEC week 6](../CFBAnimation/figures/week6sppcfb-SEC.png)
 
 
+## SEC week 7
+
+
+![SEC week 7](../CFBAnimation/figures/week7sppcfb-SEC.png)
+
+
 ## Sun Belt week 1
 
 
@@ -448,5 +511,11 @@ These violin plots are arranged by mean SP+ conference rating
 
 
 ![Sun Belt week 6](../CFBAnimation/figures/week6sppcfb-Sun Belt.png)
+
+
+## Sun Belt week 7
+
+
+![Sun Belt week 7](../CFBAnimation/figures/week7sppcfb-Sun Belt.png)
 
 Let me know what you think!
