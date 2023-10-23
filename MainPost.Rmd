@@ -11,7 +11,7 @@ knitr::opts_chunk$set(echo = F)
 library(tidyverse)
 library(glue)
 library(rio)
-weeks = 1:7
+weeks = 1:8
 ```
 
 This post has been updated for week `r weeks[which.max(weeks)]` (see the original post text [here](https://bischrob.github.io/CFBAnimation/WeeklyPost-week1)).
