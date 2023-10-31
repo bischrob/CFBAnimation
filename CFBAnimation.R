@@ -17,7 +17,7 @@ cfbd_key()
 teams = cfbfastR::cfbd_team_info(only_fbs = T)
 
 year = 2023
-week = 8
+week = 9
 # for(year in 2019:2023){
 # for(week in 0:3){
   # try({
